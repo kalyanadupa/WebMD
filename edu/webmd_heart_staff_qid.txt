@@ -1,0 +1,12 @@
+www.med.umich.edu	88
+www.westga.edu	41
+www.health.uab.edu	19
+www.health.harvard.edu	13
+www.cedars-sinai.edu	5
+www.umm.edu	4
+www.d.umn.edu	3
+www.researchnews.osu.edu	3
+www.news.harvard.edu	2
+www.nymc.edu	2
+www.med.ucla.edu	1
+www.uga.edu	1

@@ -1,0 +1,17 @@
+www.nlm.nih.gov	2493
+www.nhlbi.nih.gov	423
+www.ncbi.nlm.nih.gov	111
+www.4woman.gov	88
+www.clinicaltrials.gov	69
+www.fda.gov	68
+www.findahealthcenter.hrsa.gov	52
+www.cdc.gov	14
+www.whitehouse.gov	5
+www.ahrq.gov	3
+www.cms.gov	2
+www.cc.nih.gov	2
+www.niehs.nih.gov	1
+ods.od.nih.gov	1
+www.ninds.nih.gov	1
+www.nidcd.nih.gov	1
+www.epa.gov	1

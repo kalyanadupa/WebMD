@@ -1,0 +1,6 @@
+www.med.upenn.edu	5
+www.washington.edu	3
+www.psych.uic.edu	2
+www.semel.ucla.edu	1
+www.med.umich.edu	1
+www.pacwcbt.pitt.edu	1

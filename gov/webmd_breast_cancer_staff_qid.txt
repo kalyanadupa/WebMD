@@ -1,0 +1,12 @@
+www.whitehouse.gov	15
+www.healthcare.gov	4
+www.ncbi.nlm.nih.gov	4
+www.clinicaltrials.gov	4
+www.pcip.gov	3
+www.ssa.gov	3
+www.cancer.gov	2
+republicanleader.house.gov	2
+www.pubmedcentral.nih.gov	2
+www.cdc.gov	1
+cissecure.nci.nih.gov	1
+www.eeoc.gov	1
