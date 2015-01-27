@@ -47,34 +47,40 @@ public class WebmdURLExtractor {
         int count = 0;
         HashMap<String, Integer> hashmap = new HashMap<String, Integer>();
         HashMap<String, Integer> hashmap1 = new HashMap<String, Integer>();
-        HashMap<String, Integer> hashmap2 = new HashMap<String, Integer>();
-        HashMap<String, Integer> hashmap3 = new HashMap<String, Integer>();
         HashMap<String, Integer> userMap = new HashMap<String, Integer>();
+        HashMap<String, Integer> helProMap = new HashMap<String, Integer>();
+        HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
         //String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
-        String[] fileNames = {"webmd_adhd"};
+        String[] fileNames = {"webmd_addiction"};
         //*******************************For the matchings of staff and qid**************************/////
         
         for (String fileLog : fileNames) {
+            int HelPro = 0;
+            int staffCount = 0;
+            int q1Post = 0;
+            int q2Post = 0;
+            int q3Post = 0;
+            int staffPost = 0;
+            int helProPost = 0;
             hashmap = new HashMap<String, Integer>();
             hashmap1 = new HashMap<String, Integer>();
-            hashmap2 = new HashMap<String, Integer>();
-            hashmap3 = new HashMap<String, Integer>();
             userMap = new HashMap<String, Integer>();
+            helProMap = new HashMap<String, Integer>();
+            staffMap = new HashMap<String, Integer>();
             uniqueSet = new ArrayList<String>();
             BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
             List<String> qidArray = new ArrayList<String>();
             BufferedReader in = new BufferedReader(new FileReader("data/" + fileLog + "_staff_qid.csv")); // qid file 
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("newTest/"+fileLog + "_PU.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/"+fileLog + "_PU.txt"));
 
             String s = in.readLine();
             while ((s = in.readLine()) != null) {
                 qidArray.add(s);
             }
             
-
             while (br.ready()) {
                 String check = br.readLine();
                 String[] tokenizedTerms1 = check.split("\"");
@@ -83,46 +89,78 @@ public class WebmdURLExtractor {
                 String token = tokenizedTerms[1];
                 String nameToken = tokenizedTerms1[3];
                               
-                if(nameToken.length() < 3)
-                    continue;
-                if(nameToken.toUpperCase().contains(", MSN") || nameToken.toUpperCase().contains(", RNP") || nameToken.toUpperCase().contains(", CDOE") || nameToken.toUpperCase().contains(", MD") || nameToken.toUpperCase().contains(", MPH") || nameToken.toUpperCase().contains(", PHD") || nameToken.toUpperCase().contains(", PT")|| nameToken.toUpperCase().contains(", DSc") || nameToken.toUpperCase().contains(", NCS") || nameToken.toUpperCase().contains(", MSCS") || nameToken.toUpperCase().contains(", RN") || nameToken.contains("WebMD_Staff"))
-                    continue;
-                if(nameToken.charAt(nameToken.length() - 1) == ' '){
-                    nameToken = nameToken.replace(nameToken.substring(nameToken.length()-1), "");
-                }
+//                if(nameToken.length() < 3)
+//                    continue;
+//                if(nameToken.charAt(nameToken.length() - 1) == ' '){
+//                    nameToken = nameToken.replace(nameToken.substring(nameToken.length()-1), "");
+//                }                
+                if(check.contains("http") || check.contains("www")){
+                    if (nameToken.toUpperCase().contains(", MSN") || nameToken.toUpperCase().contains(", RNP") || nameToken.toUpperCase().contains(", CDOE") || nameToken.toUpperCase().contains(", MD") || nameToken.toUpperCase().contains(", MPH") || nameToken.toUpperCase().contains(", PHD") || nameToken.toUpperCase().contains(", PT") || nameToken.toUpperCase().contains(", DSc") || nameToken.toUpperCase().contains(", NCS") || nameToken.toUpperCase().contains(", MSCS") || nameToken.toUpperCase().contains(", RN")) {
+                        helProPost++;
+                        if (helProMap.get(nameToken) == null) {
+                            helProMap.put(nameToken, 1);
+                        } else {
+                            helProMap.put(nameToken, helProMap.get(nameToken) + 1);
+                        }
+                        continue;
+                    }
+                    if (nameToken.contains("WebMD_Staff")) {
+                        staffPost++;
+                        if (staffMap.get(nameToken) == null) {
+                            staffMap.put(nameToken, 1);
+                        } else {
+                            staffMap.put(nameToken, staffMap.get(nameToken) + 1);
+                        }
+                        continue;
+                    }
 
-                if(userMap.get(nameToken) == null)
-                    userMap.put(nameToken, 1);
-                else
-                    userMap.put(nameToken, userMap.get(nameToken)+1);
+                    if (userMap.get(nameToken) == null) {
+                        userMap.put(nameToken, 1);
+                    } else {
+                        userMap.put(nameToken, userMap.get(nameToken) + 1);
+                    }
+                }
             }
             br.close();
+            //System.out.println("Total Size = "+ userMap.size() +"\n staff Size"+ staffMap.size() +"\n helPro"+ helProMap.size());
             
-            ValueComparator<String, Integer> comparator = new ValueComparator<String, Integer>(userMap);
-            Map<String, Integer> sortedUserMap = new TreeMap<String, Integer>(comparator);
-            sortedUserMap.putAll(userMap);
+//            ValueComparator<String, Integer> comparator = new ValueComparator<String, Integer>(userMap);
+//            Map<String, Integer> sortedUserMap = new TreeMap<String, Integer>(comparator);
+//            sortedUserMap.putAll(userMap);
+//
+//            List<String> sortedList = new ArrayList<String>(sortedUserMap.keySet());
 
-            List<String> sortedList = new ArrayList<String>(sortedUserMap.keySet());
-
-            System.out.println(sortedUserMap);
+            //System.out.println(sortedUserMap);
             
 //            System.out.println(sortedList);
-            
+            SortedSet<Map.Entry<String, Integer>> sortedUserMap = entriesSortedByValues(userMap);
+            //System.out.println(sortedUserMap);
             br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
-            int userSize = sortedList.size();
+            int userSize = sortedUserMap.size();
+            //System.out.println("sorted size: " + sortedUserMap.size() +" original size"+userMap.size() );
             int top25 = userSize / 4;
-            int mid50 = userSize - top25;
-            System.out.println("top25 "+ top25 + " mid50 "+ mid50 + " userSize " +userSize);
-            for (Map.Entry<String, Integer> entry : sortedUserMap.entrySet()) {
-                int selectedUserIndex = sortedList.indexOf(entry.getKey());
-                if(selectedUserIndex <= top25)
-                    System.out.print("First Class \t");
-                else if((selectedUserIndex <= mid50)&&(selectedUserIndex > top25))
-                    System.out.print("Second Class \t");
-                else
-                    System.out.print("Third Class \t");
-                System.out.println(entry.getKey() +"\t"+ entry.getValue());
-            }
+            int mid50 = userSize - top25*2;
+            HelPro = helProMap.size();
+            staffCount = staffMap.size();
+            staffCount = staffMap.size();
+            System.out.println("File Name: \t" + fileLog);
+            System.out.println("Q1 User Count: \t"+top25);
+            System.out.println("Q2 User Count: \t"+mid50);
+              q3Post = userSize - top25 - mid50;
+            System.out.println("Q4 User Count: \t"+q3Post);
+            System.out.println("Health Pro User Count: \t"+HelPro+"\tHealth Pro Post Count"+"\t"+helProPost);
+            System.out.println("Staff User Count: \t"+staffCount+"\tStaff Post Count: "+"\t"+staffPost);
+            mid50 = userSize - top25;
+//            for (Map.Entry<String, Integer> entry : sortedUserMap.entrySet()) {
+//                int selectedUserIndex = sortedList.indexOf(entry.getKey());
+//                if(selectedUserIndex <= top25)
+//                    System.out.print("First Class \t");
+//                else if((selectedUserIndex <= mid50)&&(selectedUserIndex > top25))
+//                    System.out.print("Second Class \t");
+//                else
+//                    System.out.print("Third Class \t");
+//                System.out.println(entry.getKey() +"\t"+ entry.getValue());
+//            }
             
             while (br.ready()) {
                 String check = br.readLine();
@@ -136,8 +174,10 @@ public class WebmdURLExtractor {
                 if (nameToken.charAt(nameToken.length() - 1) == ' ') {
                     nameToken = nameToken.replace(nameToken.substring(nameToken.length() - 1), "");
                 }
-                int selectedUserIndex = sortedList.indexOf(nameToken);
-                if(selectedUserIndex <= top25){
+                int selectedUserIndex = 3;
+                //int selectedUserIndex = sortedList.indexOf(nameToken);
+                if((selectedUserIndex > mid50)&&(selectedUserIndex > top25)){
+                    q1Post ++;
                     if ((check.contains("www")) | (check.contains("http"))) {
 
                         String check2 = " ";
@@ -197,93 +237,13 @@ public class WebmdURLExtractor {
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Entry<String, Integer> ent : sortedJournals) {
                 writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
-                System.out.println(ent.getKey() + "\t" + ent.getValue());
+                //System.out.println(ent.getKey() + "\t" + ent.getValue());
             }
-            
+//            System.out.println(q1Post);
             writer.close();
+            
         }
 
-//        //*******************************For the matchings of  qid**************************/////
-//        System.out.println("for qid ");
-//        System.out.println(""); 
-//       for (String fileLog : fileNames) {
-//            hashmap = new HashMap<String, Integer>();
-//            uniqueSet = new ArrayList<String>();
-//            BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
-//            List<String> qidArray = new ArrayList<String>();
-//            BufferedReader in = new BufferedReader(new FileReader("data/" + fileLog + "_staff_qid.csv")); // qid file 
-//
-//            BufferedWriter writer2 = new BufferedWriter(new FileWriter("newTest/"+fileLog + "_qid" + ".txt"));
-//
-//            String s = in.readLine();
-//            while ((s = in.readLine()) != null) {
-//                qidArray.add(s);
-//            }
-//
-//            while (br.ready()) {
-//                String check = br.readLine();
-//                String[] tokenizedTerms = check.split(",");
-//                String token = tokenizedTerms[1];
-//                String nameToken = tokenizedTerms[3];
-//                String[] tokenizedTerms1 = nameToken.split("_");
-//
-//                //*******************************Find Phenotype (Website Link)**************************/////
-//                if ((qidArray.contains(token)) && ((check.contains("www")) | (check.contains("http")))) {
-//
-//                    String check2 = " ";
-//                    String check3 = " ";
-//                    Matcher m8 = p8.matcher(check);
-//                    List<String> matchstring8 = new ArrayList<String>();
-//
-//                    while (m8.find()) {
-//                        check2 = check2 + "" + m8.group();
-//                        matchstring8.add(m8.group());
-////                    System.out.println(m8.group());
-//                    }
-//
-//                    Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
-//                    Matcher m9 = p9.matcher(check2);
-//                    List<String> matchstring9 = new ArrayList<String>();
-//                    while (m9.find()) {
-//                        check3 = check3 + "" + m9.group();
-//                        matchstring9.add(m9.group());
-////                      System.out.println(m9.group());
-//                    }
-//
-//                    Pattern p10 = Pattern.compile("www.*?(\\.com(?=\\W)|\\.com\\,?\\)?|\\.org(?=\\W)|\\.ORG(?=\\W)|\\.net(?=\\W)|\\.gov(?=\\W)|\\.co.uk|\\.html|\\.htm|\\.asp|\\.aspx|\\.edu|\\.us|treatment|\\-men(?=\\W)|\\.pdf|\\.ca\\/servlet|\\.ch(?=\\W)|\\.coream(?=\\W)|\\.ee(?=\\W))|www.*?(?=\\/)|(?<=http\\:\\/\\/).*?(?=\\/)|(?<=https\\:\\/\\/).*?(?=\\/)");
-//                    Matcher m10 = p10.matcher(check3);
-//                    List<String> matchstring10 = new ArrayList<String>();
-//
-//                    while (m10.find()) {
-//                        matchstring10.add(m10.group());
-////				  System.out.println(m10.group());
-//
-//                        //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
-//                        for (int i = 0; i < matchstring10.size(); i++) {
-//                            if (uniqueSet.contains(matchstring10.get(i))) {
-//                                int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
-//                                elementCount++;
-//                                hashmap.put(matchstring10.get(i), elementCount);
-//                            } else {
-//                                uniqueSet.add(matchstring10.get(i));
-//                                hashmap.put(matchstring10.get(i), 1);
-//                            }
-//                        }
-//                    }
-//
-//                }
-//
-//            }
-//            br.close();
-//
-//		//*******************************For printing hashmap in console (without sorting)**************************/////
-//		/*System.out.println(hashmap);        
-//             Map<String, Integer> map = new TreeMap<String, Integer>(hashmap);
-//             System.out.println(map);*/
-//            //*******************************For Sorting hashmap according to frequency**************************/////
-//            
-//            writer2.close();
-//        }
     }
 
     

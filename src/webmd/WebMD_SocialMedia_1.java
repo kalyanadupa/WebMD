@@ -37,7 +37,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
  *
  * @author Kalyan
  */
-public class WebMD_SocialMedia {
+public class WebMD {
 
      /**
      * @param args
@@ -118,10 +118,10 @@ public class WebMD_SocialMedia {
             br.close();
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Entry<String, Integer> ent : sortedJournals) {
-                if (ent.getKey().contains("exchanges.webmd") || ent.getKey().contains("blogs.webmd") || ent.getKey().contains("facebook") || ent.getKey().contains("youtube") || ent.getKey().contains("intherooms") || ent.getKey().contains("friendsofbill") || ent.getKey().contains("rightactionforwomen") || ent.getKey().contains("hillbillyhousewife") || ent.getKey().contains("boards.webmd") || ent.getKey().contains("foxnews")) {
+                //if (ent.getKey().contains(".org")) {
                     writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                     System.out.println(ent.getKey() + "\t" + ent.getValue());
-                }
+                //}
             }
 
             writer.close();

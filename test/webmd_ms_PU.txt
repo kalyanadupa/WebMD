@@ -1,0 +1,4 @@
+www.asap.org	3
+www.nationalmssociety.org	3
+www.clams.org	2
+www.youtube.com	1
