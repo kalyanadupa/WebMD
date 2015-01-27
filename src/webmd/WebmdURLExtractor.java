@@ -177,7 +177,7 @@ public class WebmdURLExtractor {
                 }
                 
                 int selectedUserIndex = sortedUserList.indexOf(nameToken);
-                if((selectedUserIndex < mid50)&&(selectedUserIndex <= top25)&&(selectedUserIndex != -1)){
+                if((selectedUserIndex > mid50)&&(selectedUserIndex > top25)&&(selectedUserIndex != -1)){
                     if ((check.contains("www")) | (check.contains("http"))) {
                         q1Post ++;
                         String check2 = " ";
@@ -225,103 +225,6 @@ public class WebmdURLExtractor {
 
                     }
                     
-                }
-                else if ((selectedUserIndex <= mid50) && (selectedUserIndex > top25) && (selectedUserIndex != -1)) {
-                    if ((check.contains("www")) | (check.contains("http"))) {
-                        q2Post++;
-                        String check2 = " ";
-                        String check3 = " ";
-                        Matcher m8 = p8.matcher(check);
-                        List<String> matchstring8 = new ArrayList<String>();
-
-                        while (m8.find()) {
-                            check2 = check2 + "" + m8.group();
-                            matchstring8.add(m8.group());
-//                    System.out.println(m8.group());
-                        }
-
-                        Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
-                        Matcher m9 = p9.matcher(check2);
-                        List<String> matchstring9 = new ArrayList<String>();
-                        while (m9.find()) {
-                            check3 = check3 + "" + m9.group();
-                            matchstring9.add(m9.group());
-//                      System.out.println(m9.group());
-                        }
-
-                        Pattern p10 = Pattern.compile("www.*?(\\.com(?=\\W)|\\.com\\,?\\)?|\\.org(?=\\W)|\\.ORG(?=\\W)|\\.net(?=\\W)|\\.gov(?=\\W)|\\.co.uk|\\.html|\\.htm|\\.asp|\\.aspx|\\.edu|\\.us|treatment|\\-men(?=\\W)|\\.pdf|\\.ca\\/servlet|\\.ch(?=\\W)|\\.coream(?=\\W)|\\.ee(?=\\W))|www.*?(?=\\/)|(?<=http\\:\\/\\/).*?(?=\\/)|(?<=https\\:\\/\\/).*?(?=\\/)");
-                        Matcher m10 = p10.matcher(check3);
-                        List<String> matchstring10 = new ArrayList<String>();
-
-                        while (m10.find()) {
-                            matchstring10.add(m10.group());
-//				  System.out.println(m10.group());
-
-                            //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
-                            for (int i = 0; i < matchstring10.size(); i++) {
-                                if (uniqueSet.contains(matchstring10.get(i))) {
-                                    int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
-                                    elementCount++;
-                                    hashmap.put(matchstring10.get(i), elementCount);
-                                    hashmap1.put(matchstring10.get(i), elementCount);
-                                } else {
-                                    uniqueSet.add(matchstring10.get(i));
-                                    hashmap.put(matchstring10.get(i), 1);
-                                    hashmap1.put(matchstring10.get(i), 1);
-                                }
-                            }
-                        }
-
-                    }
-                }
-                else if ((selectedUserIndex > mid50) && (selectedUserIndex > top25) && (selectedUserIndex != -1)) {
-                    if ((check.contains("www")) | (check.contains("http"))) {
-                        q3Post++;
-                        String check2 = " ";
-                        String check3 = " ";
-                        Matcher m8 = p8.matcher(check);
-                        List<String> matchstring8 = new ArrayList<String>();
-
-                        while (m8.find()) {
-                            check2 = check2 + "" + m8.group();
-                            matchstring8.add(m8.group());
-//                    System.out.println(m8.group());
-                        }
-
-                        Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
-                        Matcher m9 = p9.matcher(check2);
-                        List<String> matchstring9 = new ArrayList<String>();
-                        while (m9.find()) {
-                            check3 = check3 + "" + m9.group();
-                            matchstring9.add(m9.group());
-//                      System.out.println(m9.group());
-                        }
-
-                        Pattern p10 = Pattern.compile("www.*?(\\.com(?=\\W)|\\.com\\,?\\)?|\\.org(?=\\W)|\\.ORG(?=\\W)|\\.net(?=\\W)|\\.gov(?=\\W)|\\.co.uk|\\.html|\\.htm|\\.asp|\\.aspx|\\.edu|\\.us|treatment|\\-men(?=\\W)|\\.pdf|\\.ca\\/servlet|\\.ch(?=\\W)|\\.coream(?=\\W)|\\.ee(?=\\W))|www.*?(?=\\/)|(?<=http\\:\\/\\/).*?(?=\\/)|(?<=https\\:\\/\\/).*?(?=\\/)");
-                        Matcher m10 = p10.matcher(check3);
-                        List<String> matchstring10 = new ArrayList<String>();
-
-                        while (m10.find()) {
-                            matchstring10.add(m10.group());
-//				  System.out.println(m10.group());
-
-                            //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
-                            for (int i = 0; i < matchstring10.size(); i++) {
-                                if (uniqueSet.contains(matchstring10.get(i))) {
-                                    int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
-                                    elementCount++;
-                                    hashmap.put(matchstring10.get(i), elementCount);
-                                    hashmap1.put(matchstring10.get(i), elementCount);
-                                } else {
-                                    uniqueSet.add(matchstring10.get(i));
-                                    hashmap.put(matchstring10.get(i), 1);
-                                    hashmap1.put(matchstring10.get(i), 1);
-                                }
-                            }
-                        }
-
-                    }
-
                 }                
 
                 //*******************************Find Phenotype (Website Link)**************************/////
@@ -330,33 +233,6 @@ public class WebmdURLExtractor {
 
             }
             br.close();
-//            Q1 User Count: 
-//Q2 User Count: 
-//Q4 User Count: 
-//Health Pro User Count: 
-//Staff User Count: 
-//
-//Q1 user Post Count
-//Q2 - Q3 user Post Count
-//Q4 user Post Count
-//Health Pro user Post Count
-//WebMD Staff user Post Count
-            int q4Post = 0;
-            mid50 = userSize - top25 * 2;
-            System.out.println(fileLog);
-            System.out.println(top25);
-            System.out.println(mid50);
-            q4Post = userSize - top25 - mid50;
-            System.out.println(q4Post);
-            System.out.println(HelPro );
-            System.out.println(staffCount);            
-            System.out.println("");
-            System.out.println(q1Post);
-            System.out.println(q2Post);
-            System.out.println(q3Post);
-            System.out.println(helProPost);
-            System.out.println(staffPost);
-            System.out.println("\n\n");
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Entry<String, Integer> ent : sortedJournals) {
                 writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
