@@ -49,7 +49,8 @@ public class WebMD {
         HashMap<String, Integer> hashmap = new HashMap<String, Integer>();
         HashMap<String, Integer> userMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
-        Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
+        Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
+        //Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
         String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
         //*******************************For the matchings of staff and qid**************************/////
 
@@ -118,96 +119,16 @@ public class WebMD {
             br.close();
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Entry<String, Integer> ent : sortedJournals) {
-                if (ent.getKey().contains("exchanges.webmd") || ent.getKey().contains("blogs.webmd") || ent.getKey().contains("facebook") || ent.getKey().contains("youtube") || ent.getKey().contains("intherooms") || ent.getKey().contains("friendsofbill") || ent.getKey().contains("rightactionforwomen") || ent.getKey().contains("hillbillyhousewife") || ent.getKey().contains("boards.webmd") || ent.getKey().contains("foxnews")) {
+                //if (ent.getKey().contains("exchanges.webmd") || ent.getKey().contains("blogs.webmd") || ent.getKey().contains("facebook") || ent.getKey().contains("youtube") || ent.getKey().contains("intherooms") || ent.getKey().contains("friendsofbill") || ent.getKey().contains("rightactionforwomen") || ent.getKey().contains("hillbillyhousewife") || ent.getKey().contains("boards.webmd") || ent.getKey().contains("foxnews")) {
                     writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                     System.out.println(ent.getKey() + "\t" + ent.getValue());
-                }
+                //}
             }
 
             writer.close();
         }
 
-//        //*******************************For the matchings of  qid**************************/////
-//        System.out.println("for qid ");
-//        System.out.println(""); 
-//       for (String fileLog : fileNames) {
-//            hashmap = new HashMap<String, Integer>();
-//            uniqueSet = new ArrayList<String>();
-//            BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
-//            List<String> qidArray = new ArrayList<String>();
-//            BufferedReader in = new BufferedReader(new FileReader("data/" + fileLog + "_staff_qid.csv")); // qid file 
-//
-//            BufferedWriter writer2 = new BufferedWriter(new FileWriter("newTest/"+fileLog + "_qid" + ".txt"));
-//
-//            String s = in.readLine();
-//            while ((s = in.readLine()) != null) {
-//                qidArray.add(s);
-//            }
-//
-//            while (br.ready()) {
-//                String check = br.readLine();
-//                String[] tokenizedTerms = check.split(",");
-//                String token = tokenizedTerms[1];
-//                String nameToken = tokenizedTerms[3];
-//                String[] tokenizedTerms1 = nameToken.split("_");
-//
-//                //*******************************Find Phenotype (Website Link)**************************/////
-//                if ((qidArray.contains(token)) && ((check.contains("www")) | (check.contains("http")))) {
-//
-//                    String check2 = " ";
-//                    String check3 = " ";
-//                    Matcher m8 = p8.matcher(check);
-//                    List<String> matchstring8 = new ArrayList<String>();
-//
-//                    while (m8.find()) {
-//                        check2 = check2 + "" + m8.group();
-//                        matchstring8.add(m8.group());
-////                    System.out.println(m8.group());
-//                    }
-//
-//                    Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
-//                    Matcher m9 = p9.matcher(check2);
-//                    List<String> matchstring9 = new ArrayList<String>();
-//                    while (m9.find()) {
-//                        check3 = check3 + "" + m9.group();
-//                        matchstring9.add(m9.group());
-////                      System.out.println(m9.group());
-//                    }
-//
-//                    Pattern p10 = Pattern.compile("www.*?(\\.com(?=\\W)|\\.com\\,?\\)?|\\.org(?=\\W)|\\.ORG(?=\\W)|\\.net(?=\\W)|\\.gov(?=\\W)|\\.co.uk|\\.html|\\.htm|\\.asp|\\.aspx|\\.edu|\\.us|treatment|\\-men(?=\\W)|\\.pdf|\\.ca\\/servlet|\\.ch(?=\\W)|\\.coream(?=\\W)|\\.ee(?=\\W))|www.*?(?=\\/)|(?<=http\\:\\/\\/).*?(?=\\/)|(?<=https\\:\\/\\/).*?(?=\\/)");
-//                    Matcher m10 = p10.matcher(check3);
-//                    List<String> matchstring10 = new ArrayList<String>();
-//
-//                    while (m10.find()) {
-//                        matchstring10.add(m10.group());
-////				  System.out.println(m10.group());
-//
-//                        //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
-//                        for (int i = 0; i < matchstring10.size(); i++) {
-//                            if (uniqueSet.contains(matchstring10.get(i))) {
-//                                int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
-//                                elementCount++;
-//                                hashmap.put(matchstring10.get(i), elementCount);
-//                            } else {
-//                                uniqueSet.add(matchstring10.get(i));
-//                                hashmap.put(matchstring10.get(i), 1);
-//                            }
-//                        }
-//                    }
-//
-//                }
-//
-//            }
-//            br.close();
-//
-//		//*******************************For printing hashmap in console (without sorting)**************************/////
-//		/*System.out.println(hashmap);        
-//             Map<String, Integer> map = new TreeMap<String, Integer>(hashmap);
-//             System.out.println(map);*/
-//            //*******************************For Sorting hashmap according to frequency**************************/////
-//            
-//            writer2.close();
-//        }
+
     }
 
     static class ValueComparator<K, V extends Comparable<V>> implements Comparator<K> {

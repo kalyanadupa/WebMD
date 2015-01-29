@@ -52,8 +52,8 @@ public class WebmdURLExtractor {
         HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
-        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
-        //String[] fileNames = {"webmd_addiction"};
+        //String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
+        String[] fileNames = {"webmd_fkids"};
         //*******************************For the matchings of staff and qid**************************/////
         
         for (String fileLog : fileNames) {
@@ -177,7 +177,9 @@ public class WebmdURLExtractor {
                 }
                 
                 int selectedUserIndex = sortedUserList.indexOf(nameToken);
-                if((selectedUserIndex > mid50)&&(selectedUserIndex > top25)&&(selectedUserIndex != -1)){
+                System.out.println(helProMap);
+                //if((selectedUserIndex > mid50)&&(selectedUserIndex > top25)&&(selectedUserIndex != -1)){
+                if(helProMap.containsKey(nameToken)){
                     if ((check.contains("www")) | (check.contains("http"))) {
                         q1Post ++;
                         String check2 = " ";

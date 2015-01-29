@@ -5,9 +5,7 @@
         <group>
             <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/webmd/WebMD.java</file>
             <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/webmd/WebmdURLExtractor.java</file>
-            <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/webmd/WebMD_SocialMedia.java</file>
-            <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/webmd/WebmdURLExtractor_HP.java</file>
-            <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/webmd/WebMD_Other.java</file>
+            <file>file:/D:/e-books/Information%20Retrival%20Project/WebMD/src/WebMDURLExtractor_Count/WebMDURLExtractor_Count.java</file>
         </group>
     </open-files>
 </project-private>
