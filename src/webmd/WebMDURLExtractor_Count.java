@@ -51,7 +51,7 @@ public class WebMDURLExtractor_Count {
         HashMap<String, Integer> helProMap = new HashMap<String, Integer>();
         HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
-        Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
+        Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
         String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
         //String[] fileNames = {"webmd_addiction"};
         //*******************************For the matchings of staff and qid**************************/////

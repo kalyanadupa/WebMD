@@ -58,7 +58,7 @@ public class WebmdURLExtractor_HP {
             BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
             List<String> qidArray = new ArrayList<String>();
             
-            BufferedWriter writer = new BufferedWriter(new FileWriter("HealthProffessionals/"+fileLog + "_staff_qid.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/"+fileLog + "_staff_qid.txt"));
 
 
 
@@ -71,7 +71,9 @@ public class WebmdURLExtractor_HP {
                 //[ MSN, RNP, CDOE, MD, MPH, PHD, PT, DSc, NCS, MSCS]
                 //[ RN]
                 //System.out.println(nameToken);
-                if(nameToken.toUpperCase().contains(", MSN") || nameToken.toUpperCase().contains(", RNP") || nameToken.toUpperCase().contains(", CDOE") || nameToken.toUpperCase().contains(", MD") || nameToken.toUpperCase().contains(", MPH") || nameToken.toUpperCase().contains(", PHD") || nameToken.toUpperCase().contains(", PT")|| nameToken.toUpperCase().contains(", DSc") || nameToken.toUpperCase().contains(", NCS") || nameToken.toUpperCase().contains(", MSCS") || nameToken.toUpperCase().contains(", RN")){
+                //\\,\\s*MD
+                
+                if(nameToken.toUpperCase().matches(".*\\,\\s*MSN") || nameToken.toUpperCase().matches(".*\\,\\s*RNP") || nameToken.toUpperCase().matches(".*\\,\\s*CDOE") || nameToken.toUpperCase().matches(".*\\,\\s*MD") || nameToken.toUpperCase().matches(".*\\,\\s*MPH") || nameToken.toUpperCase().matches(".*\\,\\s*PHD") || nameToken.toUpperCase().matches(".*\\,\\s*PT")|| nameToken.toUpperCase().matches(".*\\,\\s*DSc") || nameToken.toUpperCase().matches(".*\\,\\s*NCS") || nameToken.toUpperCase().matches(".*\\,\\s*MSCS") || nameToken.toUpperCase().matches(".*\\,\\s*RN") || nameToken.toUpperCase().matches("\\w+\\_MSN") || nameToken.toUpperCase().matches("\\w+\\_RNP") || nameToken.toUpperCase().matches("\\w+\\_CDOE") || nameToken.toUpperCase().matches("\\w+\\_MD") || nameToken.toUpperCase().matches("\\w+\\_MPH") || nameToken.toUpperCase().matches("\\w+\\_PHD") || nameToken.toUpperCase().matches("\\w+\\_PT")|| nameToken.toUpperCase().matches("\\w+\\_DSc") || nameToken.toUpperCase().matches("\\w+\\_NCS") || nameToken.toUpperCase().matches("\\w+\\_MSCS") || nameToken.toUpperCase().matches("\\w+\\_RN")){
                     if ((check.contains("www")) | (check.contains("http"))) {
 
                         String check2 = " ";
