@@ -103,7 +103,7 @@ public class WebmdURLExtractor_HP {
                         while (m10.find()) {
                             matchstring10.add(m10.group());
 //				  System.out.println(m10.group());
-
+                        }   
                             //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
                             for (int i = 0; i < matchstring10.size(); i++) {
                                 if (uniqueSet.contains(matchstring10.get(i))) {
@@ -115,7 +115,7 @@ public class WebmdURLExtractor_HP {
                                     hashmap.put(matchstring10.get(i), 1);
                                 }
                             }
-                        }
+                        
 
                     }
                 }   
