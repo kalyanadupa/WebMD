@@ -52,8 +52,8 @@ public class WebMDURLExtractor_Count {
         HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
-        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
-        //String[] fileNames = {"webmd_addiction"};
+//        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
+        String[] fileNames = {"webmd_addiction"};
         //*******************************For the matchings of staff and qid**************************/////
         
         for (String fileLog : fileNames) {
@@ -90,22 +90,23 @@ public class WebMDURLExtractor_Count {
                 String token = tokenizedTerms[1];
                 String nameToken = tokenizedTerms1[3];
                               
-//                if(nameToken.length() < 3)
-//                    continue;
                 
 
                 if (nameToken.length() > 3) {
                     if (nameToken.charAt(nameToken.length() - 1) == ' ') {
-                        nameToken = nameToken.replace(nameToken.substring(nameToken.length() - 1), "");
+                        nameToken = nameToken.substring(0, nameToken.length() - 1);
                     }
                 }
                 
                 if(check.contains("http") || check.contains("www")){
                     if (nameToken.toUpperCase().contains(", MSN") || nameToken.toUpperCase().contains(", RNP") || nameToken.toUpperCase().contains(", CDOE") || nameToken.toUpperCase().contains(", MD") || nameToken.toUpperCase().contains(", MPH") || nameToken.toUpperCase().contains(", PHD") || nameToken.toUpperCase().contains(", PT") || nameToken.toUpperCase().contains(", DSc") || nameToken.toUpperCase().contains(", NCS") || nameToken.toUpperCase().contains(", MSCS") || nameToken.toUpperCase().contains(", RN")) {
+                        System.out.println("HP -> "+nameToken);
                         helProPost++;
                         if (helProMap.get(nameToken) == null) {
+                            System.out.println("+1");
                             helProMap.put(nameToken, 1);
                         } else {
+                            System.out.println("+0");
                             helProMap.put(nameToken, helProMap.get(nameToken) + 1);
                         }
                         continue;

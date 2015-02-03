@@ -60,7 +60,7 @@ public class WebMD_SocialMedia {
             BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
             List<String> qidArray = new ArrayList<String>();
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + "_staff_qid.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + ".txt"));
 
             while (br.ready()) {
                 String check = br.readLine();
