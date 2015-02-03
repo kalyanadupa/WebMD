@@ -1,0 +1,7 @@
+www.extension.iastate.edu	7
+www.hsph.harvard.edu	5
+www.ag.ndsu.edu	3
+www.umm.edu	2
+www.health.harvard.edu	2
+www.siumed.edu	1
+www.rcgd.isr.umich.edu	1

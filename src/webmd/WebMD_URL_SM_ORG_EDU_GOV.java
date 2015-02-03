@@ -37,7 +37,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
  *
  * @author Kalyan
  */
-public class WebMD_SocialMedia {
+public class WebMD_URL_SM_ORG_EDU_GOV {
 
      /**
      * @param args
@@ -60,7 +60,17 @@ public class WebMD_SocialMedia {
             BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
             List<String> qidArray = new ArrayList<String>();
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + ".txt"));
+            /*
+            Please create the following folders in test folder:
+            "SM"
+            "org"
+            "gov"
+            "edu"
+            */
+            BufferedWriter SMWriter = new BufferedWriter(new FileWriter("test/SM/" + fileLog + ".txt"));
+            BufferedWriter orgWriter = new BufferedWriter(new FileWriter("test/org/" + fileLog + ".txt"));
+            BufferedWriter govWriter = new BufferedWriter(new FileWriter("test/gov/" + fileLog + ".txt"));
+            BufferedWriter eduWriter = new BufferedWriter(new FileWriter("test/edu/" + fileLog + ".txt"));
 
             while (br.ready()) {
                 String check = br.readLine();
@@ -118,12 +128,28 @@ public class WebMD_SocialMedia {
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Entry<String, Integer> ent : sortedJournals) {
                 if (ent.getKey().contains("exchanges.webmd") || ent.getKey().contains("blogs.webmd") || ent.getKey().contains("facebook") || ent.getKey().contains("youtube") || ent.getKey().contains("intherooms") || ent.getKey().contains("friendsofbill") || ent.getKey().contains("rightactionforwomen") || ent.getKey().contains("hillbillyhousewife") || ent.getKey().contains("boards.webmd") || ent.getKey().contains("foxnews")) {
-                    writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
+                    SMWriter.write(ent.getKey() + "\t" + ent.getValue() + '\n');
+                    System.out.println(ent.getKey() + "\t" + ent.getValue());
+                }
+                if (ent.getKey().contains(".org")) {
+                    orgWriter.write(ent.getKey() + "\t" + ent.getValue() + '\n');
+                    System.out.println(ent.getKey() + "\t" + ent.getValue());
+                }
+                if (ent.getKey().contains(".edu")) {
+                    eduWriter.write(ent.getKey() + "\t" + ent.getValue() + '\n');
+                    System.out.println(ent.getKey() + "\t" + ent.getValue());
+                }
+                if (ent.getKey().contains(".gov")) {
+                    govWriter.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                     System.out.println(ent.getKey() + "\t" + ent.getValue());
                 }
             }
 
-            writer.close();
+            SMWriter.close();
+            orgWriter.close();
+            eduWriter.close();
+            govWriter.close();
+                    
         }
     }
 

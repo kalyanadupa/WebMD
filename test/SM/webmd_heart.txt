@@ -1,0 +1,5 @@
+www.youtube.com	11
+www.foxnews.com	3
+blogs.webmd.com	3
+www.facebook.com	2
+exchanges.webmd.com	1

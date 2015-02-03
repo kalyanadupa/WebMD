@@ -1,0 +1,16 @@
+www.ncbi.nlm.nih.gov	13
+www.ssa.gov	11
+www.fda.gov	5
+www.ninds.nih.gov	4
+www.clinicaltrials.gov	3
+www.cdc.gov	2
+www.whitehouse.gov	2
+www.medicare.gov	2
+www.healthcare.gov	1
+www.dol.gov	1
+www.va.gov	1
+www.pcip.gov	1
+www.cms.gov	1
+www.nlm.nih.gov	1
+www.ada.gov	1
+www.cms.hhs.gov	1

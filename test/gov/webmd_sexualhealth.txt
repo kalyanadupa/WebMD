@@ -1,0 +1,10 @@
+www.ncbi.nlm.nih.gov	7
+www.cdc.gov	5
+www.4woman.gov	2
+www.fda.gov	1
+www.healthcare.gov	1
+www.whitehouse.gov	1
+www.homeoffice.gov	1
+www.cancer.gov	1
+www.ftc.gov	1
+www.nimh.nih.gov	1

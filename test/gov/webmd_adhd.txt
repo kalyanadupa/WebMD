@@ -1,0 +1,11 @@
+www.fda.gov	6
+www.ada.gov	4
+www.ncbi.nlm.nih.gov	4
+www.ssa.gov	2
+www.nimh.nih.gov	2
+www.cdc.gov	1
+www.hhs.gov	1
+www.whitehouse.gov	1
+www.nidcd.nih.gov	1
+www.accessdata.fda.gov	1
+www.dshs.wa.gov	1

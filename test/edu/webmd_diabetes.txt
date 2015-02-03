@@ -1,0 +1,9 @@
+www.umm.edu	3
+www.deo.ucsf.edu	3
+www.ku.edu	2
+www.umdnj.edu	1
+www.ou.edu	1
+www.massey.vcu.edu	1
+www.hsph.harvard.edu	1
+www.msu.edu	1
+www.rice.edu	1
