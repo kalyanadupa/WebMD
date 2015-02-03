@@ -179,7 +179,7 @@ public class WebMDURLExtractor_Count {
                 
                 if (nameToken.length() > 3) {
                     if (nameToken.charAt(nameToken.length() - 1) == ' ') {
-                        nameToken = nameToken.replace(nameToken.substring(nameToken.length() - 1), "");
+                        nameToken = nameToken.substring(0, nameToken.length() - 1);
                     }
                 }
 

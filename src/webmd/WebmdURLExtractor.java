@@ -173,7 +173,7 @@ public class WebmdURLExtractor {
                 }
                 nameToken = nameToken.substring(1, nameToken.length() - 1);
                 if (nameToken.charAt(nameToken.length() - 1) == ' ') {
-                    nameToken = nameToken.replace(nameToken.substring(nameToken.length() - 1), "");
+                    nameToken = nameToken.substring(0, nameToken.length() - 1);
                 }
                 
                 int selectedUserIndex = sortedUserList.indexOf(nameToken);
