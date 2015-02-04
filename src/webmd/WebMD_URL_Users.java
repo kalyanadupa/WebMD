@@ -141,12 +141,19 @@ public class WebMD_URL_Users {
             System.out.println("Q2~Q3 Users: "+ mid50);
             System.out.println("Q4 User: "+ top25);
             System.out.println("All users :" + userMap.size());
+            System.out.println("Health Professional User Count: "+ helProMap.size());
+            System.out.println("Staff Members Count: "+ staffMap.size());
+            System.out.println("All users Posts :" + addPosts(userMap));
+            System.out.println("Health Professional Post Count: "+ addPosts(helProMap));
+            System.out.println("Staff Members Post Count: "+ addPosts(staffMap));
             mid50 = userSize - top25;
+            
             List<String> sortedUserList = new ArrayList<String>();
+            
             for (Map.Entry<String, Integer> ent : sortedUserMap) {
                 sortedUserList.add(ent.getKey());
             }
-            
+
 
 //            for (Map.Entry<String, Integer> entry : sortedUserMap.entrySet()) {
 //                int selectedUserIndex = sortedList.indexOf(entry.getKey());
@@ -182,8 +189,8 @@ public class WebMD_URL_Users {
                 For Health professionals: helProMap.containsKey(nameToken)
                 For WebMD_Staff : staffMap.containsKey(nameToken)
                 */
-                if((selectedUserIndex <= mid50)&&(selectedUserIndex < top25)&&(selectedUserIndex != -1)){
-//                if (helProMap.containsKey(nameToken)) {
+//                if((selectedUserIndex <= mid50)&&(selectedUserIndex < top25)&&(selectedUserIndex != -1)){
+                if (helProMap.containsKey(nameToken)) {
                     if ((check.contains("www")) | (check.contains("http"))) {
                         if (urlUserMap.get(nameToken) == null) {
                             urlUserMap.put(nameToken, 1);
@@ -253,6 +260,8 @@ public class WebMD_URL_Users {
 
     }
 
+    
+
     static class ValueComparator<K, V extends Comparable<V>> implements Comparator<K> {
 
         Map<K, V> map;
@@ -309,5 +318,15 @@ public class WebMD_URL_Users {
 
         }
         return sortedMap;
+    }
+    
+    public static int addPosts(HashMap<String, Integer> map) {
+        int postCount = 0;
+        
+        
+        for (int value : map.values()) {
+            postCount = postCount + value;
+        }
+        return postCount;
     }
 }
