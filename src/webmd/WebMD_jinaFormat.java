@@ -47,8 +47,8 @@ public class WebMD_jinaFormat {
         HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
-        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
-//          String[] fileNames = {"webmd_fkids"};
+//        String[] fileNames = {"addiction", "adhd", "breast_cancer", "diabetes", "diet", "fkids", "heart", "ms", "pain", "sexualhealth"};
+        String[] fileNames = {"addiction"};
         //*******************************For the matchings of staff and qid**************************/////
 
         for (String fileLog : fileNames) {
@@ -67,9 +67,9 @@ public class WebMD_jinaFormat {
             helProMap = new HashMap<String, Integer>();
             staffMap = new HashMap<String, Integer>();
             uniqueSet = new ArrayList<String>();
-            BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
+            BufferedReader br = new BufferedReader(new FileReader("data/webmd_" + fileLog + ".csv"));
             urlUserMap = new HashMap<String, Integer>();
-            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + "_PU.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/webmd_" + fileLog + "_PU.txt"));
 
             while (br.ready()) {
 
@@ -134,7 +134,7 @@ public class WebMD_jinaFormat {
 //            System.out.println(sortedList);
             SortedSet<Map.Entry<String, Integer>> sortedUserMap = entriesSortedByValues(userMap);
             //System.out.println(sortedUserMap);
-            br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
+            br = new BufferedReader(new FileReader("data/webmd_" + fileLog + ".csv"));
             int userSize = sortedUserMap.size();
             //System.out.println("sorted size: " + sortedUserMap.size() +" original size"+userMap.size() );
             int top25 = userSize / 4;
@@ -197,13 +197,19 @@ public class WebMD_jinaFormat {
                 String[] tokenizedTerms1 = check.split("\"");
                 //String nameToken1 = tokenizedTerms1[3];
                 String[] tokenizedTerms = check.split(",");
-                String token = tokenizedTerms[1];
+                
                 String nameToken = tokenizedTerms1[3];
-
+                String[] coloumn = check.split(",\"");
+                
+                String qid = tokenizedTerms[1];
+                String postID = tokenizedTerms[0];
+                String userGroup = null;
+                String community = fileLog;
+                        
                 if ((nameToken.length() > 3) && (nameToken.charAt(nameToken.length() - 1) == ' ')) {
                     nameToken = nameToken.substring(0, nameToken.length() - 1);
                 }
-                int selectedUserIndex = sortedUserList.indexOf(nameToken);
+                String posterID = nameToken;
                 /*
                  set the condition of the if loop to:
                  For 1st Quartile: (selectedUserIndex < mid50)&&(selectedUserIndex <= top25)&&(selectedUserIndex != -1)
@@ -212,7 +218,25 @@ public class WebMD_jinaFormat {
                  For Health professionals: helProMap.containsKey(nameToken)
                  For WebMD_Staff : staffMap.containsKey(nameToken)
                  */
-//                if((selectedUserIndex <= mid50)&&(selectedUserIndex < top25)&&(selectedUserIndex != -1)){
+                int selectedUserIndex = sortedUserList.indexOf(nameToken);
+                if ((selectedUserIndex < mid50) && (selectedUserIndex <= top25) && (selectedUserIndex != -1)) 
+                    userGroup = "Q1";
+                else if ((selectedUserIndex <= mid50) && (selectedUserIndex > top25) && (selectedUserIndex != -1)) 
+                    userGroup = "Q2";
+                else if ((selectedUserIndex > mid50) && (selectedUserIndex > top25) && (selectedUserIndex != -1)) 
+                    userGroup = "Q3";
+                
+                if(selectedUserIndex == -1){
+                    if(helProMap.get(nameToken) != null)
+                        userGroup = "Health Professional";
+                    else if(staffMap.get(nameToken) != null)
+                        userGroup = "WebMd Staff";
+                }
+                if(userGroup == null)
+                    System.out.println("ERROR !! userGroup not assigned "+postID + nameToken );
+                selectedUserIndex = sortedUserList.indexOf(nameToken);
+                
+                
                 if ((selectedUserIndex < mid50) && (selectedUserIndex <= top25) && (selectedUserIndex != -1)) {
                     userthread++;
                     if ((check.contains("www")) | (check.contains("http"))) {
@@ -256,16 +280,18 @@ public class WebMD_jinaFormat {
                                 int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
                                 elementCount++;
                                 hashmap.put(matchstring10.get(i), elementCount);
-                                hashmap1.put(matchstring10.get(i), elementCount);
+//                                System.out.println(matchstring10.get(i));
                             } else {
                                 uniqueSet.add(matchstring10.get(i));
                                 hashmap.put(matchstring10.get(i), 1);
-                                hashmap1.put(matchstring10.get(i), 1);
+//                                System.out.println(matchstring10.get(i));
                             }
                         }
                     }
 
                 }
+                
+                System.out.println(posterID +"\t"+qid+"\t"+postID+"\t"+userGroup+"\t"+"HonCode"+"\t"+"category"+"\t"+community+"\t"+"exactURL" );
 
                 //*******************************Find Phenotype (Website Link)**************************/////
             }
@@ -277,7 +303,6 @@ public class WebMD_jinaFormat {
                 writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                 //System.out.println(ent.getKey() + "\t" + ent.getValue());
             }
-
             writer.close();
 
         }
