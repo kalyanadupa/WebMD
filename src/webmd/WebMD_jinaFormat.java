@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package webmd;
 
 import java.io.BufferedReader;
@@ -23,11 +24,12 @@ import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
 /**
  *
  * @author Kalyan
  */
-public class webmd_URL_Users {
+public class WebMD_jinaFormat {
 
     /**
      * @param args
@@ -157,22 +159,23 @@ public class webmd_URL_Users {
             //         System.out.println("Health Professional User Count: "+ sortedUserMap.toString());
             mid50 = userSize - top25;
             int index = 0;
-            int u1 =0;
+            int u1 = 0;
             int u2 = 0;
             int u3 = 0;
             for (Map.Entry<String, Integer> ent : sortedUserMap) {
-                if(index <= top25)
+                if (index <= top25) {
                     u1 = u1 + ent.getValue();
-                else if((index <= mid50) && (index >top25) )
-                    u2 = u2 +ent.getValue();
-                else if(index > mid50)
+                } else if ((index <= mid50) && (index > top25)) {
+                    u2 = u2 + ent.getValue();
+                } else if (index > mid50) {
                     u3 = u3 + ent.getValue();
-                index ++;
+                }
+                index++;
             }
-            System.out.println("All Posts Count for Q1 "+ u1);
-            System.out.println("All Posts Count for Q2 "+ u2);
-            System.out.println("All Posts Count for Q4 "+ u3);
-            
+            System.out.println("All Posts Count for Q1 " + u1);
+            System.out.println("All Posts Count for Q2 " + u2);
+            System.out.println("All Posts Count for Q4 " + u3);
+
             List<String> sortedUserList = new ArrayList<String>();
             for (Map.Entry<String, Integer> ent : sortedUserMap) {
                 sortedUserList.add(ent.getKey());
@@ -196,7 +199,7 @@ public class webmd_URL_Users {
                 String[] tokenizedTerms = check.split(",");
                 String token = tokenizedTerms[1];
                 String nameToken = tokenizedTerms1[3];
-                
+
                 if ((nameToken.length() > 3) && (nameToken.charAt(nameToken.length() - 1) == ' ')) {
                     nameToken = nameToken.substring(0, nameToken.length() - 1);
                 }
@@ -210,7 +213,7 @@ public class webmd_URL_Users {
                  For WebMD_Staff : staffMap.containsKey(nameToken)
                  */
 //                if((selectedUserIndex <= mid50)&&(selectedUserIndex < top25)&&(selectedUserIndex != -1)){
-                if ((selectedUserIndex < mid50)&&(selectedUserIndex <= top25)&&(selectedUserIndex != -1)) {
+                if ((selectedUserIndex < mid50) && (selectedUserIndex <= top25) && (selectedUserIndex != -1)) {
                     userthread++;
                     if ((check.contains("www")) | (check.contains("http"))) {
                         if (urlUserMap.get(nameToken) == null) {
