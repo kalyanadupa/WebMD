@@ -47,8 +47,8 @@ public class WebMD_jinaFormat {
         HashMap<String, Integer> staffMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
-//        String[] fileNames = {"addiction", "adhd", "breast_cancer", "diabetes", "diet", "fkids", "heart", "ms", "pain", "sexualhealth"};
-        String[] fileNames = {"addiction"};
+        String[] fileNames = {"addiction", "adhd", "breast_cancer", "diabetes", "diet", "fkids", "heart", "ms", "pain", "sexualhealth"};
+//        String[] fileNames = {"addiction"};
         //*******************************For the matchings of staff and qid**************************/////
 
         for (String fileLog : fileNames) {
@@ -69,7 +69,7 @@ public class WebMD_jinaFormat {
             uniqueSet = new ArrayList<String>();
             BufferedReader br = new BufferedReader(new FileReader("data/webmd_" + fileLog + ".csv"));
             urlUserMap = new HashMap<String, Integer>();
-            BufferedWriter writer = new BufferedWriter(new FileWriter("test/webmd_" + fileLog + "_PU.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/webmd_" + fileLog + "_jinaFormat.txt"));
 
             while (br.ready()) {
 
@@ -192,6 +192,9 @@ public class WebMD_jinaFormat {
 //                System.out.println(entry.getKey() +"\t"+ entry.getValue());
 //            }
             q1Post = q2Post = q3Post = 0;
+            String bheck = br.readLine();
+            writer.write("posterID"+"\t"+"qid"+"\t"+"post ID"+"\t"+"User Group"+"\t"+"Hon Code"+"\t"+"Website Category"+"\t"+"Community"+"\t"+"exact URL"+"\n");
+            writer.write("\n");
             while (br.ready()) {
                 String check = br.readLine();
                 String[] tokenizedTerms1 = check.split("\"");
@@ -237,70 +240,95 @@ public class WebMD_jinaFormat {
                 selectedUserIndex = sortedUserList.indexOf(nameToken);
                 
                 
-                if ((selectedUserIndex < mid50) && (selectedUserIndex <= top25) && (selectedUserIndex != -1)) {
-                    userthread++;
-                    if ((check.contains("www")) | (check.contains("http"))) {
-                        if (urlUserMap.get(nameToken) == null) {
-                            urlUserMap.put(nameToken, 1);
+                if ((check.contains("www")) | (check.contains("http"))) {
+                    if (urlUserMap.get(nameToken) == null) {
+                        urlUserMap.put(nameToken, 1);
 
-                        } else {
-                            urlUserMap.put(nameToken, urlUserMap.get(nameToken) + 1);
-                        }
-                        String check2 = " ";
-                        String check3 = " ";
-                        Matcher m8 = p8.matcher(check);
-                        List<String> matchstring8 = new ArrayList<String>();
+                    } else {
+                        urlUserMap.put(nameToken, urlUserMap.get(nameToken) + 1);
+                    }
+                    String check2 = " ";
+                    String check3 = " ";
+                    Matcher m8 = p8.matcher(check);
+                    List<String> matchstring8 = new ArrayList<String>();
 
-                        while (m8.find()) {
-                            check2 = check2 + "" + m8.group();
-                            matchstring8.add(m8.group());
+                    while (m8.find()) {
+                        check2 = check2 + "" + m8.group();
+                        matchstring8.add(m8.group());
 //                    System.out.println(m8.group());
-                        }
-
-                        Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
-                        Matcher m9 = p9.matcher(check2);
-                        List<String> matchstring9 = new ArrayList<String>();
-                        while (m9.find()) {
-                            check3 = check3 + "" + m9.group();
-                            matchstring9.add(m9.group());
-//                      System.out.println(m9.group());
-                        }
-
-                        Pattern p10 = Pattern.compile("www.*?(\\.com(?=\\W)|\\.com\\,?\\)?|\\.org(?=\\W)|\\.ORG(?=\\W)|\\.net(?=\\W)|\\.gov(?=\\W)|\\.co.uk|\\.html|\\.htm|\\.asp|\\.aspx|\\.edu|\\.us|treatment|\\-men(?=\\W)|\\.pdf|\\.ca\\/servlet|\\.ch(?=\\W)|\\.coream(?=\\W)|\\.ee(?=\\W))|www.*?(?=\\/)|(?<=http\\:\\/\\/).*?(?=\\/)|(?<=https\\:\\/\\/).*?(?=\\/)");
-                        Matcher m10 = p10.matcher(check3);
-                        List<String> matchstring10 = new ArrayList<String>();
-
-                        while (m10.find()) {
-                            matchstring10.add(m10.group());
-//				  System.out.println(m10.group());
-                        }
-                        //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
-                        for (int i = 0; i < matchstring10.size(); i++) {
-                            if (uniqueSet.contains(matchstring10.get(i))) {
-                                int elementCount = Integer.parseInt(hashmap.get(matchstring10.get(i)).toString());
-                                elementCount++;
-                                hashmap.put(matchstring10.get(i), elementCount);
-//                                System.out.println(matchstring10.get(i));
-                            } else {
-                                uniqueSet.add(matchstring10.get(i));
-                                hashmap.put(matchstring10.get(i), 1);
-//                                System.out.println(matchstring10.get(i));
-                            }
-                        }
                     }
 
+                    Pattern p9 = Pattern.compile("https?\\:\\/\\/[\\-w\\.]*(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]|www\\.(\\:\\d+)?([\\w\\/\\_\\-\\.\\=\\?\\&\\%\\+\\@\\^\\~\\!\\#\\$]*)?[^www]");
+                    Matcher m9 = p9.matcher(check2);
+                    List<String> matchstring9 = new ArrayList<String>();
+                    while (m9.find()) {
+                        check3 = check3 + "" + m9.group();
+                        matchstring9.add(m9.group());
+//                        System.out.println(m9.group());
+                    }
+
+                    //*******************************Unique set created and items put in HashMap (hashMap)**************************/////
+                    
+                    for (int i = 0; i < matchstring9.size(); i++) {
+                        int honCode = 0;
+                        String category = "Other";
+                        System.out.println(matchstring9.get(i));
+                        String url = matchstring9.get(i);
+                        /* Assigning the honcode*/
+                        if (url.contains("answers.webmd.com") || url.contains("arthritis.webmd.com") || url.contains("children.webmd.com") || url.contains("customercare.webmd.com") || url.contains("doctor.webmd.com") || url.contains("men.webmd.com") || url.contains("symptoms.webmd.com") || url.contains("women.webmd.com") || url.contains("medscape.com") || url.contains("boards.webmd") || url.contains("forums.webmd") || url.contains("wwww.webmd.com") || url.contains("diabetes.webmd.com"))
+                            honCode = 3;
+                        else if (url.contains("a-fib.com") || url.contains("dlife.com") || url.contains("www.drugs.com") || url.contains("emedicinehealth.com") || url.contains("medicinenet.com") || url.contains("needymeds.com "))
+                            honCode = 2;
+                        else if (url.contains("ehealthmd.com") || url.contains("iguard.org") || url.contains("intelihealth.com") || url.contains("lifebeatonline.com") || url.contains("mayoclinic.com") || url.contains("rxlist.com") || url.contains("suboxone.com") || url.contains("texasheartinstitute.org")                                 || url.contains("heartsite.com") || url.contains("medhelp.org") || url.contains("medicalnewstoday.com") || url.contains("merck.com") || url.contains("msaa.org") || url.contains("mult-sclerosis.org") || url.contains("ncvc.org") || url.contains("spine-health.com") || url.contains("spineuniverse.com") || url.contains("client.myoptumhealth.com") || url.contains("americanheart.org") || url.contains("diabetes.org")                                 || url.contains("blogs.webmd.com") || url.contains("forums.webmd.com") || url.contains("exchanges.webmd.com") || url.contains("boards.webmd.com") || url.contains("familydoctor.org") || url.contains("labtestsonline.org") || url.contains("my.clevelandclinic.org") || url.contains("americanheart.org") || url.contains("drugstore.com") || url.contains("everydayhealth.com") || url.contains("healthcentral.com") || url.contains("healthline.com"))
+                            honCode = 1;
+                        
+                        if(url.contains("emedicinehealth.com")) 
+                            honCode = 2;
+                        else if(url.contains("webmd.com"))
+                            honCode = 3;
+                        else if(url.contains("ncvc"))
+                            honCode = 1;
+                        else if(url.contains("medscape"))
+                            honCode = 3;
+                        else if(url.contains("medicinenel.com"))
+                            honCode = 2;
+                        else if(url.contains("drugs.com"))
+                            honCode = 2;
+                        if(url.contains("everydayhealth")||url.contains("medhelp.org")||url.contains("healthline.com")||url.contains("lablesonline.org")||url.contains("intelihealth.com")||url.contains("clevelandclinic.org")||url.contains("healthline.com")||url.contains("exchanges.webmd")||url.contains("blogs.webmd")||url.contains("boards.webmd")||url.contains("forums.webmd"))
+                            honCode = 1;
+                        /* Assigning the url Category*/
+                        if (url.contains(".org")) {
+                            category = "org";
+                        }
+                        if (url.contains(".edu")) {
+                            category = "edu";
+                        }
+                        if (url.contains(".gov")) {
+                            category = "gov";
+                        }
+                        if (url.contains(".webmd")) {
+                            category = "webmd";
+                        }
+                        if(url.contains("facebook")||url.contains("twitter")||url.contains("linkedin")||url.contains("pintrest")||url.contains("plus.google")||url.contains("instagram.com")||url.contains("vk.com")||url.contains("flickr.com")||url.contains("vine.com")||url.contains("meetup.com")||url.contains("tagged")||url.contains("ask.fm")||url.contains("meetme.com")||url.contains("classmates.com"))
+                            category = "Social Media";
+                        writer.write(posterID +"\t"+qid+"\t"+postID+"\t"+userGroup+"\t"+honCode+"\t"+category+"\t"+community+"\t"+url +"\n");
+                    }
                 }
+                else
+                    writer.write(posterID +"\t"+qid+"\t"+postID+"\t"+userGroup+"\t"+"N/A"+"\t"+"N/A"+"\t"+community+"\t"+"N/A"+"\n");
+
+
                 
-                System.out.println(posterID +"\t"+qid+"\t"+postID+"\t"+userGroup+"\t"+"HonCode"+"\t"+"category"+"\t"+community+"\t"+"exactURL" );
+//                System.out.println(posterID +"\t"+qid+"\t"+postID+"\t"+userGroup+"\t"+"HonCode"+"\t"+"category"+"\t"+community+"\t"+"exactURL" );
 
                 //*******************************Find Phenotype (Website Link)**************************/////
             }
             br.close();
-            writer.write("Users who posted URL: " + urlUserMap.size() + "\n");
+//            writer.write("Users who posted URL: " + urlUserMap.size() + "\n");
             System.out.println("Present Group Post Count: " + addPosts(urlUserMap) + "  " + userthread);
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
             for (Map.Entry<String, Integer> ent : sortedJournals) {
-                writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
+//                writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                 //System.out.println(ent.getKey() + "\t" + ent.getValue());
             }
             writer.close();
@@ -366,7 +394,30 @@ public class WebMD_jinaFormat {
         }
         return sortedMap;
     }
+    
+    public static List<String> extractUrls(String input) {
+        List<String> result = new ArrayList<String>();
 
+        Pattern pattern = Pattern.compile(
+                "\\b(((ht|f)tp(s?)\\:\\/\\/|~\\/|\\/)|www.)"
+                + "(\\w+:\\w+@)?(([-\\w]+\\.)+(com|org|net|gov"
+                + "|mil|biz|info|mobi|name|aero|jobs|museum"
+                + "|travel|[a-z]{2}))(:[\\d]{1,5})?"
+                + "(((\\/([-\\w~!$+|.,=]|%[a-f\\d]{2})+)+|\\/)+|\\?|#)?"
+                + "((\\?([-\\w~!$+|.,*:]|%[a-f\\d{2}])+=?"
+                + "([-\\w~!$+|.,*:=]|%[a-f\\d]{2})*)"
+                + "(&(?:[-\\w~!$+|.,*:]|%[a-f\\d{2}])+=?"
+                + "([-\\w~!$+|.,*:=]|%[a-f\\d]{2})*)*)*"
+                + "(#([-\\w~!$+|.,*:=]|%[a-f\\d]{2})*)?\\b");
+
+        Matcher matcher = pattern.matcher(input);
+        while (matcher.find()) {
+            result.add(matcher.group());
+        }
+
+        return result;
+    }
+    
     public static int addPosts(HashMap<String, Integer> map) {
         int postCount = 0;
         for (int value : map.values()) {

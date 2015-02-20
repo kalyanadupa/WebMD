@@ -5,6 +5,7 @@
  */
 
 package webmd;
+import java.awt.Desktop;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
@@ -12,6 +13,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -27,6 +30,8 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import webmd.BrowseURL;
+
 
 import org.apache.poi.hssf.usermodel.HSSFCell;
 import org.apache.poi.hssf.usermodel.HSSFRow;
@@ -44,14 +49,15 @@ public class WebMD {
      * @throws IOException
      *
      */
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, URISyntaxException {
 
         HashMap<String, Integer> hashmap = new HashMap<String, Integer>();
         HashMap<String, Integer> userMap = new HashMap<String, Integer>();
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
         //Pattern p8 = Pattern.compile(".{1,50}www.{1,500}");
-        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
+//        String[] fileNames = {"webmd_addiction", "webmd_adhd", "webmd_breast_cancer", "webmd_diabetes", "webmd_diet", "webmd_fkids", "webmd_heart", "webmd_ms", "webmd_pain", "webmd_sexualhealth"};
+        String[] fileNames = {"webmd_sexualhealth"};
         //*******************************For the matchings of staff and qid**************************/////
 
         for (String fileLog : fileNames) {
@@ -61,7 +67,7 @@ public class WebMD {
             BufferedReader br = new BufferedReader(new FileReader("data/" + fileLog + ".csv"));
             List<String> qidArray = new ArrayList<String>();
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + "_staff_qid.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("test/" + fileLog + ".txt"));
 
             while (br.ready()) {
                 String check = br.readLine();
@@ -118,10 +124,22 @@ public class WebMD {
             }
             br.close();
             SortedSet<Map.Entry<String, Integer>> sortedJournals = entriesSortedByValues(hashmap);
+            
             for (Entry<String, Integer> ent : sortedJournals) {
                 //if (ent.getKey().contains("exchanges.webmd") || ent.getKey().contains("blogs.webmd") || ent.getKey().contains("facebook") || ent.getKey().contains("youtube") || ent.getKey().contains("intherooms") || ent.getKey().contains("friendsofbill") || ent.getKey().contains("rightactionforwomen") || ent.getKey().contains("hillbillyhousewife") || ent.getKey().contains("boards.webmd") || ent.getKey().contains("foxnews")) {
                     writer.write(ent.getKey() + "\t" + ent.getValue() + '\n');
                     System.out.println(ent.getKey() + "\t" + ent.getValue());
+                    if((ent.getValue() <= 12) && (ent.getValue() >= 4)){
+                        if(ent.getKey().contains("http")){
+                            Desktop d = Desktop.getDesktop();
+                            d.browse(new URI(ent.getKey()));
+                        }
+                        else{
+                            Desktop d = Desktop.getDesktop();
+                            d.browse(new URI("http://"+ent.getKey()));
+                        }
+                            
+                    }
                 //}
             }
 
