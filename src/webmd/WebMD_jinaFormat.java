@@ -193,8 +193,9 @@ public class WebMD_jinaFormat {
 //            }
             q1Post = q2Post = q3Post = 0;
             String bheck = br.readLine();
-            writer.write("posterID"+"\t"+"qid"+"\t"+"post ID"+"\t"+"User Group"+"\t"+"Hon Code"+"\t"+"Website Category"+"\t"+"Community"+"\t"+"exact URL"+"\n");
-            writer.write("\n");
+            /*Uncomment these two lines */
+//            writer.write("posterID"+"\t"+"qid"+"\t"+"post ID"+"\t"+"User Group"+"\t"+"Hon Code"+"\t"+"Website Category"+"\t"+"Community"+"\t"+"exact URL"+"\n");
+//            writer.write("\n");
             while (br.ready()) {
                 String check = br.readLine();
                 String[] tokenizedTerms1 = check.split("\"");
@@ -275,26 +276,13 @@ public class WebMD_jinaFormat {
                         System.out.println(matchstring9.get(i));
                         String url = matchstring9.get(i);
                         /* Assigning the honcode*/
-                        if (url.contains("answers.webmd.com") || url.contains("arthritis.webmd.com") || url.contains("children.webmd.com") || url.contains("customercare.webmd.com") || url.contains("doctor.webmd.com") || url.contains("men.webmd.com") || url.contains("symptoms.webmd.com") || url.contains("women.webmd.com") || url.contains("medscape.com") || url.contains("boards.webmd") || url.contains("forums.webmd") || url.contains("wwww.webmd.com") || url.contains("diabetes.webmd.com"))
+                        if(url.contains("www.webmd.com/help"))
+                            honCode = 0;
+                        else if (url.contains("answers.webmd.com") || url.contains("arthritis.webmd.com") || url.contains("children.webmd.com") || url.contains("customercare.webmd.com") || url.contains("doctor.webmd.com") || url.contains("men.webmd.com") || url.contains("symptoms.webmd.com") || url.contains("women.webmd.com") || url.contains("medscape.com") || url.contains("boards.webmd") || url.contains("forums.webmd") || url.contains("www.webmd.com") || url.contains("diabetes.webmd.com"))
                             honCode = 3;
-                        else if (url.contains("a-fib.com") || url.contains("dlife.com") || url.contains("www.drugs.com") || url.contains("emedicinehealth.com") || url.contains("medicinenet.com") || url.contains("needymeds.com "))
+                        else if (url.contains("a-fib.com") || url.contains("dlife.com") || url.contains("www.drugs.com") || url.contains("emedicinehealth.com") || url.contains("medicinenet.com") || url.contains("needymeds.com"))
                             honCode = 2;
-                        else if (url.contains("ehealthmd.com") || url.contains("iguard.org") || url.contains("intelihealth.com") || url.contains("lifebeatonline.com") || url.contains("mayoclinic.com") || url.contains("rxlist.com") || url.contains("suboxone.com") || url.contains("texasheartinstitute.org")                                 || url.contains("heartsite.com") || url.contains("medhelp.org") || url.contains("medicalnewstoday.com") || url.contains("merck.com") || url.contains("msaa.org") || url.contains("mult-sclerosis.org") || url.contains("ncvc.org") || url.contains("spine-health.com") || url.contains("spineuniverse.com") || url.contains("client.myoptumhealth.com") || url.contains("americanheart.org") || url.contains("diabetes.org")                                 || url.contains("blogs.webmd.com") || url.contains("forums.webmd.com") || url.contains("exchanges.webmd.com") || url.contains("boards.webmd.com") || url.contains("familydoctor.org") || url.contains("labtestsonline.org") || url.contains("my.clevelandclinic.org") || url.contains("americanheart.org") || url.contains("drugstore.com") || url.contains("everydayhealth.com") || url.contains("healthcentral.com") || url.contains("healthline.com"))
-                            honCode = 1;
-                        
-                        if(url.contains("emedicinehealth.com")) 
-                            honCode = 2;
-                        else if(url.contains("webmd.com"))
-                            honCode = 3;
-                        else if(url.contains("ncvc"))
-                            honCode = 1;
-                        else if(url.contains("medscape"))
-                            honCode = 3;
-                        else if(url.contains("medicinenel.com"))
-                            honCode = 2;
-                        else if(url.contains("drugs.com"))
-                            honCode = 2;
-                        if(url.contains("everydayhealth")||url.contains("medhelp.org")||url.contains("healthline.com")||url.contains("lablesonline.org")||url.contains("intelihealth.com")||url.contains("clevelandclinic.org")||url.contains("healthline.com")||url.contains("exchanges.webmd")||url.contains("blogs.webmd")||url.contains("boards.webmd")||url.contains("forums.webmd"))
+                        else if (url.contains("ehealthmd.com") || url.contains("iguard.org") || url.contains("intelihealth.com") || url.contains("lifebeatonline.com") || url.contains("mayoclinic.com") || url.contains("rxlist.com") || url.contains("suboxone.com") || url.contains("texasheartinstitute.org")  || url.contains("heartsite.com") || url.contains("medhelp.org") || url.contains("medicalnewstoday.com") || url.contains("merck.com") || url.contains("msaa.org") || url.contains("mult-sclerosis.org") || url.contains("ncvc.org") || url.contains("spine-health.com") || url.contains("spineuniverse.com") || url.contains("client.myoptumhealth.com") || url.contains("americanheart.org") || url.contains("diabetes.org")                                 || url.contains("blogs.webmd.com") || url.contains("forums.webmd.com") || url.contains("exchanges.webmd.com") || url.contains("boards.webmd.com") || url.contains("familydoctor.org") || url.contains("labtestsonline.org") || url.contains("my.clevelandclinic.org") || url.contains("americanheart.org") || url.contains("drugstore.com") || url.contains("everydayhealth.com") || url.contains("healthcentral.com") || url.contains("healthline.com"))
                             honCode = 1;
                         /* Assigning the url Category*/
                         if (url.contains(".org")) {
