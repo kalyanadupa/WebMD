@@ -48,7 +48,7 @@ public class WebMD_jinaFormat {
         List<String> uniqueSet = new ArrayList<String>();
         Pattern p8 = Pattern.compile(".{1,50}www.{1,500}|.{1,50}http.{1,500}");
         String[] fileNames = {"addiction", "adhd", "breast_cancer", "diabetes", "diet", "fkids", "heart", "ms", "pain", "sexualhealth"};
-//        String[] fileNames = {"addiction"};
+//        String[] fileNames = {"diabetes"};
         //*******************************For the matchings of staff and qid**************************/////
 
         for (String fileLog : fileNames) {
@@ -74,11 +74,11 @@ public class WebMD_jinaFormat {
             while (br.ready()) {
 
                 String check = br.readLine();
-                String[] tokenizedTerms1 = check.split("\"");
+                String[] tokenizedTerms1 = check.split("<tpr>");
                 //String nameToken1 = tokenizedTerms1[3];
                 String[] tokenizedTerms = check.split(",");
-                String token = tokenizedTerms[1];
-                String nameToken = tokenizedTerms1[3];
+                String token = tokenizedTerms[0];
+                String nameToken = tokenizedTerms1[1];
 
                 if ((nameToken.length() > 3) && (nameToken.charAt(nameToken.length() - 1) == ' ')) {
                     nameToken = nameToken.substring(0, nameToken.length() - 1);
@@ -198,11 +198,11 @@ public class WebMD_jinaFormat {
 //            writer.write("\n");
             while (br.ready()) {
                 String check = br.readLine();
-                String[] tokenizedTerms1 = check.split("\"");
+                String[] tokenizedTerms1 = check.split("<tpr>");
                 //String nameToken1 = tokenizedTerms1[3];
                 String[] tokenizedTerms = check.split(",");
                 
-                String nameToken = tokenizedTerms1[3];
+                String nameToken = tokenizedTerms1[1];
                 String[] coloumn = check.split(",\"");
                 
                 String qid = tokenizedTerms[1];

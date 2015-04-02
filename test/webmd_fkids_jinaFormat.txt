@@ -1,0 +1,224 @@
+Haylen_WebMD_Staff	2	1	WebMd Staff	N/A	N/A	fkids	N/A
+Boyzmomee	2	2	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	6	9	WebMd Staff	N/A	N/A	fkids	N/A
+jhilton1	9	12	Q1	N/A	N/A	fkids	N/A
+Foreverinyoureyes2	9	13	Q1	N/A	N/A	fkids	N/A
+jhilton1	9	14	Q1	N/A	N/A	fkids	N/A
+nursingbug	9	15	Q1	N/A	N/A	fkids	N/A
+prettygirlsmommy	9	16	Q2	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	9	17	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	10	18	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	10	19	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	11	20	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	11	21	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	11	22	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	11	23	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	11	24	Q1	N/A	N/A	fkids	N/A
+jhilton1	11	25	Q1	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	11	26	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	12	27	WebMd Staff	3	webmd	fkids	http://children.webmd.com/news/20110214/report-finds-energy-drinks-are-risky-for-kids 
+mom2quads	12	28	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	12	29	WebMd Staff	N/A	N/A	fkids	N/A
+Foreverinyoureyes2	12	30	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	12	31	WebMd Staff	N/A	N/A	fkids	N/A
+mom2quads	12	32	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	12	33	WebMd Staff	N/A	N/A	fkids	N/A
+mom2quads	12	34	Q1	N/A	N/A	fkids	N/A
+eliguns841984	12	35	Q1	N/A	N/A	fkids	N/A
+jhilton1	12	36	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	12	37	WebMd Staff	N/A	N/A	fkids	N/A
+mom2quads	12	38	Q1	N/A	N/A	fkids	N/A
+nursingbug	13	39	Q1	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	13	40	Health Professional	0	gov	fkids	http://www.cdc.gov/growthcharts/data/set1clinical/cj41c024.pdf 
+Christopher Tiongson, MD	13	40	Health Professional	0	gov	fkids	http://www.cdc.gov/growthcharts/data/set1clinical/cj41c021.pdf 
+Christopher Tiongson, MD	13	41	Health Professional	0	gov	fkids	http://www.cdc.gov/growthcharts/data/set1clinical/cj41c023.pdf"
+normarae5	13	42	Q2	N/A	N/A	fkids	N/A
+futureXwife	14	43	Q3	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	14	44	Health Professional	0	org	fkids	http://www.nichq.org/childhood_obesity/tools/ServingPortionByAge.pdf"
+Treebell	15	45	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	15	46	WebMd Staff	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	15	47	Health Professional	N/A	N/A	fkids	N/A
+Treebell	15	48	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	15	49	WebMd Staff	N/A	N/A	fkids	N/A
+Treebell	15	50	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	15	51	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	16	52	WebMd Staff	N/A	N/A	fkids	N/A
+strongdesire	17	53	Q2	N/A	N/A	fkids	N/A
+nursingbug	17	54	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	17	55	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	18	56	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	18	57	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	18	58	WebMd Staff	1	webmd	fkids	http://exchanges.webmd.com/raising-fit-kids-community 
+Haylen_WebMD_Staff	20	62	WebMd Staff	N/A	N/A	fkids	N/A
+An_216337	21	63	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	21	64	WebMd Staff	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	21	65	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	22	66	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	22	67	WebMd Staff	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	22	68	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	23	69	WebMd Staff	N/A	N/A	fkids	N/A
+Lainey_WebMD_Staff	23	70	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	24	71	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	25	72	WebMd Staff	N/A	N/A	fkids	N/A
+FitnessAfter40	25	73	Q2	N/A	N/A	fkids	N/A
+SoCalSuz	25	74	Q1	N/A	N/A	fkids	N/A
+seeit2	25	75	Q1	N/A	N/A	fkids	N/A
+Shelly_Kaye	25	76	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	25	77	WebMd Staff	N/A	N/A	fkids	N/A
+Bethany Hamilton	25	78	Q1	N/A	N/A	fkids	N/A
+Bethany Hamilton	25	79	Q1	N/A	N/A	fkids	N/A
+Bethany Hamilton	25	80	Q1	0	Other	fkids	http://www.sambazon.com/products/smoothiepacks_pure 
+Bethany Hamilton	25	80	Q1	0	Other	fkids	http://bethanyhamilton.com/tag/health-fitness/ 
+Bethany Hamilton	25	81	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	26	82	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	27	83	WebMd Staff	N/A	N/A	fkids	N/A
+An_216339	29	85	Q2	N/A	N/A	fkids	N/A
+Bethany Hamilton	29	86	Q1	N/A	N/A	fkids	N/A
+MalibuSkipper	30	87	Q2	N/A	N/A	fkids	N/A
+Bethany Hamilton	30	88	Q1	N/A	N/A	fkids	N/A
+OliviaV	31	89	Q3	N/A	N/A	fkids	N/A
+Bethany Hamilton	31	90	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	32	91	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	32	92	WebMd Staff	N/A	N/A	fkids	N/A
+jhilton1	32	93	Q1	N/A	N/A	fkids	N/A
+eliguns841984	33	94	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	33	95	WebMd Staff	N/A	N/A	fkids	N/A
+eliguns841984	33	96	Q1	N/A	N/A	fkids	N/A
+eliguns841984	33	97	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	33	98	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	33	99	WebMd Staff	N/A	N/A	fkids	N/A
+eliguns841984	33	100	Q1	N/A	N/A	fkids	N/A
+jhilton1	33	101	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	33	102	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	33	103	Q1	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	33	104	Health Professional	N/A	N/A	fkids	N/A
+eliguns841984	33	105	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	34	106	WebMd Staff	N/A	N/A	fkids	N/A
+jhilton1	34	107	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	34	108	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	34	109	Q1	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	34	110	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	35	111	WebMd Staff	N/A	N/A	fkids	N/A
+jhilton1	36	112	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	36	113	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	36	114	Q1	N/A	N/A	fkids	N/A
+jhilton1	36	115	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	37	116	WebMd Staff	1	webmd	fkids	http://exchanges.webmd.com/raising-fit-kids-community/groupstory/16641841 
+Christopher Tiongson, MD	37	117	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	38	118	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	38	119	Q1	N/A	N/A	fkids	N/A
+eliguns841984	38	120	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	38	121	WebMd Staff	N/A	N/A	fkids	N/A
+Treebell	38	122	Q1	N/A	N/A	fkids	N/A
+JustNykkie	39	123	Q1	N/A	N/A	fkids	N/A
+jhilton1	39	124	Q1	N/A	N/A	fkids	N/A
+nursingbug	39	125	Q1	N/A	N/A	fkids	N/A
+Christopher Tiongson, MD	39	126	Health Professional	N/A	N/A	fkids	N/A
+JustNykkie	39	127	Q1	N/A	N/A	fkids	N/A
+JustNykkie	39	128	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	40	129	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	41	130	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	42	131	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	44	133	WebMd Staff	N/A	N/A	fkids	N/A
+Hansa Bhargava, MD, FAAP	45	134	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	45	135	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	45	136	Q1	N/A	N/A	fkids	N/A
+Hansa Bhargava, MD, FAAP	45	137	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	45	138	Q1	N/A	N/A	fkids	N/A
+Hansa Bhargava, MD, FAAP	46	139	Health Professional	N/A	N/A	fkids	N/A
+Hansa Bhargava, MD, FAAP	47	140	Health Professional	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	47	141	Health Professional	N/A	N/A	fkids	N/A
+powerhousemommy	47	142	Q3	N/A	N/A	fkids	N/A
+An_216340	48	143	Q3	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	48	144	WebMd Staff	3	webmd	fkids	http://children.webmd.com/news/20081106/growth-hormone-therapy-ups-kids-height 
+An_216341	49	145	Q3	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	49	146	WebMd Staff	1	webmd	fkids	http://exchanges.webmd.com/parenting-exchange 
+nursingbug	50	147	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	50	148	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	50	149	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	51	150	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	52	151	WebMd Staff	N/A	N/A	fkids	N/A
+Springisnear	52	152	Q2	N/A	N/A	fkids	N/A
+nursingbug	53	153	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	53	154	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	53	155	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	53	156	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	53	157	Q1	N/A	N/A	fkids	N/A
+nursingbug	53	158	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	53	159	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	53	160	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	54	161	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	54	162	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	54	163	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	54	164	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	55	165	WebMd Staff	N/A	N/A	fkids	N/A
+Anon_70355	56	166	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	56	167	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	57	168	WebMd Staff	N/A	N/A	fkids	N/A
+meekschan	58	169	Q1	N/A	N/A	fkids	N/A
+Elizabeth_WebMD_Staff	58	170	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	58	171	Health Professional	N/A	N/A	fkids	N/A
+meekschan	58	172	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	58	173	Health Professional	N/A	N/A	fkids	N/A
+meekschan	58	174	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	59	175	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	59	176	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	59	177	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	59	178	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	61	183	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	61	184	Health Professional	N/A	N/A	fkids	N/A
+MalibuSkipper	61	185	Q2	N/A	N/A	fkids	N/A
+Monamia	61	186	Q3	N/A	N/A	fkids	N/A
+SoCalSuz	61	187	Q1	N/A	N/A	fkids	N/A
+meekschan	61	188	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	61	189	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	63	197	WebMd Staff	N/A	N/A	fkids	N/A
+RandOmom	64	198	Q2	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	64	199	Health Professional	N/A	N/A	fkids	N/A
+Lisa_T	64	200	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	65	201	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	65	202	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	66	203	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	67	204	WebMd Staff	1	webmd	fkids	http://exchanges.webmd.com/fall-parenting-challenge"
+meekschan	68	205	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	68	206	Health Professional	N/A	N/A	fkids	N/A
+meekschan	68	207	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	68	208	Health Professional	N/A	N/A	fkids	N/A
+RKWMOM	69	209	Q2	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	69	210	Health Professional	0	gov	fkids	http://apps.nccd.cdc.gov/dnpabmi/ 
+Haylen_WebMD_Staff	71	213	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	71	214	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	72	215	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	72	216	WebMd Staff	N/A	N/A	fkids	N/A
+seeit2	72	217	Q1	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	72	218	Health Professional	N/A	N/A	fkids	N/A
+nursingbug	72	219	Q1	N/A	N/A	fkids	N/A
+cinder44	72	220	Q1	N/A	N/A	fkids	N/A
+cinder44	72	221	Q1	N/A	N/A	fkids	N/A
+sarahdear	72	222	Q2	N/A	N/A	fkids	N/A
+nursingbug	72	223	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	72	224	WebMd Staff	N/A	N/A	fkids	N/A
+nursingbug	72	225	Q1	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	72	226	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	73	227	Health Professional	0	edu	fkids	http://blogs.elon.edu/ptkids/category/tm-tools/24-perceived-exertion-scale-for-children/ 
+Chris Tiongson, MD	73	227	Health Professional	0	gov	fkids	http://www.cdc.gov/physicalactivity/everyone/measuring/index.html 
+Chris Tiongson, MD	73	227	Health Professional	0	gov	fkids	http://www.cdc.gov/physicalactivity/everyone/measuring/index.html 
+BrittanyNLane	75	229	Q2	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	75	230	Health Professional	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	76	231	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	77	232	WebMd Staff	N/A	N/A	fkids	N/A
+Chris Tiongson, MD	77	233	Health Professional	N/A	N/A	fkids	N/A
+SoCalSuz	78	234	Q1	N/A	N/A	fkids	N/A
+SweetSusieB	78	235	Q2	N/A	N/A	fkids	N/A
+EleanorAnne	79	236	Q3	N/A	N/A	fkids	N/A
+Mrs_Temple	79	237	Q3	N/A	N/A	fkids	N/A
+BusyHealthyBee	79	238	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	79	239	WebMd Staff	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	80	240	WebMd Staff	N/A	N/A	fkids	N/A
+An_246851	81	241	Q2	N/A	N/A	fkids	N/A
+An_247036	82	242	Q3	N/A	N/A	fkids	N/A
+An_248436	83	243	Q3	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	83	244	WebMd Staff	1	webmd	fkids	http://exchanges.webmd.com/parenting-exchange"
+Tsmom	84	245	Q2	N/A	N/A	fkids	N/A
+Haylen_WebMD_Staff	84	246	WebMd Staff	N/A	N/A	fkids	N/A
+LessSalt4Kids	85	247	Q2	N/A	N/A	fkids	N/A

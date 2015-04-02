@@ -1,0 +1,3825 @@
+Mia930	1	1	Q2	N/A	N/A	addiction	N/A
+Taximan283	1	2	Q1	N/A	N/A	addiction	N/A
+friend39	1	3	Q1	N/A	N/A	addiction	N/A
+Jule0811	1	4	Q2	N/A	N/A	addiction	N/A
+Dautree	1	5	Q2	N/A	N/A	addiction	N/A
+chelle_s75	3	6	Q2	N/A	N/A	addiction	N/A
+MK1985	3	7	Q1	N/A	N/A	addiction	N/A
+chelle_s75	4	8	Q2	N/A	N/A	addiction	N/A
+MK1985	4	9	Q1	N/A	N/A	addiction	N/A
+ctina517	5	10	Q1	N/A	N/A	addiction	N/A
+Taximan283	5	11	Q1	N/A	N/A	addiction	N/A
+ctina517	5	12	Q1	N/A	N/A	addiction	N/A
+Taximan283	5	13	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	6	14	WebMd Staff	N/A	N/A	addiction	N/A
+prioritycheck	7	15	Q3	N/A	N/A	addiction	N/A
+Taximan283	7	16	Q1	N/A	N/A	addiction	N/A
+Kayap	7	17	Q1	N/A	N/A	addiction	N/A
+luke211	7	18	Q1	N/A	N/A	addiction	N/A
+BrownEyed83	7	19	Q2	N/A	N/A	addiction	N/A
+dunyet	7	20	Q3	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	7	21	Q1	N/A	N/A	addiction	N/A
+oceanlover759	7	22	Q1	N/A	N/A	addiction	N/A
+MOCTOBER	7	23	Q1	N/A	N/A	addiction	N/A
+Frightened_Female	8	24	Q2	N/A	N/A	addiction	N/A
+Hapee2BHere	8	25	Q2	N/A	N/A	addiction	N/A
+Kayap	8	26	Q1	N/A	N/A	addiction	N/A
+Marge21955	9	27	Q1	N/A	N/A	addiction	N/A
+Kayap	9	28	Q1	N/A	N/A	addiction	N/A
+Kayap	9	29	Q1	0	org	addiction	www.mywayout.org/community/f20/cravings-naltrexone-33033.html 
+000099357	10	30	Q1	N/A	N/A	addiction	N/A
+000099357	10	31	Q1	N/A	N/A	addiction	N/A
+Kayap	10	32	Q1	N/A	N/A	addiction	N/A
+luke211	10	33	Q1	N/A	N/A	addiction	N/A
+Taximan283	10	34	Q1	N/A	N/A	addiction	N/A
+000099357	10	35	Q1	N/A	N/A	addiction	N/A
+Taximan283	10	36	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	12	37	WebMd Staff	N/A	N/A	addiction	N/A
+comapony	13	38	Q3	N/A	N/A	addiction	N/A
+Taximan283	13	39	Q1	N/A	N/A	addiction	N/A
+Rosie_WebMD_Staff	14	40	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	14	41	Q1	N/A	N/A	addiction	N/A
+Rosie_WebMD_Staff	14	42	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	14	43	Q1	N/A	N/A	addiction	N/A
+Rosie_WebMD_Staff	14	44	WebMd Staff	N/A	N/A	addiction	N/A
+eecharmed	14	45	Q3	N/A	N/A	addiction	N/A
+ShonteeisHome	14	46	Q1	N/A	N/A	addiction	N/A
+1darkprincess	15	47	Q1	N/A	N/A	addiction	N/A
+1darkprincess	15	48	Q1	N/A	N/A	addiction	N/A
+Taximan283	15	49	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	16	50	WebMd Staff	N/A	N/A	addiction	N/A
+MarySings	17	51	Q1	N/A	N/A	addiction	N/A
+MarySings	17	52	Q1	N/A	N/A	addiction	N/A
+Taximan283	17	53	Q1	N/A	N/A	addiction	N/A
+MarySings	17	54	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	17	55	WebMd Staff	N/A	N/A	addiction	N/A
+MarySings	17	56	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	17	57	WebMd Staff	N/A	N/A	addiction	N/A
+MarySings	17	58	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	17	59	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	17	60	Q1	N/A	N/A	addiction	N/A
+MarySings	17	61	Q1	N/A	N/A	addiction	N/A
+Taximan283	17	62	Q1	N/A	N/A	addiction	N/A
+Igot2	17	63	Q1	N/A	N/A	addiction	N/A
+MarySings	17	64	Q1	N/A	N/A	addiction	N/A
+Taximan283	17	65	Q1	N/A	N/A	addiction	N/A
+Taximan283	17	66	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	18	67	WebMd Staff	N/A	N/A	addiction	N/A
+krystal8600	19	68	Q1	N/A	N/A	addiction	N/A
+MarySings	19	69	Q1	N/A	N/A	addiction	N/A
+krystal8600	19	70	Q1	N/A	N/A	addiction	N/A
+MarySings	19	71	Q1	N/A	N/A	addiction	N/A
+krystal8600	20	72	Q1	N/A	N/A	addiction	N/A
+MarySings	20	73	Q1	N/A	N/A	addiction	N/A
+krystal8600	20	74	Q1	N/A	N/A	addiction	N/A
+MarySings	20	75	Q1	N/A	N/A	addiction	N/A
+Taximan283	21	76	Q1	N/A	N/A	addiction	N/A
+minkysmom1	21	77	Q1	N/A	N/A	addiction	N/A
+MarySings	21	78	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	21	79	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	21	80	Q1	N/A	N/A	addiction	N/A
+Igot2	21	81	Q1	N/A	N/A	addiction	N/A
+Taximan283	21	82	Q1	N/A	N/A	addiction	N/A
+anthony1805	22	83	Q1	N/A	N/A	addiction	N/A
+MarySings	22	84	Q1	N/A	N/A	addiction	N/A
+Taximan283	22	85	Q1	N/A	N/A	addiction	N/A
+Jlewis229	23	86	Q3	N/A	N/A	addiction	N/A
+missv34	23	87	Q2	N/A	N/A	addiction	N/A
+Taximan283	23	88	Q1	N/A	N/A	addiction	N/A
+missv34	23	89	Q2	N/A	N/A	addiction	N/A
+ghostlypiza	23	90	Q2	N/A	N/A	addiction	N/A
+MarySings	24	91	Q1	N/A	N/A	addiction	N/A
+Taximan283	24	92	Q1	N/A	N/A	addiction	N/A
+MarySings	24	93	Q1	N/A	N/A	addiction	N/A
+Taximan283	24	94	Q1	N/A	N/A	addiction	N/A
+MarySings	24	95	Q1	N/A	N/A	addiction	N/A
+MarySings	24	96	Q1	N/A	N/A	addiction	N/A
+Taximan283	24	97	Q1	N/A	N/A	addiction	N/A
+lisakimmy	24	98	Q1	N/A	N/A	addiction	N/A
+lisakimmy07	24	99	Q2	N/A	N/A	addiction	N/A
+MeaganDawn	24	100	Q1	N/A	N/A	addiction	N/A
+Lynnsie1983	25	101	Q2	N/A	N/A	addiction	N/A
+MarySings	25	102	Q1	N/A	N/A	addiction	N/A
+Taximan283	25	103	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	25	104	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	25	105	Q1	N/A	N/A	addiction	N/A
+heartbrokenbytim	26	106	Q1	N/A	N/A	addiction	N/A
+Taximan283	26	107	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	27	108	WebMd Staff	N/A	N/A	addiction	N/A
+heartbrokenbytim	28	109	Q1	N/A	N/A	addiction	N/A
+Taximan283	28	110	Q1	N/A	N/A	addiction	N/A
+heartbrokenbytim	28	111	Q1	N/A	N/A	addiction	N/A
+MarySings	28	112	Q1	N/A	N/A	addiction	N/A
+heartbrokenbytim	28	113	Q1	N/A	N/A	addiction	N/A
+Taximan283	29	114	Q1	N/A	N/A	addiction	N/A
+MarySings	30	115	Q1	N/A	N/A	addiction	N/A
+lisakim07	30	116	Q3	N/A	N/A	addiction	N/A
+kevski	31	117	Q2	N/A	N/A	addiction	N/A
+Taximan283	31	118	Q1	N/A	N/A	addiction	N/A
+lilystargazer	32	119	Q2	N/A	N/A	addiction	N/A
+MarySings	32	120	Q1	N/A	N/A	addiction	N/A
+Taximan283	32	121	Q1	N/A	N/A	addiction	N/A
+MarySings	32	122	Q1	N/A	N/A	addiction	N/A
+jess819	33	123	Q1	N/A	N/A	addiction	N/A
+Taximan283	33	124	Q1	N/A	N/A	addiction	N/A
+dp1967	34	125	Q2	N/A	N/A	addiction	N/A
+Taximan283	34	126	Q1	N/A	N/A	addiction	N/A
+dp1967	34	127	Q2	N/A	N/A	addiction	N/A
+Ibelong2him;	35	128	Q1	N/A	N/A	addiction	N/A
+Ibelong2him;	35	129	Q1	N/A	N/A	addiction	N/A
+Taximan283	35	130	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	35	131	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	35	132	Q1	N/A	N/A	addiction	N/A
+MarySings	35	133	Q1	N/A	N/A	addiction	N/A
+kingdavidsbaby	35	134	Q1	N/A	N/A	addiction	N/A
+kingdavidsbaby	35	135	Q1	N/A	N/A	addiction	N/A
+sweetbaybelove	36	136	Q2	N/A	N/A	addiction	N/A
+MarySings	36	137	Q1	N/A	N/A	addiction	N/A
+sweetbaybelove	36	138	Q2	N/A	N/A	addiction	N/A
+imessedupbig	37	139	Q2	N/A	N/A	addiction	N/A
+Taximan283	37	140	Q1	N/A	N/A	addiction	N/A
+rocknroll17	37	141	Q2	N/A	N/A	addiction	N/A
+mpopovic	38	142	Q2	N/A	N/A	addiction	N/A
+Beaners03	39	143	Q1	N/A	N/A	addiction	N/A
+MarySings	39	144	Q1	N/A	N/A	addiction	N/A
+Taximan283	39	145	Q1	N/A	N/A	addiction	N/A
+Beaners03	39	146	Q1	N/A	N/A	addiction	N/A
+Marge21955	40	147	Q1	N/A	N/A	addiction	N/A
+MarySings	40	148	Q1	N/A	N/A	addiction	N/A
+Marge21955	40	149	Q1	N/A	N/A	addiction	N/A
+Kayap	40	150	Q1	N/A	N/A	addiction	N/A
+OPSUBoy2010	41	151	Q2	N/A	N/A	addiction	N/A
+MarySings	41	152	Q1	N/A	N/A	addiction	N/A
+Kayap	41	153	Q1	N/A	N/A	addiction	N/A
+Taximan283	41	154	Q1	N/A	N/A	addiction	N/A
+MarySings	42	155	Q1	N/A	N/A	addiction	N/A
+Shay1221	42	156	Q1	N/A	N/A	addiction	N/A
+MarySings	42	157	Q1	N/A	N/A	addiction	N/A
+Taximan283	42	158	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	42	159	Q1	N/A	N/A	addiction	N/A
+Taximan283	42	160	Q1	N/A	N/A	addiction	N/A
+Baby11612	42	161	Q1	N/A	N/A	addiction	N/A
+Baby11612	42	162	Q1	N/A	N/A	addiction	N/A
+minkysmom1	43	163	Q1	N/A	N/A	addiction	N/A
+MarySings	43	164	Q1	N/A	N/A	addiction	N/A
+Taximan283	43	165	Q1	N/A	N/A	addiction	N/A
+sarah198920	44	166	Q2	N/A	N/A	addiction	N/A
+Taximan283	44	167	Q1	N/A	N/A	addiction	N/A
+sarah198920	44	168	Q2	N/A	N/A	addiction	N/A
+Taximan283	44	169	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	44	170	Q1	N/A	N/A	addiction	N/A
+chubby1124	45	171	Q2	N/A	N/A	addiction	N/A
+Kayap	45	172	Q1	N/A	N/A	addiction	N/A
+Taximan283	45	173	Q1	N/A	N/A	addiction	N/A
+chubby1124	45	174	Q2	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	45	175	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	46	176	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	46	177	Q1	N/A	N/A	addiction	N/A
+Taximan283	46	178	Q1	N/A	N/A	addiction	N/A
+Taximan283	46	179	Q1	N/A	N/A	addiction	N/A
+Taximan283	46	180	Q1	N/A	N/A	addiction	N/A
+Taximan283	46	181	Q1	N/A	N/A	addiction	N/A
+emkay912	46	182	Q2	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	46	183	Q1	N/A	N/A	addiction	N/A
+enaj43	47	184	Q1	N/A	N/A	addiction	N/A
+enaj43	47	185	Q1	N/A	N/A	addiction	N/A
+Taximan283	47	186	Q1	N/A	N/A	addiction	N/A
+enaj43	48	187	Q1	N/A	N/A	addiction	N/A
+enaj43	48	188	Q1	N/A	N/A	addiction	N/A
+Taximan283	48	189	Q1	N/A	N/A	addiction	N/A
+lostindisapointment	49	190	Q3	N/A	N/A	addiction	N/A
+Taximan283	49	191	Q1	N/A	N/A	addiction	N/A
+CatWoman1971	50	192	Q2	N/A	N/A	addiction	N/A
+Taximan283	50	193	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	50	194	WebMd Staff	N/A	N/A	addiction	N/A
+CatWoman1971	51	195	Q2	N/A	N/A	addiction	N/A
+Taximan283	51	196	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	51	197	WebMd Staff	N/A	N/A	addiction	N/A
+candyschultz	52	198	Q2	N/A	N/A	addiction	N/A
+Kayap	52	199	Q1	N/A	N/A	addiction	N/A
+minkysmom1	53	200	Q1	N/A	N/A	addiction	N/A
+Taximan283	53	201	Q1	N/A	N/A	addiction	N/A
+minkysmom1	54	202	Q1	N/A	N/A	addiction	N/A
+Taximan283	54	203	Q1	N/A	N/A	addiction	N/A
+TONYBLOCK	55	204	Q2	N/A	N/A	addiction	N/A
+Taximan283	55	205	Q1	N/A	N/A	addiction	N/A
+TONYBLOCK	55	206	Q2	N/A	N/A	addiction	N/A
+Taximan283	55	207	Q1	N/A	N/A	addiction	N/A
+mind_situation	55	208	Q1	N/A	N/A	addiction	N/A
+bert1505	56	209	Q3	N/A	N/A	addiction	N/A
+Taximan283	56	210	Q1	N/A	N/A	addiction	N/A
+77preshus	57	211	Q2	N/A	N/A	addiction	N/A
+Taximan283	57	212	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	58	213	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	59	214	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	59	215	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	59	216	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	59	217	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	59	218	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	59	219	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	59	220	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	60	221	Q1	N/A	N/A	addiction	N/A
+Taximan283	60	222	Q1	N/A	N/A	addiction	N/A
+pessimistic121	60	223	Q2	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	60	224	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	60	225	Q1	N/A	N/A	addiction	N/A
+Taximan283	60	226	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	60	227	Q1	N/A	N/A	addiction	N/A
+SecretMe7	60	228	Q1	N/A	N/A	addiction	N/A
+emanniemet	61	229	Q2	N/A	N/A	addiction	N/A
+Kayap	61	230	Q1	N/A	N/A	addiction	N/A
+kathy_jean	62	231	Q1	N/A	N/A	addiction	N/A
+Taximan283	62	232	Q1	N/A	N/A	addiction	N/A
+hartwoman	62	233	Q2	N/A	N/A	addiction	N/A
+kathy_jean	62	234	Q1	1	Other	addiction	www.suboxone.com--- 
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	62	235	Q1	N/A	N/A	addiction	N/A
+kathy_jean	62	236	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	62	237	Q1	N/A	N/A	addiction	N/A
+UnhappyBelly	63	238	Q1	N/A	N/A	addiction	N/A
+MachineMike1	63	239	Q2	N/A	N/A	addiction	N/A
+UnhappyBelly	63	240	Q1	N/A	N/A	addiction	N/A
+GaGirl1031	64	241	Q1	N/A	N/A	addiction	N/A
+SecretMe7	64	242	Q1	N/A	N/A	addiction	N/A
+GaGirl1031	64	243	Q1	N/A	N/A	addiction	N/A
+SecretMe7	64	244	Q1	N/A	N/A	addiction	N/A
+Kayap	64	245	Q1	N/A	N/A	addiction	N/A
+Taximan283	64	246	Q1	N/A	N/A	addiction	N/A
+danni2009	64	247	Q1	N/A	N/A	addiction	N/A
+GaGirl1031	64	248	Q1	N/A	N/A	addiction	N/A
+Baby11612	65	249	Q1	N/A	N/A	addiction	N/A
+Taximan283	65	250	Q1	N/A	N/A	addiction	N/A
+danni2009	66	251	Q1	N/A	N/A	addiction	N/A
+dgcowell	66	252	Q1	N/A	N/A	addiction	N/A
+Taximan283	66	253	Q1	N/A	N/A	addiction	N/A
+jbell3001	66	254	Q3	N/A	N/A	addiction	N/A
+lenb1	66	255	Q2	N/A	N/A	addiction	N/A
+doggielover216	66	256	Q1	N/A	N/A	addiction	N/A
+ThereIsASolution	66	257	Q3	N/A	N/A	addiction	N/A
+delumiere	66	258	Q2	N/A	N/A	addiction	N/A
+bbranger2000	66	259	Q2	N/A	N/A	addiction	N/A
+danni2009	66	260	Q1	N/A	N/A	addiction	N/A
+lghk50	66	261	Q1	N/A	N/A	addiction	N/A
+lghk50	66	262	Q1	N/A	N/A	addiction	N/A
+rrwing98	66	263	Q3	N/A	N/A	addiction	N/A
+cris1771	66	264	Q2	N/A	N/A	addiction	N/A
+TerraBelle	66	265	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	66	266	WebMd Staff	N/A	N/A	addiction	N/A
+heres4Abetterlife	66	267	Q1	N/A	N/A	addiction	N/A
+EffectsProduced	66	268	Q2	N/A	N/A	addiction	N/A
+Shawnie_	66	269	Q1	N/A	N/A	addiction	N/A
+choclab88	66	270	Q1	N/A	N/A	addiction	N/A
+Damifino59	66	271	Q2	N/A	N/A	addiction	N/A
+WayBetteroffnowthanbackthen	66	272	Q1	N/A	N/A	addiction	N/A
+WayBetteroffnowthanbackthen	66	273	Q1	N/A	N/A	addiction	N/A
+An_227107	66	274	Q2	N/A	N/A	addiction	N/A
+sheharpe	66	275	Q3	N/A	N/A	addiction	N/A
+1krisid	66	276	Q2	N/A	N/A	addiction	N/A
+NicoleAlia	66	277	Q3	N/A	N/A	addiction	N/A
+dwsees	66	278	Q1	N/A	N/A	addiction	N/A
+colchado13	66	279	Q2	N/A	N/A	addiction	N/A
+colchado13	66	280	Q2	N/A	N/A	addiction	N/A
+secularsobriety	66	281	Q1	N/A	N/A	addiction	N/A
+secularsobriety	66	282	Q1	N/A	N/A	addiction	N/A
+secularsobriety	66	283	Q1	N/A	N/A	addiction	N/A
+danacon	66	284	Q2	N/A	N/A	addiction	N/A
+vnoqmm7m	66	285	Q3	N/A	N/A	addiction	N/A
+nancypmont	66	286	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	66	287	WebMd Staff	N/A	N/A	addiction	N/A
+Alapaki	66	288	Q2	N/A	N/A	addiction	N/A
+An_247085	66	289	Q3	N/A	N/A	addiction	N/A
+JeffJ82	66	290	Q2	N/A	N/A	addiction	N/A
+kbo618	67	291	Q2	N/A	N/A	addiction	N/A
+Taximan283	67	292	Q1	N/A	N/A	addiction	N/A
+dgcowell	68	293	Q1	N/A	N/A	addiction	N/A
+Taximan283	68	294	Q1	N/A	N/A	addiction	N/A
+dgcowell	68	295	Q1	N/A	N/A	addiction	N/A
+atlgirl75	69	296	Q3	N/A	N/A	addiction	N/A
+mrcroz	69	297	Q2	N/A	N/A	addiction	N/A
+SecretMe7	69	298	Q1	N/A	N/A	addiction	N/A
+hartwoman	70	299	Q2	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	70	300	Q1	N/A	N/A	addiction	N/A
+SecretMe7	70	301	Q1	2	Other	addiction	www.drugs.com/forum/need-talk/maximum-methadone-before-suboxone-27717.html 
+Taximan283	70	302	Q1	N/A	N/A	addiction	N/A
+KIMBO_33	72	303	Q3	N/A	N/A	addiction	N/A
+SecretMe7	72	304	Q1	N/A	N/A	addiction	N/A
+Taximan283	72	305	Q1	N/A	N/A	addiction	N/A
+SecretMe7	72	306	Q1	N/A	N/A	addiction	N/A
+Taximan283	72	307	Q1	N/A	N/A	addiction	N/A
+wannaquitnow	72	308	Q1	N/A	N/A	addiction	N/A
+rvanwinkle311	72	309	Q2	N/A	N/A	addiction	N/A
+Taximan283	72	310	Q1	N/A	N/A	addiction	N/A
+ExCyclist	72	311	Q1	N/A	N/A	addiction	N/A
+Taximan283	72	312	Q1	N/A	N/A	addiction	N/A
+ExCyclist	72	313	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	72	314	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	72	315	Q1	N/A	N/A	addiction	N/A
+ExCyclist	72	316	Q1	N/A	N/A	addiction	N/A
+Taximan283	72	317	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	72	318	WebMd Staff	N/A	N/A	addiction	N/A
+SecretMe7	73	319	Q1	N/A	N/A	addiction	N/A
+Skylarkqueen	73	320	Q1	N/A	N/A	addiction	N/A
+Skylarkqueen	74	321	Q1	N/A	N/A	addiction	N/A
+Taximan283	74	322	Q1	N/A	N/A	addiction	N/A
+skotandmj;	74	323	Q2	N/A	N/A	addiction	N/A
+Taximan283	74	324	Q1	N/A	N/A	addiction	N/A
+daysjunkie	74	325	Q1	N/A	N/A	addiction	N/A
+SSSShugaPlum	74	326	Q2	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	327	Q1	N/A	N/A	addiction	N/A
+SecretMe7	75	328	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	329	Q1	N/A	N/A	addiction	N/A
+SecretMe7	75	330	Q1	N/A	N/A	addiction	N/A
+Taximan283	75	331	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	332	Q1	N/A	N/A	addiction	N/A
+Taximan283	75	333	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	334	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	335	Q1	N/A	N/A	addiction	N/A
+DOGDANCING	75	336	Q2	N/A	N/A	addiction	N/A
+Taximan283	75	337	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	338	Q1	N/A	N/A	addiction	N/A
+Taximan283	75	339	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	340	Q1	N/A	N/A	addiction	N/A
+MikeWithQuestions	75	341	Q1	N/A	N/A	addiction	N/A
+pharmor	76	342	Q2	N/A	N/A	addiction	N/A
+SecretMe7	76	343	Q1	N/A	N/A	addiction	N/A
+Taximan283	76	344	Q1	N/A	N/A	addiction	N/A
+Taximan283	77	345	Q1	N/A	N/A	addiction	N/A
+Taximan283	77	346	Q1	N/A	N/A	addiction	N/A
+JosieBella	78	347	Q3	N/A	N/A	addiction	N/A
+ttalaine	78	348	Q1	N/A	N/A	addiction	N/A
+debaser	78	349	Q1	N/A	N/A	addiction	N/A
+oceanlover759	78	350	Q1	0	org	addiction	www.chicagona.org. 
+MOCTOBER	78	351	Q1	N/A	N/A	addiction	N/A
+doggielover216	79	352	Q1	N/A	N/A	addiction	N/A
+Taximan283	79	353	Q1	N/A	N/A	addiction	N/A
+SecretMe7	79	354	Q1	N/A	N/A	addiction	N/A
+qwkslvr	80	355	Q1	N/A	N/A	addiction	N/A
+Tysolambo	80	356	Q1	N/A	N/A	addiction	N/A
+Taximan283	80	357	Q1	N/A	N/A	addiction	N/A
+SecretMe7	80	358	Q1	N/A	N/A	addiction	N/A
+Sulwyn	81	359	Q1	N/A	N/A	addiction	N/A
+Taximan283	81	360	Q1	N/A	N/A	addiction	N/A
+SecretMe7	81	361	Q1	N/A	N/A	addiction	N/A
+Sulwyn	81	362	Q1	N/A	N/A	addiction	N/A
+Sulwyn	81	363	Q1	N/A	N/A	addiction	N/A
+Taximan283	81	364	Q1	N/A	N/A	addiction	N/A
+wannaquitnow	82	365	Q1	N/A	N/A	addiction	N/A
+wannaquitnow	82	366	Q1	N/A	N/A	addiction	N/A
+SecretMe7	82	367	Q1	N/A	N/A	addiction	N/A
+wannaquitnow	82	368	Q1	N/A	N/A	addiction	N/A
+Taximan283	82	369	Q1	N/A	N/A	addiction	N/A
+Dkville	82	370	Q1	N/A	N/A	addiction	N/A
+Dkville	82	371	Q1	N/A	N/A	addiction	N/A
+Taximan283	82	372	Q1	N/A	N/A	addiction	N/A
+Dkville	82	373	Q1	N/A	N/A	addiction	N/A
+knowledgeequalspower	82	374	Q2	N/A	N/A	addiction	N/A
+Taximan283	82	375	Q1	N/A	N/A	addiction	N/A
+marinewife24	82	376	Q2	N/A	N/A	addiction	N/A
+catdog123	82	377	Q3	N/A	N/A	addiction	N/A
+ADEE831	83	378	Q1	N/A	N/A	addiction	N/A
+ADEE831	83	379	Q1	N/A	N/A	addiction	N/A
+ttalaine	83	380	Q1	N/A	N/A	addiction	N/A
+ADEE831	84	381	Q1	N/A	N/A	addiction	N/A
+ADEE831	84	382	Q1	N/A	N/A	addiction	N/A
+ttalaine	84	383	Q1	N/A	N/A	addiction	N/A
+sher09	85	384	Q1	N/A	N/A	addiction	N/A
+Taximan283	85	385	Q1	N/A	N/A	addiction	N/A
+sher09	85	386	Q1	N/A	N/A	addiction	N/A
+Taximan283	85	387	Q1	N/A	N/A	addiction	N/A
+sher09	85	388	Q1	N/A	N/A	addiction	N/A
+gailb54	85	389	Q1	N/A	N/A	addiction	N/A
+Dkville	86	390	Q1	N/A	N/A	addiction	N/A
+Taximan283	86	391	Q1	N/A	N/A	addiction	N/A
+Subhelper	86	392	Q3	N/A	N/A	addiction	N/A
+ilovelynn	86	393	Q1	N/A	N/A	addiction	N/A
+gailb54	87	394	Q1	N/A	N/A	addiction	N/A
+sher09	87	395	Q1	N/A	N/A	addiction	N/A
+gailb54	87	396	Q1	N/A	N/A	addiction	N/A
+Taximan283	87	397	Q1	N/A	N/A	addiction	N/A
+ttalaine	87	398	Q1	N/A	N/A	addiction	N/A
+gailb54	87	399	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	88	400	Q1	N/A	N/A	addiction	N/A
+kimba2222	88	401	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	88	402	Q1	N/A	N/A	addiction	N/A
+evansco	89	403	Q2	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	89	404	Q1	N/A	N/A	addiction	N/A
+cris1771	89	405	Q2	N/A	N/A	addiction	N/A
+Taximan283	89	406	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	90	407	Q1	N/A	N/A	addiction	N/A
+Taximan283	90	408	Q1	N/A	N/A	addiction	N/A
+ttalaine	90	409	Q1	N/A	N/A	addiction	N/A
+Taximan283	90	410	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	90	411	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	90	412	Q1	N/A	N/A	addiction	N/A
+kimba2222	90	413	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	91	414	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	91	415	Q1	N/A	N/A	addiction	N/A
+Taximan283	91	416	Q1	N/A	N/A	addiction	N/A
+ttalaine	91	417	Q1	N/A	N/A	addiction	N/A
+kimba2222	91	418	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	91	419	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	91	420	Q1	N/A	N/A	addiction	N/A
+kimba2222	91	421	Q1	N/A	N/A	addiction	N/A
+vincennes	92	422	Q2	N/A	N/A	addiction	N/A
+ttalaine	92	423	Q1	N/A	N/A	addiction	N/A
+ttalaine	93	424	Q1	N/A	N/A	addiction	N/A
+Taximan283	93	425	Q1	N/A	N/A	addiction	N/A
+Lupylisa44	93	426	Q1	N/A	N/A	addiction	N/A
+gailb54	93	427	Q1	N/A	N/A	addiction	N/A
+Taximan283	93	428	Q1	N/A	N/A	addiction	N/A
+Lupylisa44	94	429	Q1	N/A	N/A	addiction	N/A
+mind_situation	94	430	Q1	N/A	N/A	addiction	N/A
+debaser	94	431	Q1	N/A	N/A	addiction	N/A
+uscojamie	94	432	Q1	N/A	N/A	addiction	N/A
+onlyODAAT	94	433	Q1	N/A	N/A	addiction	N/A
+mind_situation	94	434	Q1	N/A	N/A	addiction	N/A
+uscojamie	94	435	Q1	N/A	N/A	addiction	N/A
+jenraider72	95	436	Q1	N/A	N/A	addiction	N/A
+Taximan283	95	437	Q1	N/A	N/A	addiction	N/A
+jenraider72	95	438	Q1	N/A	N/A	addiction	N/A
+Taximan283	95	439	Q1	N/A	N/A	addiction	N/A
+forafewneedlesmore	95	440	Q1	N/A	N/A	addiction	N/A
+crna4u	95	441	Q2	N/A	N/A	addiction	N/A
+Taximan283	95	442	Q1	N/A	N/A	addiction	N/A
+forafewneedlesmore	95	443	Q1	N/A	N/A	addiction	N/A
+bread8	96	444	Q1	N/A	N/A	addiction	N/A
+kimba2222	96	445	Q1	N/A	N/A	addiction	N/A
+bread8	96	446	Q1	N/A	N/A	addiction	N/A
+sarahmiller2	97	447	Q3	N/A	N/A	addiction	N/A
+mind_situation	97	448	Q1	N/A	N/A	addiction	N/A
+gailb54	97	449	Q1	N/A	N/A	addiction	N/A
+jennferrlynn	97	450	Q2	N/A	N/A	addiction	N/A
+jennferrlynn	98	451	Q2	N/A	N/A	addiction	N/A
+ttalaine	98	452	Q1	N/A	N/A	addiction	N/A
+Taximan283	98	453	Q1	N/A	N/A	addiction	N/A
+bread8	99	454	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	100	455	Q1	0	Other	addiction	www.freedrugcard.us 
+wantn2bfree86	100	455	Q1	0	org	addiction	www.needymeds.org 
+wantn2bfree86	100	455	Q1	0	Other	addiction	www.pscard.com/ 
+Taximan283	100	456	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	101	457	Q1	N/A	N/A	addiction	N/A
+Taximan283	101	458	Q1	N/A	N/A	addiction	N/A
+StepHigh	102	459	Q2	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	102	460	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	102	461	Q1	N/A	N/A	addiction	N/A
+bmartina	103	462	Q1	N/A	N/A	addiction	N/A
+Taximan283	103	463	Q1	N/A	N/A	addiction	N/A
+bmartina	103	464	Q1	N/A	N/A	addiction	N/A
+lisakimmy	103	465	Q1	N/A	N/A	addiction	N/A
+hopeandfaith44	104	466	Q1	N/A	N/A	addiction	N/A
+mind_situation	104	467	Q1	N/A	N/A	addiction	N/A
+gailb54	104	468	Q1	N/A	N/A	addiction	N/A
+Taximan283	104	469	Q1	N/A	N/A	addiction	N/A
+hopeandfaith44	104	470	Q1	N/A	N/A	addiction	N/A
+gailb54	104	471	Q1	N/A	N/A	addiction	N/A
+hopeandfaith44	104	472	Q1	N/A	N/A	addiction	N/A
+ctina517	105	473	Q1	N/A	N/A	addiction	N/A
+Taximan283	105	474	Q1	N/A	N/A	addiction	N/A
+ctina517	105	475	Q1	N/A	N/A	addiction	N/A
+Pearl_GQ	106	476	Q3	N/A	N/A	addiction	N/A
+gailb54	106	477	Q1	N/A	N/A	addiction	N/A
+Taximan283	106	478	Q1	N/A	N/A	addiction	N/A
+lisakimmy13	107	479	Q2	N/A	N/A	addiction	N/A
+Taximan283	107	480	Q1	N/A	N/A	addiction	N/A
+lisakimmy	107	481	Q1	N/A	N/A	addiction	N/A
+lisakimmy	107	482	Q1	N/A	N/A	addiction	N/A
+Taximan283	107	483	Q1	N/A	N/A	addiction	N/A
+Taximan283	107	484	Q1	N/A	N/A	addiction	N/A
+Taximan283	107	485	Q1	N/A	N/A	addiction	N/A
+Taximan283	107	486	Q1	N/A	N/A	addiction	N/A
+clynn240	108	487	Q2	N/A	N/A	addiction	N/A
+Taximan283	108	488	Q1	N/A	N/A	addiction	N/A
+wantn2bfree86	108	489	Q1	N/A	N/A	addiction	N/A
+Jonathon1962	108	490	Q1	N/A	N/A	addiction	N/A
+Jonathon1962	108	491	Q1	N/A	N/A	addiction	N/A
+JennJenny	108	492	Q3	N/A	N/A	addiction	N/A
+Kayap	108	493	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	108	494	Q1	N/A	N/A	addiction	N/A
+IQuestionEverything1111	109	495	Q3	N/A	N/A	addiction	N/A
+Taximan283	109	496	Q1	N/A	N/A	addiction	N/A
+pooh_bear_008;	109	497	Q2	N/A	N/A	addiction	N/A
+needsadvice0706	109	498	Q2	N/A	N/A	addiction	N/A
+luv2travel2	109	499	Q2	N/A	N/A	addiction	N/A
+marinewife24	110	500	Q2	N/A	N/A	addiction	N/A
+Taximan283	110	501	Q1	N/A	N/A	addiction	N/A
+Carminesmama104	110	502	Q3	N/A	N/A	addiction	N/A
+bmartina	110	503	Q1	N/A	N/A	addiction	N/A
+Taximan283	110	504	Q1	N/A	N/A	addiction	N/A
+pinkpatty24	110	505	Q2	N/A	N/A	addiction	N/A
+Taximan283	110	506	Q1	N/A	N/A	addiction	N/A
+tica36	110	507	Q2	N/A	N/A	addiction	N/A
+Taximan283	110	508	Q1	N/A	N/A	addiction	N/A
+gailb54	110	509	Q1	N/A	N/A	addiction	N/A
+sunflower62509	111	510	Q1	N/A	N/A	addiction	N/A
+gailb54	111	511	Q1	N/A	N/A	addiction	N/A
+sunflower62509	111	512	Q1	N/A	N/A	addiction	N/A
+gailb54	111	513	Q1	N/A	N/A	addiction	N/A
+betterlife75	111	514	Q1	N/A	N/A	addiction	N/A
+betterlife75	111	515	Q1	N/A	N/A	addiction	N/A
+mind_situation	111	516	Q1	N/A	N/A	addiction	N/A
+gailb54	111	517	Q1	N/A	N/A	addiction	N/A
+betterlife75	111	518	Q1	N/A	N/A	addiction	N/A
+Olivia_WebMD_Staff	112	519	WebMd Staff	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	112	520	Q1	N/A	N/A	addiction	N/A
+Taximan283	113	521	Q1	N/A	N/A	addiction	N/A
+sdeere	113	522	Q3	N/A	N/A	addiction	N/A
+keep_it_still	113	523	Q1	N/A	N/A	addiction	N/A
+hans248	114	524	Q2	N/A	N/A	addiction	N/A
+wantn2bfree86	114	525	Q1	N/A	N/A	addiction	N/A
+Taximan283	114	526	Q1	N/A	N/A	addiction	N/A
+Leili0620	114	527	Q1	N/A	N/A	addiction	N/A
+debaser	115	528	Q1	N/A	N/A	addiction	N/A
+Taximan283	115	529	Q1	N/A	N/A	addiction	N/A
+LEM205	116	530	Q1	N/A	N/A	addiction	N/A
+Taximan283	116	531	Q1	N/A	N/A	addiction	N/A
+mind_situation	116	532	Q1	N/A	N/A	addiction	N/A
+oceanlover759	116	533	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	116	534	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	116	535	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	116	536	Q1	N/A	N/A	addiction	N/A
+qwkslvr	117	537	Q1	N/A	N/A	addiction	N/A
+Taximan283	117	538	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	118	539	WebMd Staff	N/A	N/A	addiction	N/A
+Leili0620	119	540	Q1	N/A	N/A	addiction	N/A
+Taximan283	119	541	Q1	N/A	N/A	addiction	N/A
+Leili0620	119	542	Q1	N/A	N/A	addiction	N/A
+NMHMadison	120	543	Q2	N/A	N/A	addiction	N/A
+Taximan283	120	544	Q1	N/A	N/A	addiction	N/A
+oceanlover759	120	545	Q1	N/A	N/A	addiction	N/A
+Scared_Straight	121	546	Q3	N/A	N/A	addiction	N/A
+oceanlover759	121	547	Q1	N/A	N/A	addiction	N/A
+Taximan283	121	548	Q1	N/A	N/A	addiction	N/A
+oceanlover759	122	549	Q1	N/A	N/A	addiction	N/A
+MOCTOBER	122	550	Q1	N/A	N/A	addiction	N/A
+Taximan283	122	551	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	123	552	WebMd Staff	N/A	N/A	addiction	N/A
+lisakimmy	124	553	Q1	N/A	N/A	addiction	N/A
+mind_situation	124	554	Q1	N/A	N/A	addiction	N/A
+Taximan283	124	555	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	125	556	WebMd Staff	N/A	N/A	addiction	N/A
+BridgetB1982	126	557	Q1	N/A	N/A	addiction	N/A
+mind_situation	126	558	Q1	N/A	N/A	addiction	N/A
+BridgetB1982	126	559	Q1	N/A	N/A	addiction	N/A
+mind_situation	126	560	Q1	N/A	N/A	addiction	N/A
+BridgetB1982	126	561	Q1	N/A	N/A	addiction	N/A
+gailb54	126	562	Q1	N/A	N/A	addiction	N/A
+BridgetB1982	126	563	Q1	N/A	N/A	addiction	N/A
+sunflower62509	127	564	Q1	N/A	N/A	addiction	N/A
+gailb54	127	565	Q1	N/A	N/A	addiction	N/A
+sunflower62509	127	566	Q1	N/A	N/A	addiction	N/A
+gailb54	127	567	Q1	N/A	N/A	addiction	N/A
+alwyshungry	128	568	Q2	N/A	N/A	addiction	N/A
+BridgetB1982	128	569	Q1	N/A	N/A	addiction	N/A
+Taximan283	128	570	Q1	N/A	N/A	addiction	N/A
+menopausalwitch	129	571	Q2	N/A	N/A	addiction	N/A
+Kayap	129	572	Q1	N/A	N/A	addiction	N/A
+Taximan283	129	573	Q1	N/A	N/A	addiction	N/A
+gailb54	129	574	Q1	N/A	N/A	addiction	N/A
+linn123	130	575	Q2	N/A	N/A	addiction	N/A
+Kayap	130	576	Q1	N/A	N/A	addiction	N/A
+gailb54	130	577	Q1	N/A	N/A	addiction	N/A
+amygrrl00	131	578	Q2	N/A	N/A	addiction	N/A
+Taximan283	131	579	Q1	N/A	N/A	addiction	N/A
+Kayap	131	580	Q1	N/A	N/A	addiction	N/A
+betterlife75	131	581	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	131	582	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	131	583	Q1	N/A	N/A	addiction	N/A
+ladygabber	132	584	Q3	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	133	585	WebMd Staff	0	gov	addiction	http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-to-a-Joint-Session-of-Congress-on-Health-Care/ 
+Annie_WebMD_Staff	133	585	WebMd Staff	0	gov	addiction	http://republicanleader.house.gov/News/DocumentSingle.aspx?DocumentID=144009"
+Taximan283	133	586	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	134	587	WebMd Staff	0	gov	addiction	http://www.whitehouse.gov/the_press_office/Remarks-by-the-President-to-a-Joint-Session-of-Congress-on-Health-Care/ 
+Annie_WebMD_Staff	134	587	WebMd Staff	0	gov	addiction	http://republicanleader.house.gov/News/DocumentSingle.aspx?DocumentID=144009"
+Taximan283	134	588	Q1	N/A	N/A	addiction	N/A
+;	135	589	Q2	N/A	N/A	addiction	N/A
+Taximan283	135	590	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	136	591	Q1	N/A	N/A	addiction	N/A
+Taximan283	136	592	Q1	N/A	N/A	addiction	N/A
+gailb54	136	593	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	136	594	Q1	N/A	N/A	addiction	N/A
+Taximan283	136	595	Q1	N/A	N/A	addiction	N/A
+Taximan283	136	596	Q1	N/A	N/A	addiction	N/A
+mind_situation	136	597	Q1	N/A	N/A	addiction	N/A
+bmartina	136	598	Q1	N/A	N/A	addiction	N/A
+GaGirl1031	137	599	Q1	N/A	N/A	addiction	N/A
+rachelintn	137	600	Q1	N/A	N/A	addiction	N/A
+GaGirl1031	137	601	Q1	N/A	N/A	addiction	N/A
+rachelintn	137	602	Q1	N/A	N/A	addiction	N/A
+Taximan283	137	603	Q1	N/A	N/A	addiction	N/A
+rachelintn	138	604	Q1	N/A	N/A	addiction	N/A
+Taximan283	138	605	Q1	N/A	N/A	addiction	N/A
+keep_it_still	138	606	Q1	1	Other	addiction	www.suboxone.com 
+Frankmulkern	139	607	Q2	N/A	N/A	addiction	N/A
+Taximan283	139	608	Q1	N/A	N/A	addiction	N/A
+howluckyweare	140	609	Q1	N/A	N/A	addiction	N/A
+Taximan283	140	610	Q1	N/A	N/A	addiction	N/A
+bmartina	141	611	Q1	N/A	N/A	addiction	N/A
+Taximan283	141	612	Q1	N/A	N/A	addiction	N/A
+treazure05	142	613	Q2	N/A	N/A	addiction	N/A
+Cinderfknella	142	614	Q2	N/A	N/A	addiction	N/A
+Taximan283	142	615	Q1	N/A	N/A	addiction	N/A
+69sheshe	142	616	Q3	N/A	N/A	addiction	N/A
+Cinderfknella	143	617	Q2	N/A	N/A	addiction	N/A
+Taximan283	143	618	Q1	N/A	N/A	addiction	N/A
+Ineedhelpbad	144	619	Q2	N/A	N/A	addiction	N/A
+Taximan283	144	620	Q1	N/A	N/A	addiction	N/A
+keep_it_still	144	621	Q1	1	Other	addiction	www.suboxone.com 
+seekingsmiles	144	622	Q1	N/A	N/A	addiction	N/A
+Ineedhelpbad	144	623	Q2	N/A	N/A	addiction	N/A
+Taximan283	144	624	Q1	N/A	N/A	addiction	N/A
+keep_it_still	145	625	Q1	N/A	N/A	addiction	N/A
+seekingsmiles	145	626	Q1	N/A	N/A	addiction	N/A
+keep_it_still	145	627	Q1	N/A	N/A	addiction	N/A
+mind_situation	145	628	Q1	N/A	N/A	addiction	N/A
+ilovelynn	145	629	Q1	N/A	N/A	addiction	N/A
+seekingsmiles	146	630	Q1	N/A	N/A	addiction	N/A
+bmartina	146	631	Q1	N/A	N/A	addiction	N/A
+seekingsmiles	146	632	Q1	N/A	N/A	addiction	N/A
+bmartina	146	633	Q1	N/A	N/A	addiction	N/A
+seekingsmiles	146	634	Q1	N/A	N/A	addiction	N/A
+FEARMETJS	147	635	Q1	N/A	N/A	addiction	N/A
+FEARMETJS	147	636	Q1	N/A	N/A	addiction	N/A
+Shay1221	147	637	Q1	N/A	N/A	addiction	N/A
+onlyODAAT	147	638	Q1	N/A	N/A	addiction	N/A
+howluckyweare	147	639	Q1	N/A	N/A	addiction	N/A
+uscojamie	148	640	Q1	N/A	N/A	addiction	N/A
+keep_it_still	148	641	Q1	N/A	N/A	addiction	N/A
+uscojamie	148	642	Q1	N/A	N/A	addiction	N/A
+keep_it_still	149	643	Q1	N/A	N/A	addiction	N/A
+onlyODAAT	149	644	Q1	N/A	N/A	addiction	N/A
+Taximan283	149	645	Q1	N/A	N/A	addiction	N/A
+ilovelynn	149	646	Q1	N/A	N/A	addiction	N/A
+Taximan283	149	647	Q1	N/A	N/A	addiction	N/A
+lisakimmy	149	648	Q1	N/A	N/A	addiction	N/A
+lisakimmy	149	649	Q1	N/A	N/A	addiction	N/A
+Taximan283	149	650	Q1	N/A	N/A	addiction	N/A
+lisakimmy	149	651	Q1	N/A	N/A	addiction	N/A
+ilovelynn	149	652	Q1	N/A	N/A	addiction	N/A
+moongirl1005	150	653	Q2	N/A	N/A	addiction	N/A
+howluckyweare	150	654	Q1	N/A	N/A	addiction	N/A
+Taximan283	150	655	Q1	N/A	N/A	addiction	N/A
+seadunes01	151	656	Q2	N/A	N/A	addiction	N/A
+Shay1221	151	657	Q1	N/A	N/A	addiction	N/A
+Taximan283	151	658	Q1	N/A	N/A	addiction	N/A
+tony2tall	152	659	Q2	N/A	N/A	addiction	N/A
+gailb54	152	660	Q1	N/A	N/A	addiction	N/A
+tony2tall	152	661	Q2	N/A	N/A	addiction	N/A
+thedudemanbro	153	662	Q2	N/A	N/A	addiction	N/A
+Taximan283	153	663	Q1	N/A	N/A	addiction	N/A
+graciesmomma1	154	664	Q2	N/A	N/A	addiction	N/A
+Taximan283	154	665	Q1	N/A	N/A	addiction	N/A
+graciesmomma1	154	666	Q2	N/A	N/A	addiction	N/A
+Unit328	155	667	Q1	N/A	N/A	addiction	N/A
+lisakimmy	155	668	Q1	N/A	N/A	addiction	N/A
+kimba2222	155	669	Q1	N/A	N/A	addiction	N/A
+Unit328	155	670	Q1	N/A	N/A	addiction	N/A
+Taximan283	155	671	Q1	N/A	N/A	addiction	N/A
+Unit328	155	672	Q1	N/A	N/A	addiction	N/A
+green_eyes88	156	673	Q2	N/A	N/A	addiction	N/A
+Unit328	156	674	Q1	1	Other	addiction	www.suboxone.com 
+Taximan283	156	675	Q1	N/A	N/A	addiction	N/A
+lisakimmy	156	676	Q1	N/A	N/A	addiction	N/A
+gailb54	158	677	Q1	N/A	N/A	addiction	N/A
+Shay1221	158	678	Q1	N/A	N/A	addiction	N/A
+Unit328	158	679	Q1	N/A	N/A	addiction	N/A
+murphycl	159	680	Q2	N/A	N/A	addiction	N/A
+diligenttom	159	681	Q2	N/A	N/A	addiction	N/A
+Taximan283	159	682	Q1	N/A	N/A	addiction	N/A
+mysterious_one	160	683	Q1	N/A	N/A	addiction	N/A
+mysterious_one	160	684	Q1	N/A	N/A	addiction	N/A
+Taximan283	160	685	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	161	686	WebMd Staff	N/A	N/A	addiction	N/A
+amything	162	687	Q2	N/A	N/A	addiction	N/A
+Taximan283	162	688	Q1	N/A	N/A	addiction	N/A
+justjo22	162	689	Q2	N/A	N/A	addiction	N/A
+missdowndazed	162	690	Q3	N/A	N/A	addiction	N/A
+howluckyweare	163	691	Q1	N/A	N/A	addiction	N/A
+kimba2222	163	692	Q1	N/A	N/A	addiction	N/A
+BIGNALLNEEDSHELP	164	693	Q3	N/A	N/A	addiction	N/A
+ilovelynn	164	694	Q1	N/A	N/A	addiction	N/A
+Taximan283	164	695	Q1	N/A	N/A	addiction	N/A
+mrnathan	164	696	Q2	N/A	N/A	addiction	N/A
+BabyTownsend2010	164	697	Q1	N/A	N/A	addiction	N/A
+Beckyvs1979	165	698	Q3	N/A	N/A	addiction	N/A
+kimba2222	165	699	Q1	N/A	N/A	addiction	N/A
+DesperateAndScared	166	700	Q2	N/A	N/A	addiction	N/A
+DesperateAndScared	166	701	Q2	N/A	N/A	addiction	N/A
+Taximan283	166	702	Q1	N/A	N/A	addiction	N/A
+Joey505	167	703	Q2	N/A	N/A	addiction	N/A
+Taximan283	167	704	Q1	N/A	N/A	addiction	N/A
+Rosie_WebMD_Staff	168	705	WebMd Staff	N/A	N/A	addiction	N/A
+fioricet	169	706	Q2	N/A	N/A	addiction	N/A
+Taximan283	169	707	Q1	N/A	N/A	addiction	N/A
+0112358	169	708	Q1	N/A	N/A	addiction	N/A
+0112358	169	709	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	170	710	WebMd Staff	N/A	N/A	addiction	N/A
+cooker6920	171	711	Q1	N/A	N/A	addiction	N/A
+Taximan283	171	712	Q1	N/A	N/A	addiction	N/A
+gailb54	171	713	Q1	N/A	N/A	addiction	N/A
+Taximan283	171	714	Q1	N/A	N/A	addiction	N/A
+cooker6920	171	715	Q1	N/A	N/A	addiction	N/A
+Taximan283	171	716	Q1	N/A	N/A	addiction	N/A
+misty301	172	717	Q2	N/A	N/A	addiction	N/A
+scooobie	172	718	Q1	N/A	N/A	addiction	N/A
+Taximan283	172	719	Q1	N/A	N/A	addiction	N/A
+misty301	172	720	Q2	N/A	N/A	addiction	N/A
+Taximan283	172	721	Q1	N/A	N/A	addiction	N/A
+betterlife75	172	722	Q1	N/A	N/A	addiction	N/A
+Taximan283	172	723	Q1	N/A	N/A	addiction	N/A
+daysjunkie	173	724	Q1	N/A	N/A	addiction	N/A
+Taximan283	173	725	Q1	N/A	N/A	addiction	N/A
+scooobie	173	726	Q1	N/A	N/A	addiction	N/A
+Queenjen87	174	727	Q3	N/A	N/A	addiction	N/A
+gailb54	174	728	Q1	N/A	N/A	addiction	N/A
+mysterious_one	175	729	Q1	N/A	N/A	addiction	N/A
+Taximan283	175	730	Q1	N/A	N/A	addiction	N/A
+ExAddict	176	731	Q3	N/A	N/A	addiction	N/A
+Taximan283	176	732	Q1	N/A	N/A	addiction	N/A
+Hazel376	176	733	Q2	N/A	N/A	addiction	N/A
+Hazel376	176	734	Q2	N/A	N/A	addiction	N/A
+lmich67	177	735	Q3	N/A	N/A	addiction	N/A
+Taximan283	177	736	Q1	N/A	N/A	addiction	N/A
+jmc1234	177	737	Q2	N/A	N/A	addiction	N/A
+BabyLovesPrada	178	738	Q1	N/A	N/A	addiction	N/A
+Taximan283	178	739	Q1	N/A	N/A	addiction	N/A
+BabyLovesPrada	178	740	Q1	N/A	N/A	addiction	N/A
+BabyLovesPrada	178	741	Q1	N/A	N/A	addiction	N/A
+gailb54	178	742	Q1	N/A	N/A	addiction	N/A
+BabyLovesPrada	178	743	Q1	N/A	N/A	addiction	N/A
+gailb54	178	744	Q1	N/A	N/A	addiction	N/A
+jimbeaubien2469	179	745	Q2	N/A	N/A	addiction	N/A
+Taximan283	179	746	Q1	N/A	N/A	addiction	N/A
+luckygirl97	180	747	Q2	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	181	748	Q1	N/A	N/A	addiction	N/A
+TheSullenGirl	182	749	Q2	N/A	N/A	addiction	N/A
+gailb54	182	750	Q1	N/A	N/A	addiction	N/A
+luckygirl97	183	751	Q2	N/A	N/A	addiction	N/A
+Taximan283	183	752	Q1	N/A	N/A	addiction	N/A
+gailb54	183	753	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	183	754	Q1	N/A	N/A	addiction	N/A
+Taximan283	183	755	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	183	756	Q1	N/A	N/A	addiction	N/A
+mamuffin	183	757	Q2	N/A	N/A	addiction	N/A
+Taximan283	183	758	Q1	N/A	N/A	addiction	N/A
+dan4453	183	759	Q2	N/A	N/A	addiction	N/A
+fffan1088	183	760	Q1	N/A	N/A	addiction	N/A
+fffan1088	183	761	Q1	N/A	N/A	addiction	N/A
+oliviapostal	183	762	Q2	N/A	N/A	addiction	N/A
+An_253849	183	763	Q2	N/A	N/A	addiction	N/A
+misstashababi	183	764	Q1	N/A	N/A	addiction	N/A
+misstashababi	183	765	Q1	N/A	N/A	addiction	N/A
+misstashababi	183	766	Q1	N/A	N/A	addiction	N/A
+An_254244	183	767	Q2	N/A	N/A	addiction	N/A
+hwhite207	183	768	Q3	N/A	N/A	addiction	N/A
+biged57	183	769	Q2	N/A	N/A	addiction	N/A
+biged57	183	770	Q2	N/A	N/A	addiction	N/A
+meeeeegan1	185	771	Q2	N/A	N/A	addiction	N/A
+BabyTownsend2010	185	772	Q1	N/A	N/A	addiction	N/A
+Taximan283	186	773	Q1	N/A	N/A	addiction	N/A
+gailb54	186	774	Q1	N/A	N/A	addiction	N/A
+Taximan283	186	775	Q1	N/A	N/A	addiction	N/A
+gailb54	186	776	Q1	N/A	N/A	addiction	N/A
+gailb54	186	777	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	187	778	Q1	N/A	N/A	addiction	N/A
+Taximan283	187	779	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	187	780	Q1	N/A	N/A	addiction	N/A
+gailb54	187	781	Q1	N/A	N/A	addiction	N/A
+gailb54	187	782	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	187	783	Q1	N/A	N/A	addiction	N/A
+gailb54	187	784	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	187	785	Q1	N/A	N/A	addiction	N/A
+BabyTownsend2010	187	786	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	188	787	Q1	N/A	N/A	addiction	N/A
+Shanee09	190	788	Q2	N/A	N/A	addiction	N/A
+Taximan283	190	789	Q1	N/A	N/A	addiction	N/A
+anon228	191	790	Q1	N/A	N/A	addiction	N/A
+Taximan283	191	791	Q1	N/A	N/A	addiction	N/A
+SUPERHEROS	191	792	Q2	N/A	N/A	addiction	N/A
+anon228	192	793	Q1	N/A	N/A	addiction	N/A
+anon228	193	794	Q1	N/A	N/A	addiction	N/A
+duller	194	795	Q3	N/A	N/A	addiction	N/A
+Taximan283	194	796	Q1	N/A	N/A	addiction	N/A
+1stSpring77	195	797	Q2	N/A	N/A	addiction	N/A
+Taximan283	195	798	Q1	N/A	N/A	addiction	N/A
+gailb54	195	799	Q1	N/A	N/A	addiction	N/A
+gonzales69	196	800	Q3	N/A	N/A	addiction	N/A
+Taximan283	196	801	Q1	N/A	N/A	addiction	N/A
+gailb54	196	802	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	197	803	Q1	N/A	N/A	addiction	N/A
+gailb54	197	804	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	197	805	Q1	N/A	N/A	addiction	N/A
+gailb54	197	806	Q1	N/A	N/A	addiction	N/A
+Sunsetliving1	197	807	Q1	N/A	N/A	addiction	N/A
+ALM_Amanda	198	808	Q2	N/A	N/A	addiction	N/A
+gailb54	198	809	Q1	N/A	N/A	addiction	N/A
+Taximan283	198	810	Q1	N/A	N/A	addiction	N/A
+PLS_TELL_ME_ITS_GOING_TO_BE_OK	198	811	Q1	N/A	N/A	addiction	N/A
+mary418115	198	812	Q1	N/A	N/A	addiction	N/A
+2daphne	199	813	Q3	N/A	N/A	addiction	N/A
+gailb54	199	814	Q1	0	Other	addiction	www.theantidrug.com 
+elissa1962	199	815	Q1	N/A	N/A	addiction	N/A
+Kayap	199	816	Q1	N/A	N/A	addiction	N/A
+deedeex01	199	817	Q2	N/A	N/A	addiction	N/A
+taz234	199	818	Q2	N/A	N/A	addiction	N/A
+Kayap	199	819	Q1	N/A	N/A	addiction	N/A
+POCHAYQUE;	200	820	Q2	N/A	N/A	addiction	N/A
+gailb54	200	821	Q1	N/A	N/A	addiction	N/A
+Kayap	200	822	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	202	823	WebMd Staff	N/A	N/A	addiction	N/A
+brea9	203	824	Q2	N/A	N/A	addiction	N/A
+gailb54	203	825	Q1	N/A	N/A	addiction	N/A
+elissa1962	204	826	Q1	N/A	N/A	addiction	N/A
+Taximan283	204	827	Q1	N/A	N/A	addiction	N/A
+Kayap	204	828	Q1	N/A	N/A	addiction	N/A
+elissa1962	204	829	Q1	N/A	N/A	addiction	N/A
+elissa1962	204	830	Q1	N/A	N/A	addiction	N/A
+Taximan283	204	831	Q1	N/A	N/A	addiction	N/A
+elissa1962	204	832	Q1	N/A	N/A	addiction	N/A
+imericsangel	205	833	Q3	N/A	N/A	addiction	N/A
+Taximan283	205	834	Q1	N/A	N/A	addiction	N/A
+kwalther	207	835	Q2	N/A	N/A	addiction	N/A
+Taximan283	207	836	Q1	N/A	N/A	addiction	N/A
+bellaboo3108	209	837	Q3	N/A	N/A	addiction	N/A
+Taximan283	209	838	Q1	N/A	N/A	addiction	N/A
+TheSullenGirl	210	839	Q2	N/A	N/A	addiction	N/A
+Kayap	210	840	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	212	841	WebMd Staff	N/A	N/A	addiction	N/A
+jrpowell02	213	842	Q1	N/A	N/A	addiction	N/A
+Taximan283	213	843	Q1	N/A	N/A	addiction	N/A
+live4love71	214	844	Q1	N/A	N/A	addiction	N/A
+Taximan283	214	845	Q1	N/A	N/A	addiction	N/A
+live4love71	214	846	Q1	N/A	N/A	addiction	N/A
+Taximan283	214	847	Q1	N/A	N/A	addiction	N/A
+GADZolpidemParoxetine	214	848	Q1	N/A	N/A	addiction	N/A
+mary418115	215	849	Q1	N/A	N/A	addiction	N/A
+live4love71	215	850	Q1	N/A	N/A	addiction	N/A
+jrpowell02	215	851	Q1	N/A	N/A	addiction	N/A
+mary418115	215	852	Q1	N/A	N/A	addiction	N/A
+anthony1805	216	853	Q1	N/A	N/A	addiction	N/A
+Taximan283	216	854	Q1	N/A	N/A	addiction	N/A
+Kayap	216	855	Q1	N/A	N/A	addiction	N/A
+jessica2010	217	856	Q3	N/A	N/A	addiction	N/A
+Taximan283	217	857	Q1	N/A	N/A	addiction	N/A
+Kayap	217	858	Q1	N/A	N/A	addiction	N/A
+seabean333	218	859	Q1	N/A	N/A	addiction	N/A
+Taximan283	218	860	Q1	N/A	N/A	addiction	N/A
+seabean333	218	861	Q1	N/A	N/A	addiction	N/A
+Taximan283	218	862	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	218	863	WebMd Staff	N/A	N/A	addiction	N/A
+Beth7831	220	864	Q1	N/A	N/A	addiction	N/A
+Beth7831	220	865	Q1	N/A	N/A	addiction	N/A
+Taximan283	220	866	Q1	N/A	N/A	addiction	N/A
+loe66	220	867	Q2	N/A	N/A	addiction	N/A
+SmithsGirl89	221	868	Q2	N/A	N/A	addiction	N/A
+Taximan283	221	869	Q1	N/A	N/A	addiction	N/A
+Kayap	221	870	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	223	871	WebMd Staff	N/A	N/A	addiction	N/A
+norcousr	224	872	Q2	N/A	N/A	addiction	N/A
+Taximan283	224	873	Q1	N/A	N/A	addiction	N/A
+wmbreto	225	874	Q1	N/A	N/A	addiction	N/A
+Taximan283	225	875	Q1	N/A	N/A	addiction	N/A
+wmbreto	225	876	Q1	N/A	N/A	addiction	N/A
+seabean333	225	877	Q1	N/A	N/A	addiction	N/A
+wmbreto	225	878	Q1	N/A	N/A	addiction	N/A
+Taximan283	225	879	Q1	N/A	N/A	addiction	N/A
+ami1971	225	880	Q2	N/A	N/A	addiction	N/A
+scarite	227	881	Q2	N/A	N/A	addiction	N/A
+Taximan283	227	882	Q1	N/A	N/A	addiction	N/A
+Kayap	227	883	Q1	N/A	N/A	addiction	N/A
+SecretMe7	229	884	Q1	N/A	N/A	addiction	N/A
+Taximan283	229	885	Q1	N/A	N/A	addiction	N/A
+friend39	229	886	Q1	N/A	N/A	addiction	N/A
+gpsangel	229	887	Q3	N/A	N/A	addiction	N/A
+sunny1106	229	888	Q2	N/A	N/A	addiction	N/A
+crna4u	229	889	Q2	N/A	N/A	addiction	N/A
+cynical99	230	890	Q3	N/A	N/A	addiction	N/A
+Taximan283	230	891	Q1	N/A	N/A	addiction	N/A
+looking4peace777	230	892	Q2	N/A	N/A	addiction	N/A
+molly88888	230	893	Q2	N/A	N/A	addiction	N/A
+mustbecrazy1970	231	894	Q1	N/A	N/A	addiction	N/A
+DiMarie0860	231	895	Q1	N/A	N/A	addiction	N/A
+mustbecrazy1970	231	896	Q1	N/A	N/A	addiction	N/A
+Taximan283	231	897	Q1	N/A	N/A	addiction	N/A
+Taximan283	231	898	Q1	N/A	N/A	addiction	N/A
+DiMarie0860	231	899	Q1	N/A	N/A	addiction	N/A
+Taximan283	231	900	Q1	N/A	N/A	addiction	N/A
+mustbecrazy1970	231	901	Q1	N/A	N/A	addiction	N/A
+ConstantPain1984	231	902	Q1	N/A	N/A	addiction	N/A
+robo1972	232	903	Q3	N/A	N/A	addiction	N/A
+amw3213	232	904	Q3	N/A	N/A	addiction	N/A
+SSabina	232	905	Q2	N/A	N/A	addiction	N/A
+mind_situation	232	906	Q1	N/A	N/A	addiction	N/A
+biggiesize	233	907	Q3	N/A	N/A	addiction	N/A
+Taximan283	233	908	Q1	N/A	N/A	addiction	N/A
+leavin_maryjane	233	909	Q3	N/A	N/A	addiction	N/A
+Taximan283	233	910	Q1	N/A	N/A	addiction	N/A
+gazednconfused	233	911	Q1	N/A	N/A	addiction	N/A
+gazednconfused	233	912	Q1	N/A	N/A	addiction	N/A
+Tysolambo	233	913	Q1	N/A	N/A	addiction	N/A
+Taximan283	233	914	Q1	N/A	N/A	addiction	N/A
+Tysolambo	233	915	Q1	N/A	N/A	addiction	N/A
+Tysolambo	233	916	Q1	N/A	N/A	addiction	N/A
+whydididoit	233	917	Q3	N/A	N/A	addiction	N/A
+Nickasaur	233	918	Q3	N/A	N/A	addiction	N/A
+Taximan283	233	919	Q1	N/A	N/A	addiction	N/A
+ChrisFromSCOTLAND	233	920	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	233	921	WebMd Staff	N/A	N/A	addiction	N/A
+An_226973	233	922	Q2	N/A	N/A	addiction	N/A
+joshieboi2	233	923	Q2	N/A	N/A	addiction	N/A
+shaun_spencer	233	924	Q2	0	Other	addiction	http://www.deseretnews.com/article/700096569/Addict-turned-Ironman-swims-bikes-runs-from-past.html)
+setitstraight	233	925	Q2	N/A	N/A	addiction	N/A
+crichey56	233	926	Q2	N/A	N/A	addiction	N/A
+shaun_spencer	233	927	Q2	N/A	N/A	addiction	N/A
+BuffaloBills22	233	928	Q1	N/A	N/A	addiction	N/A
+BuffaloBills22	233	929	Q1	N/A	N/A	addiction	N/A
+ACBlock	233	930	Q2	0	org	addiction	http://wikieducator.org/images/9/93/Marijuana.pdf 
+Caprice_WebMD_Staff	233	931	WebMd Staff	N/A	N/A	addiction	N/A
+Jbrophy89	233	932	Q1	N/A	N/A	addiction	N/A
+Jbrophy89	233	933	Q1	N/A	N/A	addiction	N/A
+marley_m8	233	934	Q2	N/A	N/A	addiction	N/A
+Jadebernard1	233	935	Q3	N/A	N/A	addiction	N/A
+DivineSoul	233	936	Q2	N/A	N/A	addiction	N/A
+nkaplan2113	233	937	Q1	N/A	N/A	addiction	N/A
+Mithrandir01	233	938	Q2	N/A	N/A	addiction	N/A
+lordtreasure	233	939	Q3	N/A	N/A	addiction	N/A
+NeedsSomeHelp1983	234	940	Q1	N/A	N/A	addiction	N/A
+Merrique	234	941	Q1	N/A	N/A	addiction	N/A
+NeedsSomeHelp1983	234	942	Q1	N/A	N/A	addiction	N/A
+NeedsSomeHelp1983	234	943	Q1	N/A	N/A	addiction	N/A
+friend39	234	944	Q1	N/A	N/A	addiction	N/A
+Merrique	234	945	Q1	N/A	N/A	addiction	N/A
+inthecity2008	234	946	Q2	N/A	N/A	addiction	N/A
+NeedsSomeHelp1983	234	947	Q1	N/A	N/A	addiction	N/A
+friend39	234	948	Q1	N/A	N/A	addiction	N/A
+falcon2112	234	949	Q2	N/A	N/A	addiction	N/A
+000099357	234	950	Q1	N/A	N/A	addiction	N/A
+rosebud0407	235	951	Q2	N/A	N/A	addiction	N/A
+happyhunny08	235	952	Q2	N/A	N/A	addiction	N/A
+Taximan283	235	953	Q1	N/A	N/A	addiction	N/A
+zombiesgirl	235	954	Q3	N/A	N/A	addiction	N/A
+Taximan283	235	955	Q1	N/A	N/A	addiction	N/A
+afarmer1954	235	956	Q2	N/A	N/A	addiction	N/A
+Taximan283	235	957	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	235	958	Q1	N/A	N/A	addiction	N/A
+Blazedtoo	236	959	Q2	N/A	N/A	addiction	N/A
+Taximan283	236	960	Q1	N/A	N/A	addiction	N/A
+Mizi206	236	961	Q3	N/A	N/A	addiction	N/A
+liz_186k	237	962	Q3	N/A	N/A	addiction	N/A
+Taximan283	237	963	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	237	964	WebMd Staff	N/A	N/A	addiction	N/A
+liz_lee	237	965	Q2	N/A	N/A	addiction	N/A
+Taximan283	237	966	Q1	N/A	N/A	addiction	N/A
+Sharita01	238	967	Q2	N/A	N/A	addiction	N/A
+Taximan283	238	968	Q1	N/A	N/A	addiction	N/A
+carolm56	238	969	Q3	N/A	N/A	addiction	N/A
+MEEKO104	238	970	Q2	N/A	N/A	addiction	N/A
+Gadawgs	239	971	Q2	N/A	N/A	addiction	N/A
+Taximan283	239	972	Q1	N/A	N/A	addiction	N/A
+KJO_MAO	239	973	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	239	974	WebMd Staff	N/A	N/A	addiction	N/A
+ConstantPain1984	239	975	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	240	976	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	240	977	Q1	N/A	N/A	addiction	N/A
+Becca0411	240	978	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	240	979	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	240	980	Q1	N/A	N/A	addiction	N/A
+Becca0411	240	981	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	240	982	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	240	983	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	241	984	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	241	985	Q1	N/A	N/A	addiction	N/A
+Becca0411	241	986	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	241	987	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	241	988	Q1	N/A	N/A	addiction	N/A
+Becca0411	241	989	Q1	N/A	N/A	addiction	N/A
+worriedconfusedinla	241	990	Q1	N/A	N/A	addiction	N/A
+yonsiegirl16	241	991	Q1	N/A	N/A	addiction	N/A
+Becca0411	242	992	Q1	N/A	N/A	addiction	N/A
+truste	243	993	Q1	N/A	N/A	addiction	N/A
+truste	243	994	Q1	N/A	N/A	addiction	N/A
+Taximan283	243	995	Q1	N/A	N/A	addiction	N/A
+mas11	243	996	Q2	N/A	N/A	addiction	N/A
+truste	243	997	Q1	N/A	N/A	addiction	N/A
+amack00	244	998	Q2	N/A	N/A	addiction	N/A
+yonsiegirl16	244	999	Q1	N/A	N/A	addiction	N/A
+Kayap	244	1000	Q1	N/A	N/A	addiction	N/A
+cspixiepie	244	1001	Q2	N/A	N/A	addiction	N/A
+rcguy	245	1002	Q1	N/A	N/A	addiction	N/A
+Kayap	245	1003	Q1	N/A	N/A	addiction	N/A
+rcguy	245	1004	Q1	N/A	N/A	addiction	N/A
+Kayap	245	1005	Q1	N/A	N/A	addiction	N/A
+rcguy	245	1006	Q1	N/A	N/A	addiction	N/A
+Kayap	245	1007	Q1	N/A	N/A	addiction	N/A
+rcguy	245	1008	Q1	N/A	N/A	addiction	N/A
+mothman234	245	1009	Q2	N/A	N/A	addiction	N/A
+rcguy	245	1010	Q1	N/A	N/A	addiction	N/A
+Melissa12110	246	1011	Q2	N/A	N/A	addiction	N/A
+Kayap	246	1012	Q1	N/A	N/A	addiction	N/A
+anthony1805	247	1013	Q1	N/A	N/A	addiction	N/A
+Kayap	247	1014	Q1	N/A	N/A	addiction	N/A
+dwb1981	248	1015	Q2	N/A	N/A	addiction	N/A
+Taximan283	248	1016	Q1	N/A	N/A	addiction	N/A
+mpalmer42385	249	1017	Q2	N/A	N/A	addiction	N/A
+RyanDuncan	249	1018	Q1	N/A	N/A	addiction	N/A
+WetRks	249	1019	Q2	N/A	N/A	addiction	N/A
+antjoy	250	1020	Q2	N/A	N/A	addiction	N/A
+Kayap	250	1021	Q1	N/A	N/A	addiction	N/A
+jogeo	251	1022	Q1	N/A	N/A	addiction	N/A
+hrsnrndhurts	251	1023	Q2	N/A	N/A	addiction	N/A
+jogeo	251	1024	Q1	N/A	N/A	addiction	N/A
+dallaschic	251	1025	Q2	N/A	N/A	addiction	N/A
+kimba56	251	1026	Q3	N/A	N/A	addiction	N/A
+jogeo	251	1027	Q1	N/A	N/A	addiction	N/A
+nangarf	251	1028	Q2	N/A	N/A	addiction	N/A
+12talk	252	1029	Q2	N/A	N/A	addiction	N/A
+Taximan283	252	1030	Q1	N/A	N/A	addiction	N/A
+ConstantPain1984	252	1031	Q1	N/A	N/A	addiction	N/A
+jenius715	252	1032	Q1	N/A	N/A	addiction	N/A
+12talk	253	1033	Q2	N/A	N/A	addiction	N/A
+Taximan283	253	1034	Q1	N/A	N/A	addiction	N/A
+ConstantPain1984	253	1035	Q1	N/A	N/A	addiction	N/A
+jenius715	253	1036	Q1	N/A	N/A	addiction	N/A
+lostsoul1234	254	1037	Q2	N/A	N/A	addiction	N/A
+Kayap	254	1038	Q1	0	Other	addiction	www.sinclairmethod.com 
+jenius715	254	1039	Q1	N/A	N/A	addiction	N/A
+chayd	254	1040	Q3	N/A	N/A	addiction	N/A
+BP_II	255	1041	Q3	N/A	N/A	addiction	N/A
+Taximan283	255	1042	Q1	N/A	N/A	addiction	N/A
+karanna	255	1043	Q1	N/A	N/A	addiction	N/A
+rcguy	256	1044	Q1	N/A	N/A	addiction	N/A
+Taximan283	256	1045	Q1	N/A	N/A	addiction	N/A
+rcguy	256	1046	Q1	N/A	N/A	addiction	N/A
+Hcarter1956	256	1047	Q3	N/A	N/A	addiction	N/A
+rcguy	256	1048	Q1	N/A	N/A	addiction	N/A
+truste	256	1049	Q1	N/A	N/A	addiction	N/A
+rcguy	256	1050	Q1	N/A	N/A	addiction	N/A
+BondsSquad	257	1051	Q2	N/A	N/A	addiction	N/A
+Taximan283	257	1052	Q1	N/A	N/A	addiction	N/A
+Kayap	257	1053	Q1	N/A	N/A	addiction	N/A
+nikkimc42;	257	1054	Q2	N/A	N/A	addiction	N/A
+mountain2012	258	1055	Q2	N/A	N/A	addiction	N/A
+Taximan283	258	1056	Q1	N/A	N/A	addiction	N/A
+mountain2012	258	1057	Q2	N/A	N/A	addiction	N/A
+andy0415	259	1058	Q3	N/A	N/A	addiction	N/A
+Taximan283	259	1059	Q1	N/A	N/A	addiction	N/A
+transcriberchick	260	1060	Q1	N/A	N/A	addiction	N/A
+Taximan283	260	1061	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	260	1062	Q1	N/A	N/A	addiction	N/A
+transcriberchick	261	1063	Q1	N/A	N/A	addiction	N/A
+Taximan283	261	1064	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	261	1065	Q1	N/A	N/A	addiction	N/A
+Rosie_WebMD_Staff	261	1066	WebMd Staff	N/A	N/A	addiction	N/A
+babiesmom2009	262	1067	Q1	N/A	N/A	addiction	N/A
+Kayap	262	1068	Q1	N/A	N/A	addiction	N/A
+Carebear6587	263	1069	Q1	N/A	N/A	addiction	N/A
+Kayap	263	1070	Q1	N/A	N/A	addiction	N/A
+Carebear6587	263	1071	Q1	N/A	N/A	addiction	N/A
+Taximan283	263	1072	Q1	N/A	N/A	addiction	N/A
+nikkimc42;	263	1073	Q2	N/A	N/A	addiction	N/A
+babiesmom2009	264	1074	Q1	N/A	N/A	addiction	N/A
+Kayap	264	1075	Q1	N/A	N/A	addiction	N/A
+babiesmom2009	264	1076	Q1	N/A	N/A	addiction	N/A
+Kayap	264	1077	Q1	N/A	N/A	addiction	N/A
+Sampureice	265	1078	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	265	1079	Q1	N/A	N/A	addiction	N/A
+jenius715	265	1080	Q1	N/A	N/A	addiction	N/A
+Sampureice	265	1081	Q1	N/A	N/A	addiction	N/A
+jenius715	265	1082	Q1	0	Other	addiction	www.pain.com 
+mama99243	266	1083	Q2	N/A	N/A	addiction	N/A
+Taximan283	266	1084	Q1	N/A	N/A	addiction	N/A
+mommantexas	266	1085	Q2	N/A	N/A	addiction	N/A
+ShonteeisHome	266	1086	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	267	1087	Q1	N/A	N/A	addiction	N/A
+jenius715	267	1088	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	267	1089	Q1	N/A	N/A	addiction	N/A
+Kayap	267	1090	Q1	N/A	N/A	addiction	N/A
+jenius715	267	1091	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	267	1092	Q1	N/A	N/A	addiction	N/A
+Kayap	267	1093	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	267	1095	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	268	1096	Q1	N/A	N/A	addiction	N/A
+jenius715	268	1097	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	268	1098	Q1	N/A	N/A	addiction	N/A
+Kayap	268	1099	Q1	N/A	N/A	addiction	N/A
+jenius715	268	1100	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	268	1101	Q1	N/A	N/A	addiction	N/A
+Kayap	268	1102	Q1	N/A	N/A	addiction	N/A
+traceygirl1976	268	1104	Q1	N/A	N/A	addiction	N/A
+Baby11612	269	1105	Q1	N/A	N/A	addiction	N/A
+Taximan283	269	1106	Q1	N/A	N/A	addiction	N/A
+RAHSON;	270	1107	Q2	N/A	N/A	addiction	N/A
+Taximan283	270	1108	Q1	N/A	N/A	addiction	N/A
+kimtabulous3510	271	1109	Q2	N/A	N/A	addiction	N/A
+Byroney_WebMD_Staff	271	1110	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	271	1111	Q1	N/A	N/A	addiction	N/A
+kimtabulous3510	271	1112	Q2	N/A	N/A	addiction	N/A
+Taximan283	271	1113	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	271	1114	WebMd Staff	N/A	N/A	addiction	N/A
+CurlyQ1985	272	1115	Q2	N/A	N/A	addiction	N/A
+Taximan283	272	1116	Q1	N/A	N/A	addiction	N/A
+twirlz4u	272	1117	Q1	N/A	N/A	addiction	N/A
+leendeje	273	1118	Q2	N/A	N/A	addiction	N/A
+Taximan283	273	1119	Q1	N/A	N/A	addiction	N/A
+karanna	274	1120	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	274	1121	WebMd Staff	N/A	N/A	addiction	N/A
+ShonteeisHome	274	1122	Q1	N/A	N/A	addiction	N/A
+twirlz4u	275	1123	Q1	N/A	N/A	addiction	N/A
+twirlz4u	275	1124	Q1	N/A	N/A	addiction	N/A
+freckles2805	275	1125	Q3	N/A	N/A	addiction	N/A
+twirlz4u	275	1126	Q1	N/A	N/A	addiction	N/A
+Taximan283	275	1127	Q1	N/A	N/A	addiction	N/A
+ShonteeisHome	275	1128	Q1	N/A	N/A	addiction	N/A
+jowinbo	276	1129	Q1	N/A	N/A	addiction	N/A
+jowinbo	276	1130	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	276	1131	WebMd Staff	N/A	N/A	addiction	N/A
+karanna	277	1132	Q1	N/A	N/A	addiction	N/A
+ShonteeisHome	277	1133	Q1	N/A	N/A	addiction	N/A
+ShonteeisHome	278	1134	Q1	N/A	N/A	addiction	N/A
+Taximan283	278	1135	Q1	N/A	N/A	addiction	N/A
+ShonteeisHome	278	1136	Q1	N/A	N/A	addiction	N/A
+Taximan283	278	1137	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	278	1138	Q1	N/A	N/A	addiction	N/A
+Taximan283	278	1139	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	278	1140	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	278	1141	Q1	N/A	N/A	addiction	N/A
+ibbabygirl2	278	1142	Q1	N/A	N/A	addiction	N/A
+ibbabygirl2	278	1143	Q1	N/A	N/A	addiction	N/A
+ibbabygirl2	278	1144	Q1	N/A	N/A	addiction	N/A
+ibbabygirl2	278	1145	Q1	N/A	N/A	addiction	N/A
+Lupylisa44	279	1146	Q1	N/A	N/A	addiction	N/A
+Taximan283	279	1147	Q1	N/A	N/A	addiction	N/A
+2feelagain	279	1148	Q3	N/A	N/A	addiction	N/A
+weevy	279	1149	Q1	N/A	N/A	addiction	N/A
+Taximan283	279	1150	Q1	N/A	N/A	addiction	N/A
+Taximan283	281	1151	Q1	N/A	N/A	addiction	N/A
+weevy	281	1152	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	281	1153	Q1	N/A	N/A	addiction	N/A
+Taximan283	281	1154	Q1	N/A	N/A	addiction	N/A
+Taximan283	281	1155	Q1	N/A	N/A	addiction	N/A
+ginablas	282	1156	Q2	N/A	N/A	addiction	N/A
+Taximan283	282	1157	Q1	N/A	N/A	addiction	N/A
+weevy	283	1158	Q1	N/A	N/A	addiction	N/A
+Taximan283	283	1159	Q1	N/A	N/A	addiction	N/A
+Taximan283	283	1160	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	284	1161	Q1	N/A	N/A	addiction	N/A
+minkysmom1	284	1162	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	284	1163	Q1	N/A	N/A	addiction	N/A
+minkysmom1	284	1164	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	284	1165	Q1	N/A	N/A	addiction	N/A
+minkysmom1	284	1166	Q1	N/A	N/A	addiction	N/A
+Taximan283	284	1167	Q1	N/A	N/A	addiction	N/A
+raider70;	285	1168	Q2	N/A	N/A	addiction	N/A
+Taximan283	285	1169	Q1	N/A	N/A	addiction	N/A
+minkysmom1	285	1170	Q1	N/A	N/A	addiction	N/A
+BorisSpider7	285	1171	Q2	N/A	N/A	addiction	N/A
+arleneshemi1967	286	1172	Q1	N/A	N/A	addiction	N/A
+Taximan283	286	1173	Q1	N/A	N/A	addiction	N/A
+arleneshemi1967	286	1174	Q1	N/A	N/A	addiction	N/A
+buddylee111	286	1175	Q2	N/A	N/A	addiction	N/A
+SEXY9952;	287	1176	Q2	N/A	N/A	addiction	N/A
+Taximan283	287	1177	Q1	N/A	N/A	addiction	N/A
+addictedgamer	288	1178	Q1	N/A	N/A	addiction	N/A
+addictedgamer	288	1179	Q1	N/A	N/A	addiction	N/A
+Taximan283	288	1180	Q1	N/A	N/A	addiction	N/A
+addictedgamer	288	1181	Q1	N/A	N/A	addiction	N/A
+rebecazavalla	289	1182	Q2	N/A	N/A	addiction	N/A
+Taximan283	289	1183	Q1	N/A	N/A	addiction	N/A
+karanna	290	1184	Q1	N/A	N/A	addiction	N/A
+whenwillhequit;	291	1185	Q1	N/A	N/A	addiction	N/A
+divalarsen;	291	1186	Q2	N/A	N/A	addiction	N/A
+whenwillhequit;	291	1187	Q1	N/A	N/A	addiction	N/A
+Taximan283	291	1188	Q1	N/A	N/A	addiction	N/A
+chey55	291	1189	Q1	N/A	N/A	addiction	N/A
+whenwillhequit;	291	1190	Q1	N/A	N/A	addiction	N/A
+chey55	291	1191	Q1	N/A	N/A	addiction	N/A
+MitchRawson	291	1192	Q2	N/A	N/A	addiction	N/A
+ADEE831	291	1193	Q1	N/A	N/A	addiction	N/A
+want_	291	1194	Q2	N/A	N/A	addiction	N/A
+beendown	291	1195	Q2	N/A	N/A	addiction	N/A
+Kayap	291	1196	Q1	N/A	N/A	addiction	N/A
+whenwillhequit;	291	1197	Q1	N/A	N/A	addiction	N/A
+myangelzheart	291	1198	Q3	N/A	N/A	addiction	N/A
+ADEE831	291	1199	Q1	N/A	N/A	addiction	N/A
+4the2ofus	292	1200	Q2	N/A	N/A	addiction	N/A
+chey55	292	1201	Q1	N/A	N/A	addiction	N/A
+Taximan283	292	1202	Q1	N/A	N/A	addiction	N/A
+jayman920	293	1203	Q1	N/A	N/A	addiction	N/A
+Taximan283	293	1204	Q1	N/A	N/A	addiction	N/A
+jayman920	293	1205	Q1	N/A	N/A	addiction	N/A
+Taximan283	293	1206	Q1	N/A	N/A	addiction	N/A
+happyhunyy1984	294	1207	Q1	N/A	N/A	addiction	N/A
+Taximan283	294	1208	Q1	N/A	N/A	addiction	N/A
+happyhunyy1984	294	1209	Q1	N/A	N/A	addiction	N/A
+Taximan283	294	1210	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	294	1211	Q1	N/A	N/A	addiction	N/A
+jcharawell21	295	1212	Q1	N/A	N/A	addiction	N/A
+Taximan283	295	1213	Q1	N/A	N/A	addiction	N/A
+jcharawell21	295	1214	Q1	N/A	N/A	addiction	N/A
+karanna	295	1215	Q1	N/A	N/A	addiction	N/A
+Taximan283	295	1216	Q1	N/A	N/A	addiction	N/A
+Taximan283	295	1217	Q1	N/A	N/A	addiction	N/A
+jcharawell21	295	1218	Q1	N/A	N/A	addiction	N/A
+Taximan283	295	1219	Q1	N/A	N/A	addiction	N/A
+westcoastgal1974	295	1220	Q3	N/A	N/A	addiction	N/A
+emerald62	295	1221	Q2	N/A	N/A	addiction	N/A
+Taximan283	295	1222	Q1	N/A	N/A	addiction	N/A
+forbryan	295	1223	Q2	N/A	N/A	addiction	N/A
+daysjunkie	295	1224	Q1	N/A	N/A	addiction	N/A
+Taximan283	295	1225	Q1	N/A	N/A	addiction	N/A
+TNFarmer	296	1226	Q2	N/A	N/A	addiction	N/A
+addictedgamer	296	1227	Q1	0	Other	addiction	www.symptomindex.com/search.php?q=alcoholism+and+signs&a=Alcoholism&type=&source=yahoo_SI00+201+0063ad_mtypee_keyword_alcoholism_and_signs 
+Jewels373	296	1228	Q2	N/A	N/A	addiction	N/A
+Kayap	296	1229	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	297	1230	WebMd Staff	N/A	N/A	addiction	N/A
+wifeofanaddict	298	1231	Q3	N/A	N/A	addiction	N/A
+addictedgamer	298	1232	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	299	1233	WebMd Staff	N/A	N/A	addiction	N/A
+raider70;	300	1234	Q2	N/A	N/A	addiction	N/A
+minkysmom1	300	1235	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	301	1236	WebMd Staff	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	302	1237	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	302	1238	Q1	N/A	N/A	addiction	N/A
+Taximan283	302	1239	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	302	1240	Q1	N/A	N/A	addiction	N/A
+Taximan283	302	1241	Q1	N/A	N/A	addiction	N/A
+sickofitall0226	303	1242	Q1	N/A	N/A	addiction	N/A
+sickofitall0226	303	1243	Q1	N/A	N/A	addiction	N/A
+Kayap	303	1244	Q1	N/A	N/A	addiction	N/A
+Taximan283	303	1245	Q1	N/A	N/A	addiction	N/A
+sickofitall0226	303	1246	Q1	N/A	N/A	addiction	N/A
+Taximan283	303	1247	Q1	N/A	N/A	addiction	N/A
+sickofitall0226	303	1248	Q1	N/A	N/A	addiction	N/A
+middlebbb	303	1249	Q3	N/A	N/A	addiction	N/A
+MeaganDawn	304	1250	Q1	N/A	N/A	addiction	N/A
+Taximan283	304	1251	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	304	1252	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	304	1253	Q1	N/A	N/A	addiction	N/A
+Taximan283	304	1254	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	304	1255	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	305	1256	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	305	1257	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	305	1258	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	306	1259	Q1	N/A	N/A	addiction	N/A
+Taximan283	306	1260	Q1	N/A	N/A	addiction	N/A
+Pam_WebMD_Staff	307	1261	WebMd Staff	N/A	N/A	addiction	N/A
+happyhunny1984	308	1262	Q1	N/A	N/A	addiction	N/A
+Taximan283	308	1263	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	308	1264	Q1	N/A	N/A	addiction	N/A
+minkysmom1	308	1265	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	309	1266	WebMd Staff	N/A	N/A	addiction	N/A
+bod27	310	1267	Q1	N/A	N/A	addiction	N/A
+Taximan283	310	1268	Q1	N/A	N/A	addiction	N/A
+bod27	310	1269	Q1	N/A	N/A	addiction	N/A
+Taximan283	310	1270	Q1	N/A	N/A	addiction	N/A
+bod27	310	1271	Q1	N/A	N/A	addiction	N/A
+minkysmom1	310	1272	Q1	N/A	N/A	addiction	N/A
+bod27	310	1273	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	311	1274	WebMd Staff	N/A	N/A	addiction	N/A
+Dano66	312	1275	Q2	N/A	N/A	addiction	N/A
+Taximan283	312	1276	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	313	1277	WebMd Staff	N/A	N/A	addiction	N/A
+happyhunny1984	314	1278	Q1	N/A	N/A	addiction	N/A
+Kayap	314	1279	Q1	N/A	N/A	addiction	N/A
+Taximan283	314	1280	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	314	1281	Q1	N/A	N/A	addiction	N/A
+minkysmom1	314	1282	Q1	N/A	N/A	addiction	N/A
+wuzacna	314	1283	Q2	N/A	N/A	addiction	N/A
+MeaganDawn	314	1284	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	314	1285	Q1	N/A	N/A	addiction	N/A
+Taximan283	314	1286	Q1	N/A	N/A	addiction	N/A
+Taximan283	314	1287	Q1	N/A	N/A	addiction	N/A
+kindness54	314	1288	Q1	N/A	N/A	addiction	N/A
+Jen__	314	1289	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	315	1290	Q1	N/A	N/A	addiction	N/A
+Taximan283	315	1291	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	315	1292	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	315	1293	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	315	1294	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	316	1295	Q1	N/A	N/A	addiction	N/A
+Kayap	316	1296	Q1	N/A	N/A	addiction	N/A
+Taximan283	316	1297	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	316	1298	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	317	1299	WebMd Staff	N/A	N/A	addiction	N/A
+jnitaRod	318	1300	Q2	N/A	N/A	addiction	N/A
+Taximan283	318	1301	Q1	N/A	N/A	addiction	N/A
+momx1x1	319	1302	Q3	N/A	N/A	addiction	N/A
+Taximan283	319	1303	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	319	1304	WebMd Staff	N/A	N/A	addiction	N/A
+happyhunny1984	320	1305	Q1	N/A	N/A	addiction	N/A
+Kayap	320	1306	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	320	1307	Q1	N/A	N/A	addiction	N/A
+Taximan283	320	1308	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	320	1309	Q1	N/A	N/A	addiction	N/A
+ctina517	321	1310	Q1	N/A	N/A	addiction	N/A
+Taximan283	321	1311	Q1	N/A	N/A	addiction	N/A
+ctina517	321	1312	Q1	N/A	N/A	addiction	N/A
+ADEE831	322	1313	Q1	N/A	N/A	addiction	N/A
+LEM205	322	1314	Q1	N/A	N/A	addiction	N/A
+ADEE831	322	1315	Q1	N/A	N/A	addiction	N/A
+Jen__	322	1316	Q1	N/A	N/A	addiction	N/A
+sunshine3247	322	1317	Q2	N/A	N/A	addiction	N/A
+LEM205	323	1318	Q1	N/A	N/A	addiction	N/A
+Taximan283	323	1319	Q1	N/A	N/A	addiction	N/A
+serenemiss	323	1320	Q3	N/A	N/A	addiction	N/A
+jess819	323	1321	Q1	N/A	N/A	addiction	N/A
+Taximan283	323	1322	Q1	N/A	N/A	addiction	N/A
+katyg102	324	1323	Q2	N/A	N/A	addiction	N/A
+Kayap	324	1324	Q1	N/A	N/A	addiction	N/A
+katyg102	324	1325	Q2	N/A	N/A	addiction	N/A
+Kayap	324	1326	Q1	N/A	N/A	addiction	N/A
+RyanDuncan	324	1327	Q1	N/A	N/A	addiction	N/A
+Taximan283	324	1328	Q1	N/A	N/A	addiction	N/A
+kindness54	324	1329	Q1	N/A	N/A	addiction	N/A
+Olathe43	324	1330	Q2	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	325	1331	WebMd Staff	N/A	N/A	addiction	N/A
+karanna	326	1332	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	327	1333	WebMd Staff	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	328	1334	WebMd Staff	N/A	N/A	addiction	N/A
+Jen__	329	1335	Q1	N/A	N/A	addiction	N/A
+Kayap	329	1336	Q1	N/A	N/A	addiction	N/A
+gardentime;	330	1337	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	330	1338	Q1	N/A	N/A	addiction	N/A
+Taximan283	330	1339	Q1	N/A	N/A	addiction	N/A
+gardentime;	330	1340	Q1	N/A	N/A	addiction	N/A
+gardentime;	330	1341	Q1	N/A	N/A	addiction	N/A
+gardentime;	330	1342	Q1	N/A	N/A	addiction	N/A
+Taximan283	330	1343	Q1	N/A	N/A	addiction	N/A
+gardentime;	330	1344	Q1	N/A	N/A	addiction	N/A
+Taximan283	330	1345	Q1	N/A	N/A	addiction	N/A
+happyhunny1984	331	1346	Q1	N/A	N/A	addiction	N/A
+Taximan283	331	1347	Q1	N/A	N/A	addiction	N/A
+ArmBarJim	332	1348	Q2	N/A	N/A	addiction	N/A
+tammylg	332	1349	Q2	N/A	N/A	addiction	N/A
+MeaganDawn	333	1350	Q1	N/A	N/A	addiction	N/A
+minkysmom1	333	1351	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	334	1352	Q1	N/A	N/A	addiction	N/A
+minkysmom1	334	1353	Q1	N/A	N/A	addiction	N/A
+Taximan283	334	1354	Q1	N/A	N/A	addiction	N/A
+Taximan283	334	1355	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	335	1356	WebMd Staff	N/A	N/A	addiction	N/A
+wellsw	336	1357	Q2	N/A	N/A	addiction	N/A
+Taximan283	336	1358	Q1	N/A	N/A	addiction	N/A
+wellsw	336	1359	Q2	N/A	N/A	addiction	N/A
+ctina517	337	1360	Q1	N/A	N/A	addiction	N/A
+Taximan283	337	1361	Q1	N/A	N/A	addiction	N/A
+ctina517	337	1362	Q1	N/A	N/A	addiction	N/A
+Taximan283	337	1363	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	338	1364	WebMd Staff	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	338	1365	WebMd Staff	N/A	N/A	addiction	N/A
+watersedge6	339	1366	Q3	N/A	N/A	addiction	N/A
+gr8friend	339	1367	Q2	N/A	N/A	addiction	N/A
+Mom09Med	339	1368	Q2	N/A	N/A	addiction	N/A
+luke211	339	1369	Q1	N/A	N/A	addiction	N/A
+Taximan283	340	1370	Q1	N/A	N/A	addiction	N/A
+modestmouse420	341	1371	Q2	N/A	N/A	addiction	N/A
+Taximan283	341	1372	Q1	N/A	N/A	addiction	N/A
+hughesangie	342	1373	Q2	N/A	N/A	addiction	N/A
+Taximan283	342	1374	Q1	N/A	N/A	addiction	N/A
+maekcb98	343	1375	Q2	N/A	N/A	addiction	N/A
+Taximan283	343	1376	Q1	N/A	N/A	addiction	N/A
+karanna	343	1377	Q1	N/A	N/A	addiction	N/A
+Tubesock	344	1378	Q2	N/A	N/A	addiction	N/A
+Taximan283	344	1379	Q1	N/A	N/A	addiction	N/A
+young12198	345	1380	Q1	N/A	N/A	addiction	N/A
+Taximan283	345	1381	Q1	N/A	N/A	addiction	N/A
+luke211	345	1382	Q1	N/A	N/A	addiction	N/A
+Taximan283	345	1383	Q1	N/A	N/A	addiction	N/A
+young12198	346	1384	Q1	N/A	N/A	addiction	N/A
+Taximan283	346	1385	Q1	N/A	N/A	addiction	N/A
+luke211	346	1386	Q1	N/A	N/A	addiction	N/A
+Taximan283	346	1387	Q1	N/A	N/A	addiction	N/A
+convoluted	347	1388	Q1	N/A	N/A	addiction	N/A
+Taximan283	347	1389	Q1	N/A	N/A	addiction	N/A
+RyanDuncan	347	1390	Q1	N/A	N/A	addiction	N/A
+convoluted	347	1391	Q1	N/A	N/A	addiction	N/A
+Taximan283	347	1392	Q1	N/A	N/A	addiction	N/A
+RyanDuncan	347	1393	Q1	N/A	N/A	addiction	N/A
+friend39	347	1394	Q1	N/A	N/A	addiction	N/A
+Indy55	347	1395	Q2	N/A	N/A	addiction	N/A
+gailb54	347	1396	Q1	N/A	N/A	addiction	N/A
+tashabug1986	347	1397	Q2	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1398	Q1	N/A	N/A	addiction	N/A
+Blondie_kate	348	1399	Q2	N/A	N/A	addiction	N/A
+littleleft	348	1400	Q1	N/A	N/A	addiction	N/A
+funnyhunny	348	1401	Q1	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1402	Q1	N/A	N/A	addiction	N/A
+littleleft	348	1403	Q1	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1404	Q1	N/A	N/A	addiction	N/A
+friend39	348	1405	Q1	N/A	N/A	addiction	N/A
+littleleft	348	1406	Q1	N/A	N/A	addiction	N/A
+Taximan283	348	1407	Q1	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1408	Q1	N/A	N/A	addiction	N/A
+Taximan283	348	1409	Q1	N/A	N/A	addiction	N/A
+funnyhunny	348	1410	Q1	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1411	Q1	N/A	N/A	addiction	N/A
+RyanDuncan	348	1412	Q1	N/A	N/A	addiction	N/A
+littleleft	348	1413	Q1	N/A	N/A	addiction	N/A
+xxxstar_shinexxx	348	1414	Q1	N/A	N/A	addiction	N/A
+littleleft	348	1415	Q1	N/A	N/A	addiction	N/A
+funnyhunny	348	1416	Q1	N/A	N/A	addiction	N/A
+twinsmomand1	348	1417	Q2	N/A	N/A	addiction	N/A
+kimmy69h	348	1418	Q2	N/A	N/A	addiction	N/A
+gcincali1	348	1419	Q2	N/A	N/A	addiction	N/A
+boothel2004	349	1420	Q1	N/A	N/A	addiction	N/A
+mariloca	349	1421	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1422	Q1	N/A	N/A	addiction	N/A
+Taximan283	349	1423	Q1	N/A	N/A	addiction	N/A
+mariloca	349	1424	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1425	Q1	N/A	N/A	addiction	N/A
+mariloca	349	1426	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1427	Q1	N/A	N/A	addiction	N/A
+gailb54	349	1428	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1429	Q1	N/A	N/A	addiction	N/A
+mariloca	349	1430	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1431	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1432	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1433	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1434	Q1	N/A	N/A	addiction	N/A
+Taximan283	349	1435	Q1	N/A	N/A	addiction	N/A
+Leili0620	349	1436	Q1	N/A	N/A	addiction	N/A
+mind_situation	349	1437	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1438	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1439	Q1	N/A	N/A	addiction	N/A
+boothel2004	349	1440	Q1	N/A	N/A	addiction	N/A
+kssziggy	350	1441	Q2	N/A	N/A	addiction	N/A
+raymond1974	350	1442	Q2	N/A	N/A	addiction	N/A
+rick3021958	350	1443	Q3	N/A	N/A	addiction	N/A
+an_apple_a_day	350	1444	Q3	N/A	N/A	addiction	N/A
+Taximan283	350	1445	Q1	N/A	N/A	addiction	N/A
+Sillywings	350	1446	Q3	N/A	N/A	addiction	N/A
+corlaw	350	1447	Q1	N/A	N/A	addiction	N/A
+rjammer	350	1448	Q1	N/A	N/A	addiction	N/A
+Taximan283	350	1449	Q1	N/A	N/A	addiction	N/A
+rjammer	350	1450	Q1	N/A	N/A	addiction	N/A
+janashell	350	1451	Q1	N/A	N/A	addiction	N/A
+Taximan283	350	1452	Q1	N/A	N/A	addiction	N/A
+janashell	350	1453	Q1	N/A	N/A	addiction	N/A
+KathrynHeath0707	350	1454	Q2	N/A	N/A	addiction	N/A
+janashell	350	1455	Q1	N/A	N/A	addiction	N/A
+Hucklebe	350	1456	Q2	N/A	N/A	addiction	N/A
+EMBailey	350	1457	Q2	N/A	N/A	addiction	N/A
+Bikhuk	350	1458	Q2	N/A	N/A	addiction	N/A
+truthsetmefree	350	1459	Q1	N/A	N/A	addiction	N/A
+truthsetmefree	350	1460	Q1	N/A	N/A	addiction	N/A
+Ikons697	350	1461	Q1	N/A	N/A	addiction	N/A
+Ikons697	350	1462	Q1	N/A	N/A	addiction	N/A
+charity1234	350	1463	Q1	N/A	N/A	addiction	N/A
+pottsem	350	1464	Q1	N/A	N/A	addiction	N/A
+pottsem	350	1465	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	350	1466	WebMd Staff	N/A	N/A	addiction	N/A
+ssachs99	350	1467	Q2	N/A	N/A	addiction	N/A
+JorgY420	350	1468	Q3	N/A	N/A	addiction	N/A
+codemiester	350	1469	Q1	N/A	N/A	addiction	N/A
+codemiester	350	1470	Q1	N/A	N/A	addiction	N/A
+codemiester	350	1471	Q1	N/A	N/A	addiction	N/A
+codemiester	350	1472	Q1	N/A	N/A	addiction	N/A
+codemiester	350	1473	Q1	N/A	N/A	addiction	N/A
+katiejill	350	1474	Q1	N/A	N/A	addiction	N/A
+katiejill	350	1475	Q1	N/A	N/A	addiction	N/A
+italianmama	350	1476	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	350	1477	WebMd Staff	N/A	N/A	addiction	N/A
+brandy749	350	1478	Q1	N/A	N/A	addiction	N/A
+rolanda	350	1479	Q3	N/A	N/A	addiction	N/A
+lori_in_ca	350	1480	Q2	N/A	N/A	addiction	N/A
+luke211	351	1481	Q1	N/A	N/A	addiction	N/A
+Taximan283	351	1482	Q1	N/A	N/A	addiction	N/A
+Taximan283	351	1483	Q1	N/A	N/A	addiction	N/A
+luke211	351	1484	Q1	N/A	N/A	addiction	N/A
+kingdavidsbaby	351	1485	Q1	N/A	N/A	addiction	N/A
+jwalker71	351	1486	Q2	N/A	N/A	addiction	N/A
+klinebonair	351	1487	Q3	N/A	N/A	addiction	N/A
+brosus	351	1488	Q2	N/A	N/A	addiction	N/A
+Yooper23	351	1489	Q2	N/A	N/A	addiction	N/A
+doggielover216	351	1490	Q1	N/A	N/A	addiction	N/A
+OSU_Nut	351	1491	Q2	N/A	N/A	addiction	N/A
+dian05	351	1492	Q2	N/A	N/A	addiction	N/A
+Kellynnb	351	1493	Q3	N/A	N/A	addiction	N/A
+gailb54	351	1494	Q1	N/A	N/A	addiction	N/A
+choclab88	351	1495	Q1	N/A	N/A	addiction	N/A
+secularsobriety	351	1496	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	351	1497	WebMd Staff	N/A	N/A	addiction	N/A
+An_226974	351	1498	Q2	N/A	N/A	addiction	N/A
+choclab88	351	1499	Q1	N/A	N/A	addiction	N/A
+bshisslak	351	1500	Q2	N/A	N/A	addiction	N/A
+AOK1064	351	1501	Q2	N/A	N/A	addiction	N/A
+An_226975	351	1502	Q2	N/A	N/A	addiction	N/A
+undefined	351	1503	Q3	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	352	1504	WebMd Staff	N/A	N/A	addiction	N/A
+Skylarkqueen	352	1505	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	352	1506	WebMd Staff	N/A	N/A	addiction	N/A
+pittykitty	352	1507	Q2	N/A	N/A	addiction	N/A
+Taximan283	352	1508	Q1	N/A	N/A	addiction	N/A
+unknown	352	1509	Q1	N/A	N/A	addiction	N/A
+unknown	352	1510	Q1	N/A	N/A	addiction	N/A
+debaser	352	1511	Q1	N/A	N/A	addiction	N/A
+wallerm	352	1512	Q2	N/A	N/A	addiction	N/A
+Taximan283	352	1513	Q1	N/A	N/A	addiction	N/A
+mary418115	352	1514	Q1	N/A	N/A	addiction	N/A
+Taximan283	352	1515	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	352	1516	Q1	N/A	N/A	addiction	N/A
+Taximan283	352	1517	Q1	N/A	N/A	addiction	N/A
+Taximan283	353	1518	Q1	N/A	N/A	addiction	N/A
+Taximan283	353	1519	Q1	N/A	N/A	addiction	N/A
+Taximan283	353	1520	Q1	N/A	N/A	addiction	N/A
+Taximan283	353	1521	Q1	N/A	N/A	addiction	N/A
+Taximan283	354	1522	Q1	N/A	N/A	addiction	N/A
+gailb54	354	1523	Q1	N/A	N/A	addiction	N/A
+unwell22	354	1524	Q1	N/A	N/A	addiction	N/A
+lilspenny	354	1525	Q2	N/A	N/A	addiction	N/A
+twoforwvu	355	1526	Q3	N/A	N/A	addiction	N/A
+_Lacey	355	1527	Q2	N/A	N/A	addiction	N/A
+corlaw	355	1528	Q1	N/A	N/A	addiction	N/A
+mary418115	356	1529	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	356	1530	Q1	N/A	N/A	addiction	N/A
+jrpowell02	357	1531	Q1	N/A	N/A	addiction	N/A
+Taximan283	357	1532	Q1	N/A	N/A	addiction	N/A
+jrpowell02	357	1533	Q1	N/A	N/A	addiction	N/A
+Taximan283	357	1534	Q1	N/A	N/A	addiction	N/A
+jrpowell02	357	1535	Q1	N/A	N/A	addiction	N/A
+Taximan283	357	1536	Q1	N/A	N/A	addiction	N/A
+unwell22	357	1537	Q1	N/A	N/A	addiction	N/A
+Taximan283	357	1538	Q1	N/A	N/A	addiction	N/A
+choclab88	357	1539	Q1	N/A	N/A	addiction	N/A
+unwell22	357	1540	Q1	N/A	N/A	addiction	N/A
+cococoffee	358	1541	Q2	N/A	N/A	addiction	N/A
+Taximan283	358	1542	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	358	1543	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	358	1544	Q1	N/A	N/A	addiction	N/A
+devenjean17	358	1545	Q2	N/A	N/A	addiction	N/A
+hgallerani	358	1546	Q2	N/A	N/A	addiction	N/A
+TDXSP08	358	1547	Q1	N/A	N/A	addiction	N/A
+marxm	358	1548	Q3	N/A	N/A	addiction	N/A
+lilboogie83	358	1549	Q3	N/A	N/A	addiction	N/A
+nobleonegal	359	1550	Q2	N/A	N/A	addiction	N/A
+mary418115	359	1551	Q1	N/A	N/A	addiction	N/A
+jesika92101	359	1552	Q3	0	org	addiction	www.na.org 
+Ladyinblack	359	1553	Q2	N/A	N/A	addiction	N/A
+Annesamess	359	1554	Q2	N/A	N/A	addiction	N/A
+KraftyOne	359	1555	Q2	N/A	N/A	addiction	N/A
+unwell22	359	1556	Q1	N/A	N/A	addiction	N/A
+lisakimmy	360	1557	Q1	N/A	N/A	addiction	N/A
+Taximan283	360	1558	Q1	N/A	N/A	addiction	N/A
+lisakimmy	360	1559	Q1	N/A	N/A	addiction	N/A
+Taximan283	360	1560	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	360	1561	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	360	1562	Q1	N/A	N/A	addiction	N/A
+designernnc	361	1563	Q3	N/A	N/A	addiction	N/A
+Taximan283	361	1564	Q1	N/A	N/A	addiction	N/A
+Kayap	361	1565	Q1	N/A	N/A	addiction	N/A
+taz234	361	1566	Q2	N/A	N/A	addiction	N/A
+unwell22	361	1567	Q1	N/A	N/A	addiction	N/A
+amailia	362	1568	Q1	N/A	N/A	addiction	N/A
+Kayap	362	1569	Q1	N/A	N/A	addiction	N/A
+amailia	362	1570	Q1	N/A	N/A	addiction	N/A
+Kayap	362	1571	Q1	N/A	N/A	addiction	N/A
+afraid4him	362	1572	Q2	N/A	N/A	addiction	N/A
+amailia	362	1573	Q1	N/A	N/A	addiction	N/A
+Kayap	362	1574	Q1	N/A	N/A	addiction	N/A
+wmbreto	363	1575	Q1	N/A	N/A	addiction	N/A
+Taximan283	363	1576	Q1	N/A	N/A	addiction	N/A
+wmbreto	363	1577	Q1	N/A	N/A	addiction	N/A
+TaySummers	364	1578	Q3	N/A	N/A	addiction	N/A
+Kayap	364	1579	Q1	N/A	N/A	addiction	N/A
+old96er	365	1580	Q2	N/A	N/A	addiction	N/A
+Kayap	365	1581	Q1	N/A	N/A	addiction	N/A
+Taximan283	365	1582	Q1	N/A	N/A	addiction	N/A
+69maverick	366	1583	Q3	N/A	N/A	addiction	N/A
+gimini1955	366	1584	Q3	N/A	N/A	addiction	N/A
+unwell22	366	1585	Q1	N/A	N/A	addiction	N/A
+HistoryGirl7	366	1586	Q2	N/A	N/A	addiction	N/A
+LiveArtLove	367	1587	Q1	N/A	N/A	addiction	N/A
+Kayap	367	1588	Q1	N/A	N/A	addiction	N/A
+LiveArtLove	367	1589	Q1	N/A	N/A	addiction	N/A
+LiveArtLove	368	1590	Q1	N/A	N/A	addiction	N/A
+Kayap	368	1591	Q1	N/A	N/A	addiction	N/A
+LiveArtLove	368	1592	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	369	1593	Q1	N/A	N/A	addiction	N/A
+wmbreto	369	1594	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	369	1595	Q1	N/A	N/A	addiction	N/A
+Taximan283	369	1596	Q1	N/A	N/A	addiction	N/A
+wmbreto	369	1597	Q1	N/A	N/A	addiction	N/A
+wmbreto	369	1598	Q1	N/A	N/A	addiction	N/A
+Taximan283	369	1599	Q1	N/A	N/A	addiction	N/A
+wmbreto	369	1600	Q1	N/A	N/A	addiction	N/A
+julabelle86	370	1601	Q2	N/A	N/A	addiction	N/A
+Kayap	370	1602	Q1	N/A	N/A	addiction	N/A
+Myheart21;	370	1603	Q2	N/A	N/A	addiction	N/A
+Marge21955	371	1604	Q1	N/A	N/A	addiction	N/A
+Kayap	371	1605	Q1	N/A	N/A	addiction	N/A
+Missmywife	372	1606	Q2	N/A	N/A	addiction	N/A
+Kayap	372	1607	Q1	N/A	N/A	addiction	N/A
+Taximan283	372	1608	Q1	N/A	N/A	addiction	N/A
+unwell22	372	1609	Q1	N/A	N/A	addiction	N/A
+thekeeper82	373	1610	Q1	N/A	N/A	addiction	N/A
+knick2010	373	1611	Q2	N/A	N/A	addiction	N/A
+knick2010	374	1612	Q2	N/A	N/A	addiction	N/A
+wmbreto	374	1613	Q1	N/A	N/A	addiction	N/A
+wmbreto	374	1614	Q1	N/A	N/A	addiction	N/A
+Taximan283	374	1615	Q1	N/A	N/A	addiction	N/A
+Kayap	374	1616	Q1	N/A	N/A	addiction	N/A
+Taximan283	374	1617	Q1	N/A	N/A	addiction	N/A
+thekeeper82	375	1618	Q1	N/A	N/A	addiction	N/A
+wmbreto	375	1619	Q1	N/A	N/A	addiction	N/A
+Taximan283	375	1620	Q1	N/A	N/A	addiction	N/A
+jessanto	375	1621	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	375	1622	Q1	N/A	N/A	addiction	N/A
+wmgsm	376	1623	Q2	N/A	N/A	addiction	N/A
+Taximan283	376	1624	Q1	N/A	N/A	addiction	N/A
+Kayap	376	1625	Q1	N/A	N/A	addiction	N/A
+unknown	377	1626	Q1	N/A	N/A	addiction	N/A
+thekeeper82	378	1627	Q1	N/A	N/A	addiction	N/A
+Taximan283	378	1628	Q1	N/A	N/A	addiction	N/A
+thekeeper82	378	1629	Q1	N/A	N/A	addiction	N/A
+Taximan283	378	1630	Q1	N/A	N/A	addiction	N/A
+thekeeper82	378	1631	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	378	1632	Q1	N/A	N/A	addiction	N/A
+Taximan283	378	1633	Q1	N/A	N/A	addiction	N/A
+Topaz03	379	1634	Q2	N/A	N/A	addiction	N/A
+MeaganPelayo	379	1635	Q1	N/A	N/A	addiction	N/A
+Kayap	379	1636	Q1	N/A	N/A	addiction	N/A
+choclab88	379	1637	Q1	N/A	N/A	addiction	N/A
+Topaz03	379	1638	Q2	N/A	N/A	addiction	N/A
+harleyhoney2130	380	1639	Q3	N/A	N/A	addiction	N/A
+Taximan283	380	1640	Q1	N/A	N/A	addiction	N/A
+vdleech	380	1641	Q1	N/A	N/A	addiction	N/A
+corlaw	380	1642	Q1	N/A	N/A	addiction	N/A
+LadyAdams	381	1643	Q3	N/A	N/A	addiction	N/A
+choclab88	381	1644	Q1	N/A	N/A	addiction	N/A
+wmbreto	381	1645	Q1	N/A	N/A	addiction	N/A
+Kayap	381	1646	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	381	1647	Q1	N/A	N/A	addiction	N/A
+dzimukas	381	1648	Q1	N/A	N/A	addiction	N/A
+hopefulmom30	381	1649	Q3	N/A	N/A	addiction	N/A
+Newlyfound	381	1650	Q3	N/A	N/A	addiction	N/A
+starryskies	381	1651	Q2	N/A	N/A	addiction	N/A
+dzimukas	382	1652	Q1	N/A	N/A	addiction	N/A
+dzimukas	382	1653	Q1	N/A	N/A	addiction	N/A
+Taximan283	382	1654	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	382	1655	Q1	N/A	N/A	addiction	N/A
+Taximan283	382	1656	Q1	N/A	N/A	addiction	N/A
+DebbieStanton	382	1657	Q2	N/A	N/A	addiction	N/A
+vdleech	383	1658	Q1	N/A	N/A	addiction	N/A
+Kayap	383	1659	Q1	N/A	N/A	addiction	N/A
+Taximan283	383	1660	Q1	N/A	N/A	addiction	N/A
+vdleech	383	1661	Q1	N/A	N/A	addiction	N/A
+Taximan283	383	1662	Q1	N/A	N/A	addiction	N/A
+jessanto	384	1663	Q1	N/A	N/A	addiction	N/A
+Kayap	384	1664	Q1	N/A	N/A	addiction	N/A
+jessanto	384	1665	Q1	N/A	N/A	addiction	N/A
+Taximan283	384	1666	Q1	N/A	N/A	addiction	N/A
+jessanto	384	1667	Q1	N/A	N/A	addiction	N/A
+Taximan283	384	1668	Q1	N/A	N/A	addiction	N/A
+jessanto	384	1669	Q1	N/A	N/A	addiction	N/A
+Taximan283	384	1670	Q1	N/A	N/A	addiction	N/A
+Kayap	384	1671	Q1	N/A	N/A	addiction	N/A
+ejfd36	384	1672	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	385	1673	Q1	N/A	N/A	addiction	N/A
+Taximan283	385	1674	Q1	N/A	N/A	addiction	N/A
+MeaganPelayo	386	1675	Q1	N/A	N/A	addiction	N/A
+Kayap	386	1676	Q1	N/A	N/A	addiction	N/A
+Anthonycrow	386	1677	Q1	N/A	N/A	addiction	N/A
+MeaganPelayo	387	1678	Q1	N/A	N/A	addiction	N/A
+Kayap	387	1679	Q1	N/A	N/A	addiction	N/A
+Anthonycrow	387	1680	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	388	1681	WebMd Staff	N/A	N/A	addiction	N/A
+je3184	389	1682	Q2	N/A	N/A	addiction	N/A
+corlaw	389	1683	Q1	N/A	N/A	addiction	N/A
+Taximan283	389	1684	Q1	N/A	N/A	addiction	N/A
+unwell22	389	1685	Q1	N/A	N/A	addiction	N/A
+ejfd36	390	1686	Q1	N/A	N/A	addiction	N/A
+bubblegum1959	390	1687	Q2	N/A	N/A	addiction	N/A
+unwell22	390	1688	Q1	N/A	N/A	addiction	N/A
+nuxsy	390	1689	Q2	N/A	N/A	addiction	N/A
+Taximan283	390	1690	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	390	1691	Q1	N/A	N/A	addiction	N/A
+Hopeful423	391	1692	Q3	N/A	N/A	addiction	N/A
+Taximan283	391	1693	Q1	N/A	N/A	addiction	N/A
+knit013	392	1694	Q1	N/A	N/A	addiction	N/A
+wmbreto	392	1695	Q1	N/A	N/A	addiction	N/A
+Jstanothersoul	392	1696	Q2	N/A	N/A	addiction	N/A
+old96er	393	1697	Q2	N/A	N/A	addiction	N/A
+Taximan283	393	1698	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	394	1699	WebMd Staff	N/A	N/A	addiction	N/A
+lilnpetite	395	1700	Q1	N/A	N/A	addiction	N/A
+lilnpetite	395	1701	Q1	N/A	N/A	addiction	N/A
+gailb54	395	1702	Q1	N/A	N/A	addiction	N/A
+knit013	395	1703	Q1	N/A	N/A	addiction	N/A
+mlrock	395	1704	Q3	N/A	N/A	addiction	N/A
+Kayap	395	1705	Q1	N/A	N/A	addiction	N/A
+lilnpetite	395	1706	Q1	N/A	N/A	addiction	N/A
+Kayap	395	1707	Q1	N/A	N/A	addiction	N/A
+gailb54	395	1708	Q1	N/A	N/A	addiction	N/A
+unwell22	395	1709	Q1	N/A	N/A	addiction	N/A
+mom4keeps	396	1710	Q1	N/A	N/A	addiction	N/A
+gailb54	396	1711	Q1	N/A	N/A	addiction	N/A
+choclab88	396	1712	Q1	N/A	N/A	addiction	N/A
+mom4keeps	396	1713	Q1	N/A	N/A	addiction	N/A
+choclab88	396	1714	Q1	N/A	N/A	addiction	N/A
+mom4keeps	396	1715	Q1	N/A	N/A	addiction	N/A
+choclab88	396	1716	Q1	N/A	N/A	addiction	N/A
+Kayap	396	1717	Q1	N/A	N/A	addiction	N/A
+mom4keeps	396	1718	Q1	N/A	N/A	addiction	N/A
+choclab88	396	1719	Q1	N/A	N/A	addiction	N/A
+squarley	396	1720	Q2	N/A	N/A	addiction	N/A
+choclab88	396	1721	Q1	N/A	N/A	addiction	N/A
+wpsana	396	1722	Q2	0	org	addiction	www.na.org)
+scorpiobaby78	396	1723	Q2	N/A	N/A	addiction	N/A
+chelle1957	396	1724	Q2	N/A	N/A	addiction	N/A
+donovanmm	397	1725	Q3	N/A	N/A	addiction	N/A
+Kayap	397	1726	Q1	N/A	N/A	addiction	N/A
+serendipity888	398	1727	Q2	N/A	N/A	addiction	N/A
+Taximan283	398	1728	Q1	N/A	N/A	addiction	N/A
+tkstage	399	1729	Q2	N/A	N/A	addiction	N/A
+Taximan283	399	1730	Q1	N/A	N/A	addiction	N/A
+tkstage	399	1731	Q2	N/A	N/A	addiction	N/A
+Chrisahx	400	1732	Q2	N/A	N/A	addiction	N/A
+choclab88	400	1733	Q1	N/A	N/A	addiction	N/A
+mom4keeps	400	1734	Q1	N/A	N/A	addiction	N/A
+mom4keeps	401	1735	Q1	N/A	N/A	addiction	N/A
+Taximan283	401	1736	Q1	N/A	N/A	addiction	N/A
+mom4keeps	401	1737	Q1	N/A	N/A	addiction	N/A
+Kayap	401	1738	Q1	N/A	N/A	addiction	N/A
+goneee	402	1739	Q1	N/A	N/A	addiction	N/A
+gailb54	402	1740	Q1	N/A	N/A	addiction	N/A
+Taximan283	402	1741	Q1	N/A	N/A	addiction	N/A
+unwell22	402	1742	Q1	N/A	N/A	addiction	N/A
+goneee	402	1743	Q1	N/A	N/A	addiction	N/A
+goneee	402	1744	Q1	N/A	N/A	addiction	N/A
+goneee	402	1745	Q1	N/A	N/A	addiction	N/A
+goneee	402	1746	Q1	N/A	N/A	addiction	N/A
+goneee	402	1747	Q1	N/A	N/A	addiction	N/A
+gailb54	402	1748	Q1	N/A	N/A	addiction	N/A
+shoegirl01	403	1749	Q2	N/A	N/A	addiction	N/A
+Taximan283	403	1750	Q1	N/A	N/A	addiction	N/A
+unknown	404	1751	Q1	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	405	1752	WebMd Staff	N/A	N/A	addiction	N/A
+OpiateAddict	406	1753	Q1	N/A	N/A	addiction	N/A
+Kayap	406	1754	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	406	1755	Q1	N/A	N/A	addiction	N/A
+choclab88	406	1756	Q1	N/A	N/A	addiction	N/A
+Shawk521	407	1757	Q1	N/A	N/A	addiction	N/A
+peach4me	407	1758	Q1	N/A	N/A	addiction	N/A
+jackie_daniels	407	1759	Q2	N/A	N/A	addiction	N/A
+Kayap	407	1760	Q1	N/A	N/A	addiction	N/A
+Kayap	407	1761	Q1	N/A	N/A	addiction	N/A
+Jenn701	407	1762	Q3	N/A	N/A	addiction	N/A
+Shawk521	407	1763	Q1	N/A	N/A	addiction	N/A
+Shawk521	407	1764	Q1	N/A	N/A	addiction	N/A
+OpiateAddict	408	1765	Q1	N/A	N/A	addiction	N/A
+peach4me	408	1766	Q1	N/A	N/A	addiction	N/A
+Taximan283	408	1767	Q1	N/A	N/A	addiction	N/A
+rjammer	408	1768	Q1	N/A	N/A	addiction	N/A
+HUSSTUDENT	408	1769	Q1	N/A	N/A	addiction	N/A
+Taximan283	408	1770	Q1	N/A	N/A	addiction	N/A
+rjammer	408	1771	Q1	N/A	N/A	addiction	N/A
+JC357	409	1772	Q3	N/A	N/A	addiction	N/A
+choclab88	409	1773	Q1	N/A	N/A	addiction	N/A
+heavymental25	409	1774	Q3	N/A	N/A	addiction	N/A
+Shawnie_	409	1775	Q1	N/A	N/A	addiction	N/A
+peach4me	410	1776	Q1	N/A	N/A	addiction	N/A
+tuti79	411	1777	Q2	N/A	N/A	addiction	N/A
+Kayap	411	1778	Q1	N/A	N/A	addiction	N/A
+NEWYEAR10	411	1779	Q3	N/A	N/A	addiction	N/A
+peach4me	412	1780	Q1	N/A	N/A	addiction	N/A
+Kayap	412	1781	Q1	N/A	N/A	addiction	N/A
+unknown	413	1782	Q1	N/A	N/A	addiction	N/A
+sallyk07	414	1783	Q3	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	415	1784	WebMd Staff	N/A	N/A	addiction	N/A
+Annie_WebMD_Staff	416	1785	WebMd Staff	N/A	N/A	addiction	N/A
+granniekress	417	1786	Q2	N/A	N/A	addiction	N/A
+choclab88	417	1787	Q1	N/A	N/A	addiction	N/A
+Wormzer3	417	1788	Q2	N/A	N/A	addiction	N/A
+Taximan283	417	1789	Q1	N/A	N/A	addiction	N/A
+HUSSTUDENT	417	1790	Q1	N/A	N/A	addiction	N/A
+antique_lens	418	1791	Q2	N/A	N/A	addiction	N/A
+Taximan283	418	1792	Q1	N/A	N/A	addiction	N/A
+spankie41	418	1793	Q3	N/A	N/A	addiction	N/A
+MeaganDawn	418	1794	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	419	1795	WebMd Staff	N/A	N/A	addiction	N/A
+Wormzer3	420	1796	Q2	N/A	N/A	addiction	N/A
+Taximan283	420	1797	Q1	0	Other	addiction	http://www.globalrph.com/narcotic.htm 
+Taximan283	420	1798	Q1	0	Other	addiction	http://www.globalrph.com/narcotic.htm 
+Damifino59	420	1799	Q2	N/A	N/A	addiction	N/A
+angelo212	420	1800	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	420	1801	WebMd Staff	N/A	N/A	addiction	N/A
+sunnwayne	420	1802	Q1	N/A	N/A	addiction	N/A
+sunnwayne	420	1803	Q1	N/A	N/A	addiction	N/A
+mommamuffinntexas	420	1804	Q2	N/A	N/A	addiction	N/A
+Taximan283	420	1805	Q1	N/A	N/A	addiction	N/A
+angelo212	420	1806	Q1	N/A	N/A	addiction	N/A
+angelo212	420	1807	Q1	N/A	N/A	addiction	N/A
+angelo212	420	1808	Q1	N/A	N/A	addiction	N/A
+0112358	420	1809	Q1	N/A	N/A	addiction	N/A
+terca88	420	1810	Q1	N/A	N/A	addiction	N/A
+justbreathe6	420	1811	Q2	N/A	N/A	addiction	N/A
+terca88	420	1812	Q1	N/A	N/A	addiction	N/A
+0112358	420	1813	Q1	N/A	N/A	addiction	N/A
+terca88	420	1814	Q1	N/A	N/A	addiction	N/A
+Taximan283	421	1815	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1816	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	421	1817	Q1	N/A	N/A	addiction	N/A
+Kayap	421	1818	Q1	N/A	N/A	addiction	N/A
+Kayap	421	1819	Q1	N/A	N/A	addiction	N/A
+Taximan283	421	1820	Q1	N/A	N/A	addiction	N/A
+Taximan283	421	1821	Q1	N/A	N/A	addiction	N/A
+Taximan283	421	1822	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1823	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/substance-abuse-exchange 
+Louise_WebMD_Staff	421	1824	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1825	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1826	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1827	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	421	1828	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1829	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	421	1830	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1831	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	421	1832	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1833	WebMd Staff	N/A	N/A	addiction	N/A
+An_226976	421	1834	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1835	WebMd Staff	N/A	N/A	addiction	N/A
+An_226977	421	1836	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1837	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1838	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1839	WebMd Staff	N/A	N/A	addiction	N/A
+An_226978	421	1840	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1841	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	421	1842	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1843	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	421	1844	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	421	1845	WebMd Staff	N/A	N/A	addiction	N/A
+An_226979	421	1846	Q1	N/A	N/A	addiction	N/A
+Taximan283	421	1847	Q1	N/A	N/A	addiction	N/A
+Taximan283	422	1848	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	422	1849	WebMd Staff	N/A	N/A	addiction	N/A
+An_226979	422	1850	Q1	N/A	N/A	addiction	N/A
+Taximan283	422	1851	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	422	1852	WebMd Staff	N/A	N/A	addiction	N/A
+An_226979	422	1853	Q1	N/A	N/A	addiction	N/A
+Taximan283	422	1854	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	422	1855	WebMd Staff	N/A	N/A	addiction	N/A
+An_226979	422	1856	Q1	N/A	N/A	addiction	N/A
+Taximan283	422	1857	Q1	N/A	N/A	addiction	N/A
+mysterious_one	423	1858	Q1	N/A	N/A	addiction	N/A
+Taximan283	423	1859	Q1	N/A	N/A	addiction	N/A
+kimba2222	423	1860	Q1	N/A	N/A	addiction	N/A
+HUSSTUDENT	423	1861	Q1	N/A	N/A	addiction	N/A
+abakale	424	1862	Q3	N/A	N/A	addiction	N/A
+painterjohn	425	1863	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	425	1864	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources 
+HUSSTUDENT	425	1865	Q1	N/A	N/A	addiction	N/A
+01588	425	1866	Q2	N/A	N/A	addiction	N/A
+fotogirl525	426	1867	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	426	1868	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/create-an-exchange"
+fotogirl525	427	1869	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	427	1870	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/create-an-exchange"
+Louise_WebMD_Staff	428	1871	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	428	1872	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	428	1873	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	428	1874	Q1	N/A	N/A	addiction	N/A
+Taximan283	428	1875	Q1	N/A	N/A	addiction	N/A
+Taximan283	428	1876	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	428	1877	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	428	1878	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	428	1879	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	428	1880	WebMd Staff	N/A	N/A	addiction	N/A
+HUSSTUDENT	429	1881	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	429	1882	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	429	1883	Q1	N/A	N/A	addiction	N/A
+InAForeignLand	430	1884	Q2	N/A	N/A	addiction	N/A
+Taximan283	430	1885	Q1	N/A	N/A	addiction	N/A
+InAForeignLand	430	1886	Q2	N/A	N/A	addiction	N/A
+Taximan283	430	1887	Q1	N/A	N/A	addiction	N/A
+Caie246	431	1888	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	431	1889	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	431	1890	Q1	N/A	N/A	addiction	N/A
+Caie246	431	1891	Q1	N/A	N/A	addiction	N/A
+Caie246	431	1892	Q1	N/A	N/A	addiction	N/A
+gailb54	431	1893	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	431	1894	WebMd Staff	N/A	N/A	addiction	N/A
+Caie246	431	1895	Q1	N/A	N/A	addiction	N/A
+Caie246	431	1896	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	431	1897	WebMd Staff	N/A	N/A	addiction	N/A
+Caie246	431	1898	Q1	N/A	N/A	addiction	N/A
+Tu_maldita	431	1899	Q3	N/A	N/A	addiction	N/A
+An_226981	431	1900	Q2	N/A	N/A	addiction	N/A
+Caie246	431	1901	Q1	N/A	N/A	addiction	N/A
+Caie246	431	1902	Q1	N/A	N/A	addiction	N/A
+TammyLeeMc	431	1903	Q1	N/A	N/A	addiction	N/A
+angie92829	431	1904	Q2	N/A	N/A	addiction	N/A
+Shawnie_	431	1905	Q1	N/A	N/A	addiction	N/A
+gailb54	431	1906	Q1	N/A	N/A	addiction	N/A
+MaryAnnEvans	431	1907	Q3	N/A	N/A	addiction	N/A
+seybs	431	1908	Q2	N/A	N/A	addiction	N/A
+TammyLeeMc	431	1909	Q1	N/A	N/A	addiction	N/A
+scorpio1227	431	1910	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	431	1911	WebMd Staff	N/A	N/A	addiction	N/A
+Minx9114	431	1912	Q2	N/A	N/A	addiction	N/A
+clarka28	432	1913	Q3	N/A	N/A	addiction	N/A
+Taximan283	432	1914	Q1	N/A	N/A	addiction	N/A
+Kayap	432	1915	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1916	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	433	1917	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	433	1918	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1919	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1920	Q1	N/A	N/A	addiction	N/A
+Taximan283	433	1921	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1922	Q1	N/A	N/A	addiction	N/A
+Taximan283	433	1923	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1924	Q1	N/A	N/A	addiction	N/A
+msp36	433	1925	Q2	N/A	N/A	addiction	N/A
+texasboy28	433	1926	Q1	N/A	N/A	addiction	N/A
+Taximan283	433	1927	Q1	N/A	N/A	addiction	N/A
+texasboy28	433	1928	Q1	N/A	N/A	addiction	N/A
+gailb54	433	1929	Q1	N/A	N/A	addiction	N/A
+Taximan283	434	1930	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	434	1931	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	434	1932	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	434	1933	WebMd Staff	N/A	N/A	addiction	N/A
+heres4Abetterlife	435	1934	Q1	N/A	N/A	addiction	N/A
+Taximan283	435	1935	Q1	0	gov	addiction	http://buprenorphine.samhsa.gov/bwns_locator/ 
+heres4Abetterlife	435	1936	Q1	N/A	N/A	addiction	N/A
+qwkslvr	436	1937	Q1	N/A	N/A	addiction	N/A
+Taximan283	436	1938	Q1	N/A	N/A	addiction	N/A
+qwkslvr	436	1939	Q1	N/A	N/A	addiction	N/A
+Taximan283	436	1940	Q1	N/A	N/A	addiction	N/A
+qwkslvr	436	1941	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	436	1942	WebMd Staff	N/A	N/A	addiction	N/A
+qwkslvr	436	1943	Q1	N/A	N/A	addiction	N/A
+Taximan283	436	1944	Q1	N/A	N/A	addiction	N/A
+qwkslvr	436	1945	Q1	N/A	N/A	addiction	N/A
+Taximan283	436	1946	Q1	N/A	N/A	addiction	N/A
+Kayap	436	1947	Q1	N/A	N/A	addiction	N/A
+TREBAYBAY84	436	1948	Q2	N/A	N/A	addiction	N/A
+Taximan283	436	1949	Q1	N/A	N/A	addiction	N/A
+tryintoquit35	437	1950	Q3	N/A	N/A	addiction	N/A
+Taximan283	437	1951	Q1	N/A	N/A	addiction	N/A
+alwaysmiling	438	1952	Q2	N/A	N/A	addiction	N/A
+qwkslvr	438	1953	Q1	N/A	N/A	addiction	N/A
+alwaysmiling	438	1954	Q2	N/A	N/A	addiction	N/A
+Taximan283	438	1955	Q1	N/A	N/A	addiction	N/A
+lelanie_dunning	439	1956	Q2	N/A	N/A	addiction	N/A
+Byroney_WebMD_Staff	439	1957	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	439	1958	Q1	N/A	N/A	addiction	N/A
+Shawnie_	439	1959	Q1	N/A	N/A	addiction	N/A
+An_226982	439	1960	Q2	N/A	N/A	addiction	N/A
+HT1155	439	1961	Q1	N/A	N/A	addiction	N/A
+Taximan283	439	1962	Q1	N/A	N/A	addiction	N/A
+HT1155	439	1963	Q1	N/A	N/A	addiction	N/A
+HT1155	439	1964	Q1	N/A	N/A	addiction	N/A
+Taximan283	439	1965	Q1	N/A	N/A	addiction	N/A
+HT1155	439	1966	Q1	N/A	N/A	addiction	N/A
+lexy110	439	1967	Q2	N/A	N/A	addiction	N/A
+HT1155	439	1968	Q1	N/A	N/A	addiction	N/A
+An_226983	440	1969	Q1	N/A	N/A	addiction	N/A
+Taximan283	440	1970	Q1	N/A	N/A	addiction	N/A
+An_226983	441	1971	Q1	N/A	N/A	addiction	N/A
+Taximan283	441	1972	Q1	N/A	N/A	addiction	N/A
+An_226983	442	1973	Q1	N/A	N/A	addiction	N/A
+Taximan283	442	1974	Q1	N/A	N/A	addiction	N/A
+An_226983	443	1975	Q1	N/A	N/A	addiction	N/A
+Taximan283	443	1976	Q1	N/A	N/A	addiction	N/A
+An_226983	444	1977	Q1	N/A	N/A	addiction	N/A
+Taximan283	444	1978	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	445	1979	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	445	1980	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	445	1981	Q1	N/A	N/A	addiction	N/A
+Taximan283	445	1982	Q1	N/A	N/A	addiction	N/A
+3point14	445	1983	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	446	1984	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	446	1985	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	446	1986	Q1	N/A	N/A	addiction	N/A
+Taximan283	446	1987	Q1	N/A	N/A	addiction	N/A
+3point14	446	1988	Q1	N/A	N/A	addiction	N/A
+Shawnie_	447	1989	Q1	0	Other	addiction	http://shawnieize.blogspot.com/ 
+Taximan283	447	1990	Q1	N/A	N/A	addiction	N/A
+Shawnie_	447	1991	Q1	N/A	N/A	addiction	N/A
+Taximan283	447	1992	Q1	N/A	N/A	addiction	N/A
+Kayap	447	1993	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	448	1994	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	448	1995	Q1	N/A	N/A	addiction	N/A
+Shawnie_	448	1996	Q1	N/A	N/A	addiction	N/A
+Taximan283	448	1997	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	448	1998	Q1	N/A	N/A	addiction	N/A
+texasboy28	449	1999	Q1	N/A	N/A	addiction	N/A
+Taximan283	449	2000	Q1	N/A	N/A	addiction	N/A
+misssissy76	449	2001	Q2	N/A	N/A	addiction	N/A
+Taximan283	449	2002	Q1	N/A	N/A	addiction	N/A
+An_226986	450	2003	Q2	N/A	N/A	addiction	N/A
+Taximan283	450	2004	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	451	2005	Q1	N/A	N/A	addiction	N/A
+Shawnie_	451	2006	Q1	N/A	N/A	addiction	N/A
+An_226987	452	2007	Q2	N/A	N/A	addiction	N/A
+Taximan283	452	2008	Q1	N/A	N/A	addiction	N/A
+mamadee777	452	2009	Q1	N/A	N/A	addiction	N/A
+mamadee777	453	2010	Q1	N/A	N/A	addiction	N/A
+Taximan283	453	2011	Q1	N/A	N/A	addiction	N/A
+mamadee777	453	2012	Q1	N/A	N/A	addiction	N/A
+Taximan283	453	2013	Q1	N/A	N/A	addiction	N/A
+mamadee777	453	2014	Q1	N/A	N/A	addiction	N/A
+choclab88	453	2015	Q1	N/A	N/A	addiction	N/A
+Taximan283	453	2016	Q1	N/A	N/A	addiction	N/A
+choclab88	453	2017	Q1	N/A	N/A	addiction	N/A
+Taximan283	453	2018	Q1	N/A	N/A	addiction	N/A
+Taximan283	454	2019	Q1	N/A	N/A	addiction	N/A
+Taximan283	454	2020	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	454	2021	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	455	2022	Q1	N/A	N/A	addiction	N/A
+atthebeach	455	2023	Q1	N/A	N/A	addiction	N/A
+Taximan283	455	2024	Q1	N/A	N/A	addiction	N/A
+Shawnie_	455	2025	Q1	N/A	N/A	addiction	N/A
+Taximan283	455	2026	Q1	N/A	N/A	addiction	N/A
+MichelleH05	455	2027	Q1	N/A	N/A	addiction	N/A
+MichelleH05	455	2028	Q1	N/A	N/A	addiction	N/A
+MichelleH05	455	2029	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2030	Q1	N/A	N/A	addiction	N/A
+Taximan283	456	2031	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2032	Q1	N/A	N/A	addiction	N/A
+Taximan283	456	2033	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2034	Q1	N/A	N/A	addiction	N/A
+Taximan283	456	2035	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2036	Q1	N/A	N/A	addiction	N/A
+Taximan283	456	2037	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2038	Q1	N/A	N/A	addiction	N/A
+Shawnie_	456	2039	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2040	Q1	N/A	N/A	addiction	N/A
+Shawnie_	456	2041	Q1	N/A	N/A	addiction	N/A
+Taximan283	456	2042	Q1	N/A	N/A	addiction	N/A
+Shawnie_	456	2043	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	456	2044	Q1	N/A	N/A	addiction	N/A
+An_226988	457	2045	Q2	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	457	2046	Q1	N/A	N/A	addiction	N/A
+Taximan283	457	2047	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	458	2048	Q1	N/A	N/A	addiction	N/A
+Shawnie_	458	2049	Q1	N/A	N/A	addiction	N/A
+Taximan283	458	2050	Q1	N/A	N/A	addiction	N/A
+An_226989	459	2051	Q2	N/A	N/A	addiction	N/A
+Taximan283	459	2052	Q1	N/A	N/A	addiction	N/A
+Shawnie_	459	2053	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	459	2054	Q1	N/A	N/A	addiction	N/A
+An_226990	459	2055	Q2	N/A	N/A	addiction	N/A
+An_226991	459	2056	Q2	N/A	N/A	addiction	N/A
+Taximan283	459	2057	Q1	N/A	N/A	addiction	N/A
+Shawnie_	459	2058	Q1	N/A	N/A	addiction	N/A
+An_226992	459	2059	Q2	N/A	N/A	addiction	N/A
+Taximan283	459	2060	Q1	N/A	N/A	addiction	N/A
+An_226993	459	2061	Q2	N/A	N/A	addiction	N/A
+An_226994	459	2062	Q2	N/A	N/A	addiction	N/A
+An_226995	459	2063	Q2	N/A	N/A	addiction	N/A
+Taximan283	459	2064	Q1	N/A	N/A	addiction	N/A
+Shawnie_	459	2065	Q1	N/A	N/A	addiction	N/A
+Shawnie_	459	2066	Q1	N/A	N/A	addiction	N/A
+Taximan283	459	2067	Q1	N/A	N/A	addiction	N/A
+An_226996	459	2068	Q2	N/A	N/A	addiction	N/A
+An_226997	459	2069	Q2	N/A	N/A	addiction	N/A
+steveo69	459	2070	Q1	N/A	N/A	addiction	N/A
+steveo69	459	2071	Q1	N/A	N/A	addiction	N/A
+An_226998	459	2072	Q2	N/A	N/A	addiction	N/A
+Taximan283	459	2073	Q1	N/A	N/A	addiction	N/A
+enyaw333	459	2074	Q2	N/A	N/A	addiction	N/A
+AngeliqueW	459	2075	Q2	N/A	N/A	addiction	N/A
+AngeliqueW	459	2076	Q2	N/A	N/A	addiction	N/A
+Shawnie_	460	2077	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2078	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2079	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2080	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2081	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2082	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2083	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2084	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2085	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2086	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2087	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2088	Q1	N/A	N/A	addiction	N/A
+Shawnie_	460	2089	Q1	N/A	N/A	addiction	N/A
+Taximan283	460	2090	Q1	N/A	N/A	addiction	N/A
+MichelleH05	460	2091	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	461	2092	Q1	N/A	N/A	addiction	N/A
+Shawnie_	461	2093	Q1	N/A	N/A	addiction	N/A
+Taximan283	461	2094	Q1	N/A	N/A	addiction	N/A
+An_226999	462	2095	Q2	N/A	N/A	addiction	N/A
+Taximan283	462	2096	Q1	N/A	N/A	addiction	N/A
+An_227000	462	2097	Q3	N/A	N/A	addiction	N/A
+lisalee40	463	2098	Q1	N/A	N/A	addiction	N/A
+Taximan283	463	2099	Q1	N/A	N/A	addiction	N/A
+lisalee40	463	2100	Q1	N/A	N/A	addiction	N/A
+goneee	463	2101	Q1	N/A	N/A	addiction	N/A
+lisalee40	463	2102	Q1	N/A	N/A	addiction	N/A
+Spartan059	463	2103	Q3	N/A	N/A	addiction	N/A
+Taximan283	463	2104	Q1	N/A	N/A	addiction	N/A
+dieingtobethin	464	2105	Q3	N/A	N/A	addiction	N/A
+Taximan283	464	2106	Q1	N/A	N/A	addiction	N/A
+Shawnie_	464	2107	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2108	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2109	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2110	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2111	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2112	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2113	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2114	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2115	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2116	Q1	N/A	N/A	addiction	N/A
+everynameisusedonhere	465	2117	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2118	Q1	N/A	N/A	addiction	N/A
+kimbers66	465	2119	Q2	N/A	N/A	addiction	N/A
+Taximan283	465	2120	Q1	N/A	N/A	addiction	N/A
+RangerMan1995	465	2121	Q1	N/A	N/A	addiction	N/A
+Taximan283	465	2122	Q1	N/A	N/A	addiction	N/A
+An_227001	466	2123	Q3	N/A	N/A	addiction	N/A
+dancewlaurie	467	2124	Q1	N/A	N/A	addiction	N/A
+Taximan283	467	2125	Q1	N/A	N/A	addiction	N/A
+dancewlaurie	467	2126	Q1	N/A	N/A	addiction	N/A
+Shawnie_	467	2127	Q1	N/A	N/A	addiction	N/A
+Shawnie_	467	2128	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	468	2129	Q1	N/A	N/A	addiction	N/A
+Taximan283	468	2130	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	468	2131	Q1	N/A	N/A	addiction	N/A
+Taximan283	468	2132	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	469	2133	Q1	N/A	N/A	addiction	N/A
+Taximan283	469	2134	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	469	2135	Q1	N/A	N/A	addiction	N/A
+Taximan283	469	2136	Q1	N/A	N/A	addiction	N/A
+atthebeach	470	2137	Q1	N/A	N/A	addiction	N/A
+Taximan283	470	2138	Q1	1	webmd	addiction	http://exchanges.webmd.com/pain-management-support-group 
+An_227002	471	2139	Q3	N/A	N/A	addiction	N/A
+Shawnie_	471	2140	Q1	N/A	N/A	addiction	N/A
+Taximan283	471	2141	Q1	N/A	N/A	addiction	N/A
+An_227003	471	2142	Q3	N/A	N/A	addiction	N/A
+Shawnie_	471	2143	Q1	N/A	N/A	addiction	N/A
+Taximan283	471	2144	Q1	N/A	N/A	addiction	N/A
+Kayap	471	2145	Q1	N/A	N/A	addiction	N/A
+An_227004	471	2146	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	471	2147	WebMd Staff	N/A	N/A	addiction	N/A
+MichelleH05	472	2148	Q1	N/A	N/A	addiction	N/A
+Taximan283	472	2149	Q1	N/A	N/A	addiction	N/A
+valcoholic	473	2150	Q2	N/A	N/A	addiction	N/A
+NeedInformation22	474	2151	Q1	N/A	N/A	addiction	N/A
+Taximan283	474	2152	Q1	N/A	N/A	addiction	N/A
+Taximan283	474	2153	Q1	N/A	N/A	addiction	N/A
+NeedInformation22	474	2154	Q1	N/A	N/A	addiction	N/A
+Taximan283	474	2155	Q1	N/A	N/A	addiction	N/A
+NeedInformation22	474	2156	Q1	N/A	N/A	addiction	N/A
+An_227005	475	2157	Q3	N/A	N/A	addiction	N/A
+Taximan283	475	2158	Q1	N/A	N/A	addiction	N/A
+steveo69	475	2159	Q1	N/A	N/A	addiction	N/A
+Taximan283	475	2160	Q1	N/A	N/A	addiction	N/A
+steveo69	475	2161	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	476	2162	Q1	N/A	N/A	addiction	N/A
+Momma2Ethan	476	2163	Q3	N/A	N/A	addiction	N/A
+Taximan283	476	2164	Q1	N/A	N/A	addiction	N/A
+Shawnie_	476	2165	Q1	N/A	N/A	addiction	N/A
+pittykitty	477	2166	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	477	2167	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	477	2168	Q1	N/A	N/A	addiction	N/A
+Shawnie_	477	2169	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	477	2170	Q1	N/A	N/A	addiction	N/A
+sunnwayne	478	2171	Q1	N/A	N/A	addiction	N/A
+choclab88	478	2172	Q1	N/A	N/A	addiction	N/A
+sunnwayne	478	2173	Q1	N/A	N/A	addiction	N/A
+Taximan283	478	2174	Q1	N/A	N/A	addiction	N/A
+sunnwayne	478	2175	Q1	N/A	N/A	addiction	N/A
+choclab88	478	2176	Q1	N/A	N/A	addiction	N/A
+akashera	478	2177	Q3	N/A	N/A	addiction	N/A
+Frustratedmom	478	2178	Q2	N/A	N/A	addiction	N/A
+Frustratedmom	478	2179	Q2	N/A	N/A	addiction	N/A
+HardTimed	478	2180	Q1	N/A	N/A	addiction	N/A
+HardTimed	478	2181	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	479	2182	Q1	N/A	N/A	addiction	N/A
+Taximan283	479	2183	Q1	N/A	N/A	addiction	N/A
+Shawnie_	479	2184	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	479	2185	WebMd Staff	N/A	N/A	addiction	N/A
+sunnwayne	480	2186	Q1	N/A	N/A	addiction	N/A
+Taximan283	480	2187	Q1	N/A	N/A	addiction	N/A
+sunnwayne	480	2188	Q1	N/A	N/A	addiction	N/A
+Taximan283	480	2189	Q1	N/A	N/A	addiction	N/A
+Pamela058	481	2190	Q2	N/A	N/A	addiction	N/A
+Taximan283	481	2191	Q1	N/A	N/A	addiction	N/A
+Shawnie_	481	2192	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	482	2193	Q1	N/A	N/A	addiction	N/A
+Taximan283	482	2194	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	482	2195	Q1	N/A	N/A	addiction	N/A
+An_227006	482	2196	Q3	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	482	2197	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	482	2198	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	482	2199	Q1	N/A	N/A	addiction	N/A
+RangerMan1995	482	2200	Q1	N/A	N/A	addiction	N/A
+Taximan283	482	2201	Q1	N/A	N/A	addiction	N/A
+Shawnie_	482	2202	Q1	N/A	N/A	addiction	N/A
+Taximan283	483	2203	Q1	N/A	N/A	addiction	N/A
+MISSBUBBLEYAJG	483	2204	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	483	2205	WebMd Staff	N/A	N/A	addiction	N/A
+Shawnie_	483	2206	Q1	N/A	N/A	addiction	N/A
+Taximan283	483	2207	Q1	N/A	N/A	addiction	N/A
+Kayap	483	2208	Q1	N/A	N/A	addiction	N/A
+Taximan283	483	2209	Q1	N/A	N/A	addiction	N/A
+An_227010	484	2210	Q3	N/A	N/A	addiction	N/A
+Shawnie_	484	2211	Q1	N/A	N/A	addiction	N/A
+HA5411	484	2212	Q2	N/A	N/A	addiction	N/A
+lisalee40	485	2213	Q1	N/A	N/A	addiction	N/A
+lisalee40	486	2214	Q1	N/A	N/A	addiction	N/A
+An_227011	487	2215	Q3	N/A	N/A	addiction	N/A
+Taximan283	487	2216	Q1	N/A	N/A	addiction	N/A
+An_227012	487	2217	Q3	N/A	N/A	addiction	N/A
+Taximan283	487	2218	Q1	N/A	N/A	addiction	N/A
+An_227013	487	2219	Q3	N/A	N/A	addiction	N/A
+An_227014	487	2220	Q3	N/A	N/A	addiction	N/A
+Shawnie_	487	2221	Q1	N/A	N/A	addiction	N/A
+An_227015	488	2222	Q3	N/A	N/A	addiction	N/A
+Taximan283	488	2223	Q1	N/A	N/A	addiction	N/A
+Jackbe	488	2224	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	488	2225	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	488	2226	WebMd Staff	N/A	N/A	addiction	N/A
+cwdogg	489	2227	Q2	N/A	N/A	addiction	N/A
+Taximan283	489	2228	Q1	N/A	N/A	addiction	N/A
+Shawnie_	489	2229	Q1	N/A	N/A	addiction	N/A
+westcoast2010	490	2230	Q2	N/A	N/A	addiction	N/A
+Taximan283	490	2231	Q1	N/A	N/A	addiction	N/A
+An_227016	491	2232	Q3	N/A	N/A	addiction	N/A
+Taximan283	491	2233	Q1	N/A	N/A	addiction	N/A
+An_227017	491	2234	Q3	N/A	N/A	addiction	N/A
+Taximan283	491	2235	Q1	N/A	N/A	addiction	N/A
+An_227018	491	2236	Q3	N/A	N/A	addiction	N/A
+darlyn05	491	2237	Q1	N/A	N/A	addiction	N/A
+darlyn05	491	2238	Q1	N/A	N/A	addiction	N/A
+Taximan283	491	2239	Q1	N/A	N/A	addiction	N/A
+An_227019	492	2240	Q3	N/A	N/A	addiction	N/A
+Taximan283	492	2241	Q1	N/A	N/A	addiction	N/A
+darlyn05	492	2242	Q1	N/A	N/A	addiction	N/A
+An_227020	492	2243	Q3	N/A	N/A	addiction	N/A
+Shawnie_	492	2244	Q1	N/A	N/A	addiction	N/A
+lavenderroses	492	2245	Q2	N/A	N/A	addiction	N/A
+Taximan283	493	2246	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	493	2247	WebMd Staff	N/A	N/A	addiction	N/A
+oldschool1335	494	2248	Q2	N/A	N/A	addiction	N/A
+lisalee40	494	2249	Q1	N/A	N/A	addiction	N/A
+Taximan283	494	2250	Q1	N/A	N/A	addiction	N/A
+lisalee40	494	2251	Q1	N/A	N/A	addiction	N/A
+ilive4forarleys	495	2252	Q3	N/A	N/A	addiction	N/A
+Shawnie_	495	2253	Q1	N/A	N/A	addiction	N/A
+gail32510	496	2254	Q2	N/A	N/A	addiction	N/A
+lisalee40	496	2255	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	496	2256	WebMd Staff	N/A	N/A	addiction	N/A
+slc726	497	2257	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	497	2258	WebMd Staff	N/A	N/A	addiction	N/A
+3point14	498	2259	Q1	N/A	N/A	addiction	N/A
+Shawnie_	498	2260	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	498	2261	WebMd Staff	N/A	N/A	addiction	N/A
+tara01981	498	2262	Q1	N/A	N/A	addiction	N/A
+kerdon	499	2263	Q1	N/A	N/A	addiction	N/A
+kerdon	499	2264	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	499	2265	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	499	2266	Q1	N/A	N/A	addiction	N/A
+kerdon	499	2267	Q1	N/A	N/A	addiction	N/A
+Taximan283	499	2268	Q1	N/A	N/A	addiction	N/A
+kerdon	499	2269	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	500	2270	WebMd Staff	N/A	N/A	addiction	N/A
+lauriem0	501	2271	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	501	2272	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	501	2273	Q1	N/A	N/A	addiction	N/A
+lavenderroses	502	2274	Q2	N/A	N/A	addiction	N/A
+Taximan283	502	2275	Q1	N/A	N/A	addiction	N/A
+zacblackgill	503	2276	Q1	N/A	N/A	addiction	N/A
+Taximan283	503	2277	Q1	N/A	N/A	addiction	N/A
+zacblackgill	503	2278	Q1	N/A	N/A	addiction	N/A
+An_227021	504	2279	Q3	N/A	N/A	addiction	N/A
+lisalee40	504	2280	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	505	2281	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	505	2282	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	505	2283	WebMd Staff	N/A	N/A	addiction	N/A
+blugrrl	506	2284	Q1	N/A	N/A	addiction	N/A
+Taximan283	506	2285	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2286	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2287	Q1	N/A	N/A	addiction	N/A
+Taximan283	506	2288	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2289	Q1	N/A	N/A	addiction	N/A
+Taximan283	506	2290	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2291	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2292	Q1	N/A	N/A	addiction	N/A
+Taximan283	506	2293	Q1	N/A	N/A	addiction	N/A
+Kayap	506	2294	Q1	N/A	N/A	addiction	N/A
+dutchlop	506	2295	Q2	N/A	N/A	addiction	N/A
+JRM1976	506	2296	Q3	N/A	N/A	addiction	N/A
+Dipp32	506	2297	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	506	2298	WebMd Staff	N/A	N/A	addiction	N/A
+An_227022	506	2299	Q3	N/A	N/A	addiction	N/A
+daysjunkie	506	2300	Q1	N/A	N/A	addiction	N/A
+daysjunkie	506	2301	Q1	N/A	N/A	addiction	N/A
+daysjunkie	506	2302	Q1	N/A	N/A	addiction	N/A
+Dipp32	506	2303	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2304	Q1	N/A	N/A	addiction	N/A
+blugrrl	506	2305	Q1	N/A	N/A	addiction	N/A
+Dipp32	506	2306	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	506	2307	WebMd Staff	N/A	N/A	addiction	N/A
+blugrrl	506	2308	Q1	N/A	N/A	addiction	N/A
+damnitcantfindone	507	2309	Q1	N/A	N/A	addiction	N/A
+damnitcantfindone	507	2310	Q1	N/A	N/A	addiction	N/A
+Taximan283	507	2311	Q1	N/A	N/A	addiction	N/A
+damnitcantfindone	507	2312	Q1	N/A	N/A	addiction	N/A
+Taximan283	507	2313	Q1	N/A	N/A	addiction	N/A
+kimjef	508	2314	Q2	N/A	N/A	addiction	N/A
+lisalee40	508	2315	Q1	N/A	N/A	addiction	N/A
+Taximan283	508	2316	Q1	N/A	N/A	addiction	N/A
+tara01981	509	2317	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	509	2318	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	509	2319	Q1	N/A	N/A	addiction	N/A
+tara01981	509	2320	Q1	N/A	N/A	addiction	N/A
+Taximan283	509	2321	Q1	N/A	N/A	addiction	N/A
+Taximan283	509	2322	Q1	N/A	N/A	addiction	N/A
+tara01981	509	2323	Q1	N/A	N/A	addiction	N/A
+Taximan283	509	2324	Q1	N/A	N/A	addiction	N/A
+tara01981	509	2325	Q1	N/A	N/A	addiction	N/A
+Taximan283	509	2326	Q1	N/A	N/A	addiction	N/A
+momx3boyz	510	2328	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	510	2329	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	510	2330	Q1	N/A	N/A	addiction	N/A
+An_227023	511	2331	Q3	N/A	N/A	addiction	N/A
+Taximan283	511	2332	Q1	N/A	N/A	addiction	N/A
+An_227024	512	2333	Q3	N/A	N/A	addiction	N/A
+Taximan283	512	2334	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	512	2335	WebMd Staff	N/A	N/A	addiction	N/A
+dunkno	512	2336	Q2	N/A	N/A	addiction	N/A
+An_227025	513	2337	Q3	N/A	N/A	addiction	N/A
+Taximan283	513	2338	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	513	2339	WebMd Staff	N/A	N/A	addiction	N/A
+An_227026	514	2340	Q3	N/A	N/A	addiction	N/A
+Taximan283	514	2341	Q1	N/A	N/A	addiction	N/A
+Mozique24	514	2342	Q3	N/A	N/A	addiction	N/A
+Taximan283	514	2343	Q1	N/A	N/A	addiction	N/A
+Good_Person_Bad_Habit	514	2344	Q3	N/A	N/A	addiction	N/A
+Taximan283	514	2345	Q1	N/A	N/A	addiction	N/A
+absolutecute1	515	2346	Q3	N/A	N/A	addiction	N/A
+Taximan283	515	2347	Q1	N/A	N/A	addiction	N/A
+Kayap	515	2348	Q1	N/A	N/A	addiction	N/A
+jeff4344	516	2349	Q1	N/A	N/A	addiction	N/A
+Taximan283	516	2350	Q1	N/A	N/A	addiction	N/A
+jeff4344	516	2351	Q1	N/A	N/A	addiction	N/A
+Taximan283	516	2352	Q1	N/A	N/A	addiction	N/A
+jeff4344	516	2353	Q1	N/A	N/A	addiction	N/A
+whatthehe	517	2354	Q2	N/A	N/A	addiction	N/A
+An_227027	517	2355	Q3	N/A	N/A	addiction	N/A
+Carebear123456	517	2356	Q1	N/A	N/A	addiction	N/A
+Shawnie_	517	2357	Q1	N/A	N/A	addiction	N/A
+whatthehe	518	2358	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	518	2359	WebMd Staff	N/A	N/A	addiction	N/A
+An_227028	519	2360	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	519	2361	WebMd Staff	N/A	N/A	addiction	N/A
+tlo1974	520	2362	Q2	N/A	N/A	addiction	N/A
+Shawnie_	520	2363	Q1	N/A	N/A	addiction	N/A
+tlo1974	520	2364	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	520	2365	WebMd Staff	N/A	N/A	addiction	N/A
+Danny_7	521	2366	Q2	N/A	N/A	addiction	N/A
+Taximan283	521	2367	Q1	N/A	N/A	addiction	N/A
+An_227029	522	2368	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	522	2369	WebMd Staff	N/A	N/A	addiction	N/A
+An_227030	523	2370	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	523	2371	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	523	2372	Q1	N/A	N/A	addiction	N/A
+An_227031	523	2373	Q3	N/A	N/A	addiction	N/A
+Kayap	523	2374	Q1	N/A	N/A	addiction	N/A
+An_227032	523	2375	Q3	N/A	N/A	addiction	N/A
+Kayap	523	2376	Q1	N/A	N/A	addiction	N/A
+Dipp32	524	2378	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	524	2379	WebMd Staff	N/A	N/A	addiction	N/A
+tenyearsconfused	525	2380	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	525	2381	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	525	2382	Q1	N/A	N/A	addiction	N/A
+An_227033	526	2383	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	526	2384	WebMd Staff	N/A	N/A	addiction	N/A
+An_227034	527	2385	Q3	N/A	N/A	addiction	N/A
+lisalee40	527	2386	Q1	N/A	N/A	addiction	N/A
+DeadManWalking56	527	2387	Q1	N/A	N/A	addiction	N/A
+lisalee40	527	2388	Q1	N/A	N/A	addiction	N/A
+DeadManWalking56	527	2389	Q1	N/A	N/A	addiction	N/A
+Kayap	527	2390	Q1	N/A	N/A	addiction	N/A
+DeadManWalking56	527	2391	Q1	N/A	N/A	addiction	N/A
+Norland22	528	2392	Q2	N/A	N/A	addiction	N/A
+cin_d28	528	2393	Q3	N/A	N/A	addiction	N/A
+Shawnie_	528	2394	Q1	N/A	N/A	addiction	N/A
+Shawnie_	528	2395	Q1	N/A	N/A	addiction	N/A
+YDoYou	529	2396	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	529	2397	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	530	2398	Q1	N/A	N/A	addiction	N/A
+gerrietoo4448430	530	2399	Q1	N/A	N/A	addiction	N/A
+gerrietoo4448430	530	2400	Q1	N/A	N/A	addiction	N/A
+Taximan283	530	2401	Q1	N/A	N/A	addiction	N/A
+recovery101	530	2402	Q2	N/A	N/A	addiction	N/A
+gerrietoo4448430	530	2403	Q1	N/A	N/A	addiction	N/A
+Kayap	530	2404	Q1	N/A	N/A	addiction	N/A
+Taximan283	530	2405	Q1	N/A	N/A	addiction	N/A
+Kayap	530	2406	Q1	N/A	N/A	addiction	N/A
+Taximan283	530	2407	Q1	N/A	N/A	addiction	N/A
+gerrietoo4448430	530	2408	Q1	N/A	N/A	addiction	N/A
+An_227035	531	2409	Q3	N/A	N/A	addiction	N/A
+Shawnie_	531	2410	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	532	2411	WebMd Staff	0	Other	addiction	www.youtube.com/WhiteHouse 
+Louise_WebMD_Staff	532	2411	WebMd Staff	0	gov	addiction	www.whitehouse.gov/live 
+Louise_WebMD_Staff	532	2411	WebMd Staff	3	webmd	addiction	http://www.webmd.com/healthy-aging/news/20100511/still-confused-about-health-care-reform 
+Louise_WebMD_Staff	532	2411	WebMd Staff	3	webmd	addiction	http://www.webmd.com/healthy-aging/newsemployers 
+Louise_WebMD_Staff	532	2411	WebMd Staff	0	gov	addiction	www.healthcare.gov 
+An_227036	533	2412	Q3	N/A	N/A	addiction	N/A
+Taximan283	533	2413	Q1	N/A	N/A	addiction	N/A
+Irresponsible	533	2414	Q1	N/A	N/A	addiction	N/A
+Taximan283	533	2415	Q1	N/A	N/A	addiction	N/A
+Shawnie_	533	2416	Q1	N/A	N/A	addiction	N/A
+Irresponsible	533	2417	Q1	N/A	N/A	addiction	N/A
+zymyn	533	2418	Q3	N/A	N/A	addiction	N/A
+Irresponsible	533	2419	Q1	N/A	N/A	addiction	N/A
+Shawnie_	533	2420	Q1	N/A	N/A	addiction	N/A
+iloveeeyoreansnoopy	534	2421	Q2	N/A	N/A	addiction	N/A
+Taximan283	534	2422	Q1	N/A	N/A	addiction	N/A
+kkp111	535	2423	Q2	N/A	N/A	addiction	N/A
+Taximan283	535	2424	Q1	N/A	N/A	addiction	N/A
+An_227037	536	2425	Q3	N/A	N/A	addiction	N/A
+Taximan283	536	2426	Q1	N/A	N/A	addiction	N/A
+1ijoe	537	2427	Q2	N/A	N/A	addiction	N/A
+Taximan283	537	2428	Q1	N/A	N/A	addiction	N/A
+Happygirlnow	538	2429	Q1	N/A	N/A	addiction	N/A
+Taximan283	538	2430	Q1	N/A	N/A	addiction	N/A
+gerrietoo4448430	538	2431	Q1	N/A	N/A	addiction	N/A
+Taximan283	538	2432	Q1	N/A	N/A	addiction	N/A
+Happygirlnow	538	2433	Q1	N/A	N/A	addiction	N/A
+Taximan283	538	2434	Q1	N/A	N/A	addiction	N/A
+StrongEnough2win	538	2435	Q2	N/A	N/A	addiction	N/A
+Taximan283	538	2436	Q1	N/A	N/A	addiction	N/A
+cinn777	538	2437	Q1	N/A	N/A	addiction	N/A
+strmchsr23	539	2438	Q2	N/A	N/A	addiction	N/A
+Taximan283	539	2439	Q1	N/A	N/A	addiction	N/A
+Shawnie_	539	2440	Q1	N/A	N/A	addiction	N/A
+strmchsr23	539	2441	Q2	N/A	N/A	addiction	N/A
+An_227038	540	2442	Q3	N/A	N/A	addiction	N/A
+Taximan283	540	2443	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	540	2444	WebMd Staff	N/A	N/A	addiction	N/A
+cinn777	540	2445	Q1	N/A	N/A	addiction	N/A
+Taximan283	540	2446	Q1	0	gov	addiction	http://buprenorphine.samhsa.gov/bwns_locator/"
+Outpatienttreatme	540	2447	Q2	N/A	N/A	addiction	N/A
+ljude38	540	2448	Q1	N/A	N/A	addiction	N/A
+YEFA2010	541	2449	Q2	N/A	N/A	addiction	N/A
+Taximan283	541	2450	Q1	N/A	N/A	addiction	N/A
+An_227039	542	2451	Q3	N/A	N/A	addiction	N/A
+Kayap	542	2452	Q1	N/A	N/A	addiction	N/A
+Lilyparis23	542	2453	Q3	N/A	N/A	addiction	N/A
+An_227040	543	2454	Q3	N/A	N/A	addiction	N/A
+choclab88	543	2455	Q1	N/A	N/A	addiction	N/A
+jmatuska	543	2456	Q2	N/A	N/A	addiction	N/A
+choclab88	543	2457	Q1	N/A	N/A	addiction	N/A
+elguanaco	544	2458	Q3	N/A	N/A	addiction	N/A
+Kayap	544	2459	Q1	N/A	N/A	addiction	N/A
+Taximan283	544	2460	Q1	N/A	N/A	addiction	N/A
+Kayap	544	2461	Q1	0	org	addiction	http://news.sciencemag.org/sciencenow/2010/07/marijuana-time-warp.html 
+TDXSP08	544	2462	Q1	N/A	N/A	addiction	N/A
+Kayap	544	2463	Q1	N/A	N/A	addiction	N/A
+An_227041	545	2464	Q3	N/A	N/A	addiction	N/A
+marriedtozuser	546	2465	Q2	N/A	N/A	addiction	N/A
+Taximan283	546	2466	Q1	N/A	N/A	addiction	N/A
+blugrrl	547	2467	Q1	N/A	N/A	addiction	N/A
+Kayap	547	2468	Q1	N/A	N/A	addiction	N/A
+TrustingNoMore	548	2469	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	548	2470	WebMd Staff	N/A	N/A	addiction	N/A
+lsteele81	549	2471	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	549	2472	WebMd Staff	N/A	N/A	addiction	N/A
+lsteele81	549	2473	Q1	N/A	N/A	addiction	N/A
+cinn777	549	2474	Q1	N/A	N/A	addiction	N/A
+Taximan283	549	2475	Q1	N/A	N/A	addiction	N/A
+lsteele81	550	2476	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	550	2477	WebMd Staff	N/A	N/A	addiction	N/A
+lsteele81	550	2478	Q1	N/A	N/A	addiction	N/A
+cinn777	550	2479	Q1	N/A	N/A	addiction	N/A
+Taximan283	550	2480	Q1	N/A	N/A	addiction	N/A
+An_227045	551	2481	Q3	N/A	N/A	addiction	N/A
+Taximan283	551	2482	Q1	N/A	N/A	addiction	N/A
+Chris_WebMD_Staff	552	2483	WebMd Staff	N/A	N/A	addiction	N/A
+homebased44	553	2484	Q3	N/A	N/A	addiction	N/A
+bukhumnoy919	554	2485	Q1	N/A	N/A	addiction	N/A
+bukhumnoy919	554	2486	Q1	N/A	N/A	addiction	N/A
+TDXSP08	554	2487	Q1	N/A	N/A	addiction	N/A
+Taximan283	554	2488	Q1	N/A	N/A	addiction	N/A
+bukhumnoy919	554	2489	Q1	N/A	N/A	addiction	N/A
+Taximan283	554	2490	Q1	N/A	N/A	addiction	N/A
+tectonic	555	2491	Q2	N/A	N/A	addiction	N/A
+choclab88	555	2492	Q1	N/A	N/A	addiction	N/A
+dwsees	555	2493	Q1	N/A	N/A	addiction	N/A
+tectonic	556	2494	Q2	N/A	N/A	addiction	N/A
+TDXSP08	556	2495	Q1	N/A	N/A	addiction	N/A
+Barbi86	557	2496	Q3	N/A	N/A	addiction	N/A
+Taximan283	557	2497	Q1	N/A	N/A	addiction	N/A
+An_227046	558	2498	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	558	2499	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	558	2500	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	559	2501	WebMd Staff	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	560	2502	WebMd Staff	N/A	N/A	addiction	N/A
+An_227048	561	2503	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	561	2504	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	561	2505	Q1	N/A	N/A	addiction	N/A
+An_227049	562	2506	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	562	2507	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	562	2508	Q1	N/A	N/A	addiction	N/A
+choclab88	562	2509	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	562	2510	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	562	2511	Q1	N/A	N/A	addiction	N/A
+Kelly_Anne80	562	2512	Q1	N/A	N/A	addiction	N/A
+choclab88	562	2513	Q1	N/A	N/A	addiction	N/A
+Kelly_Anne80	562	2514	Q1	N/A	N/A	addiction	N/A
+htrabbit	562	2515	Q2	N/A	N/A	addiction	N/A
+Mozpny	562	2516	Q3	N/A	N/A	addiction	N/A
+An_227050	563	2517	Q3	N/A	N/A	addiction	N/A
+An_227051	564	2518	Q2	N/A	N/A	addiction	N/A
+Kayap	564	2519	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	564	2520	WebMd Staff	N/A	N/A	addiction	N/A
+An_227051	565	2521	Q2	N/A	N/A	addiction	N/A
+Kayap	565	2522	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	565	2523	WebMd Staff	N/A	N/A	addiction	N/A
+samboss	566	2524	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	566	2525	WebMd Staff	N/A	N/A	addiction	N/A
+digger1218	567	2526	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	567	2527	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	567	2528	Q1	N/A	N/A	addiction	N/A
+digger1218	567	2529	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	567	2530	WebMd Staff	N/A	N/A	addiction	N/A
+digger1218	567	2531	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	567	2532	WebMd Staff	N/A	N/A	addiction	N/A
+tra2266	568	2533	Q2	N/A	N/A	addiction	N/A
+motopicture	568	2534	Q3	N/A	N/A	addiction	N/A
+An_227054	569	2535	Q3	N/A	N/A	addiction	N/A
+Taximan283	569	2536	Q1	N/A	N/A	addiction	N/A
+neededucated	570	2537	Q1	N/A	N/A	addiction	N/A
+Taximan283	570	2538	Q1	N/A	N/A	addiction	N/A
+neededucated	570	2539	Q1	N/A	N/A	addiction	N/A
+Taximan283	570	2540	Q1	N/A	N/A	addiction	N/A
+An_227055	570	2541	Q3	N/A	N/A	addiction	N/A
+Betty1230	571	2542	Q2	N/A	N/A	addiction	N/A
+Taximan283	571	2543	Q1	N/A	N/A	addiction	N/A
+An_227056	572	2544	Q3	N/A	N/A	addiction	N/A
+choclab88	572	2545	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	572	2546	WebMd Staff	N/A	N/A	addiction	N/A
+ghostdog23	573	2547	Q3	N/A	N/A	addiction	N/A
+choclab88	573	2548	Q1	N/A	N/A	addiction	N/A
+MeaganDawn	573	2549	Q1	N/A	N/A	addiction	N/A
+Taximan283	573	2550	Q1	N/A	N/A	addiction	N/A
+sunnwayne	573	2551	Q1	N/A	N/A	addiction	N/A
+choclab88	573	2552	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	573	2553	Q1	N/A	N/A	addiction	N/A
+sunnwayne	573	2554	Q1	N/A	N/A	addiction	N/A
+sunnwayne	573	2555	Q1	N/A	N/A	addiction	N/A
+fedupwithnosleep	573	2556	Q2	N/A	N/A	addiction	N/A
+curtdizz	573	2557	Q2	N/A	N/A	addiction	N/A
+sunnwayne	573	2558	Q1	N/A	N/A	addiction	N/A
+An_227057	574	2559	Q3	N/A	N/A	addiction	N/A
+An_227058	575	2560	Q3	N/A	N/A	addiction	N/A
+Taximan283	575	2561	Q1	N/A	N/A	addiction	N/A
+Debbie_A30	576	2562	Q1	N/A	N/A	addiction	N/A
+Taximan283	576	2563	Q1	N/A	N/A	addiction	N/A
+Debbie_A30	576	2564	Q1	N/A	N/A	addiction	N/A
+Taximan283	576	2565	Q1	N/A	N/A	addiction	N/A
+Debbie_A30	576	2566	Q1	N/A	N/A	addiction	N/A
+Taximan283	576	2567	Q1	N/A	N/A	addiction	N/A
+An_227059	577	2568	Q3	N/A	N/A	addiction	N/A
+Taximan283	577	2569	Q1	N/A	N/A	addiction	N/A
+Debbie_A30	577	2570	Q1	N/A	N/A	addiction	N/A
+Taximan283	577	2571	Q1	N/A	N/A	addiction	N/A
+amed007	577	2572	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	578	2573	WebMd Staff	N/A	N/A	addiction	N/A
+An_227060	578	2574	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	578	2575	WebMd Staff	N/A	N/A	addiction	N/A
+Kayla333	579	2576	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	579	2577	WebMd Staff	N/A	N/A	addiction	N/A
+An_227061	580	2578	Q3	N/A	N/A	addiction	N/A
+Taximan283	580	2579	Q1	N/A	N/A	addiction	N/A
+MaxwellLover	580	2580	Q2	N/A	N/A	addiction	N/A
+Taximan283	580	2581	Q1	N/A	N/A	addiction	N/A
+24phoenix	581	2582	Q2	N/A	N/A	addiction	N/A
+Taximan283	581	2583	Q1	N/A	N/A	addiction	N/A
+kascee_2010	582	2584	Q1	N/A	N/A	addiction	N/A
+Taximan283	582	2585	Q1	N/A	N/A	addiction	N/A
+Kayap	582	2586	Q1	N/A	N/A	addiction	N/A
+bshisslak	582	2587	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	582	2588	WebMd Staff	N/A	N/A	addiction	N/A
+kascee_2010	582	2589	Q1	N/A	N/A	addiction	N/A
+kascee_2010	582	2590	Q1	N/A	N/A	addiction	N/A
+kascee_2010	582	2591	Q1	N/A	N/A	addiction	N/A
+An_227062	583	2592	Q3	N/A	N/A	addiction	N/A
+Taximan283	583	2593	Q1	N/A	N/A	addiction	N/A
+HisBlueGreenEyes	584	2594	Q2	N/A	N/A	addiction	N/A
+choclab88	584	2595	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	584	2596	WebMd Staff	N/A	N/A	addiction	N/A
+lilmegz	585	2597	Q2	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	585	2598	WebMd Staff	N/A	N/A	addiction	N/A
+An_227063	585	2599	Q3	N/A	N/A	addiction	N/A
+Kayap	585	2600	Q1	N/A	N/A	addiction	N/A
+polishmama	585	2601	Q2	N/A	N/A	addiction	N/A
+choclab88	585	2602	Q1	N/A	N/A	addiction	N/A
+An_227064	586	2603	Q3	N/A	N/A	addiction	N/A
+choclab88	586	2604	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2605	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	586	2606	WebMd Staff	N/A	N/A	addiction	N/A
+An_227065	586	2607	Q3	N/A	N/A	addiction	N/A
+SophieSebring;	586	2608	Q1	N/A	N/A	addiction	N/A
+Taximan283	586	2609	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2610	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2611	Q1	N/A	N/A	addiction	N/A
+choclab88	586	2612	Q1	N/A	N/A	addiction	N/A
+choclab88	586	2613	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2614	Q1	N/A	N/A	addiction	N/A
+choclab88	586	2615	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2616	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2617	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2618	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2619	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2620	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2621	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	586	2622	WebMd Staff	N/A	N/A	addiction	N/A
+SophieSebring;	586	2623	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2624	Q1	N/A	N/A	addiction	N/A
+joelhd	586	2625	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	586	2626	WebMd Staff	N/A	N/A	addiction	N/A
+ExCyclist	586	2627	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2628	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	586	2629	WebMd Staff	N/A	N/A	addiction	N/A
+SophieSebring;	586	2630	Q1	N/A	N/A	addiction	N/A
+choclab88	586	2631	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2632	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	586	2633	WebMd Staff	N/A	N/A	addiction	N/A
+kittykatt0868	586	2634	Q1	N/A	N/A	addiction	N/A
+SophieSebring;	586	2635	Q1	N/A	N/A	addiction	N/A
+Taximan283	586	2636	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2637	Q1	N/A	N/A	addiction	N/A
+kittykatt0868	586	2638	Q1	N/A	N/A	addiction	N/A
+sadartist	587	2639	Q2	N/A	N/A	addiction	N/A
+SophieSebring;	587	2640	Q1	N/A	N/A	addiction	N/A
+Taximan283	587	2641	Q1	N/A	N/A	addiction	N/A
+sadartist	587	2642	Q2	N/A	N/A	addiction	N/A
+choclab88	587	2643	Q1	N/A	N/A	addiction	N/A
+An_227066	588	2644	Q3	N/A	N/A	addiction	N/A
+Taximan283	588	2645	Q1	N/A	N/A	addiction	N/A
+An_227067	589	2646	Q3	N/A	N/A	addiction	N/A
+twilightdaze	590	2647	Q1	N/A	N/A	addiction	N/A
+Taximan283	590	2648	Q1	N/A	N/A	addiction	N/A
+choclab88	590	2649	Q1	N/A	N/A	addiction	N/A
+twilightdaze	590	2650	Q1	N/A	N/A	addiction	N/A
+choclab88	590	2651	Q1	N/A	N/A	addiction	N/A
+Taximan283	590	2652	Q1	N/A	N/A	addiction	N/A
+twilightdaze	590	2653	Q1	N/A	N/A	addiction	N/A
+Taximan283	590	2654	Q1	0	gov	addiction	http://buprenorphine.samhsa.gov/bwns_locator/ 
+An_227068	591	2655	Q3	N/A	N/A	addiction	N/A
+choclab88	591	2656	Q1	N/A	N/A	addiction	N/A
+just_looking	591	2657	Q2	N/A	N/A	addiction	N/A
+crazyredj	591	2658	Q2	N/A	N/A	addiction	N/A
+TDXSP08	591	2659	Q1	N/A	N/A	addiction	N/A
+whaledad	592	2660	Q2	N/A	N/A	addiction	N/A
+choclab88	592	2661	Q1	N/A	N/A	addiction	N/A
+choclab88	592	2662	Q1	N/A	N/A	addiction	N/A
+Taximan283	592	2663	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	593	2664	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	593	2665	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	593	2666	Q1	N/A	N/A	addiction	N/A
+choclab88	593	2667	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	593	2668	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	593	2669	WebMd Staff	N/A	N/A	addiction	N/A
+An_227069	594	2670	Q3	N/A	N/A	addiction	N/A
+An_227070	594	2671	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	594	2672	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	594	2673	Q1	N/A	N/A	addiction	N/A
+Taximan283	594	2674	Q1	N/A	N/A	addiction	N/A
+momto3and1onway	594	2675	Q1	N/A	N/A	addiction	N/A
+momto3and1onway	594	2676	Q1	N/A	N/A	addiction	N/A
+momto3and1onway	594	2677	Q1	N/A	N/A	addiction	N/A
+anon10	595	2678	Q1	N/A	N/A	addiction	N/A
+anon10	595	2679	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	595	2680	WebMd Staff	N/A	N/A	addiction	N/A
+anon10	595	2681	Q1	N/A	N/A	addiction	N/A
+Kayap	595	2682	Q1	0	Other	addiction	http://www.sportsmd.com/SportsMD_Articles/id/387/n/alcohol_athletes_and_pressure_to_drink.aspx"
+Taximan283	595	2683	Q1	N/A	N/A	addiction	N/A
+sunnwayne	596	2684	Q1	N/A	N/A	addiction	N/A
+choclab88	596	2685	Q1	N/A	N/A	addiction	N/A
+AMalecki	597	2686	Q2	N/A	N/A	addiction	N/A
+Kayap	597	2687	Q1	N/A	N/A	addiction	N/A
+An_227071	598	2688	Q3	N/A	N/A	addiction	N/A
+An_227072	598	2689	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	598	2690	WebMd Staff	N/A	N/A	addiction	N/A
+Boognish79	598	2691	Q2	N/A	N/A	addiction	N/A
+An_227073	599	2692	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	599	2693	WebMd Staff	N/A	N/A	addiction	N/A
+An_227074	600	2694	Q3	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	600	2695	WebMd Staff	N/A	N/A	addiction	N/A
+An_227075	601	2696	Q3	N/A	N/A	addiction	N/A
+Kayap	601	2697	Q1	N/A	N/A	addiction	N/A
+Louise_WebMD_Staff	601	2698	WebMd Staff	N/A	N/A	addiction	N/A
+choclab88	601	2699	Q1	N/A	N/A	addiction	N/A
+AnAugustsunset	602	2700	Q2	N/A	N/A	addiction	N/A
+choclab88	602	2701	Q1	N/A	N/A	addiction	N/A
+An_227076	603	2702	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	604	2703	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2704	WebMd Staff	N/A	N/A	addiction	N/A
+choclab88	605	2705	Q1	N/A	N/A	addiction	N/A
+Taximan283	605	2706	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2707	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2708	WebMd Staff	N/A	N/A	addiction	N/A
+An_227077	605	2709	Q3	N/A	N/A	addiction	N/A
+Taximan283	605	2710	Q1	N/A	N/A	addiction	N/A
+3point14	605	2711	Q1	N/A	N/A	addiction	N/A
+11CUPS	605	2712	Q2	N/A	N/A	addiction	N/A
+11CUPS	605	2713	Q2	N/A	N/A	addiction	N/A
+bowmat	605	2714	Q2	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2715	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2716	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2717	WebMd Staff	N/A	N/A	addiction	N/A
+3point14	605	2718	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	605	2719	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	606	2720	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	606	2721	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	606	2722	WebMd Staff	N/A	N/A	addiction	N/A
+curtdizz	607	2723	Q2	N/A	N/A	addiction	N/A
+sunnwayne	607	2724	Q1	N/A	N/A	addiction	N/A
+Taximan283	607	2725	Q1	N/A	N/A	addiction	N/A
+surplusprodus	608	2726	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2727	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	609	2728	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2729	WebMd Staff	0	Other	addiction	http://www.latimes.com/news/local/marijuana/ 
+Taximan283	609	2730	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2731	WebMd Staff	0	Other	addiction	http://www.youtube.com/watch?v=L_oIpIyZRu0 
+Taximan283	609	2732	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2733	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	609	2734	Q1	N/A	N/A	addiction	N/A
+choclab88	609	2735	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2736	WebMd Staff	0	gov	addiction	http://www.nhtsa.gov/people/injury/research/job185drugs/cannabis.htm 
+Taximan283	609	2737	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2738	WebMd Staff	N/A	N/A	addiction	N/A
+unilism	609	2739	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	609	2740	WebMd Staff	3	webmd	addiction	http://forums.webmd.com/3/substance-abuse-exchange/tip/6/"
+merrynayme	610	2741	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	610	2742	WebMd Staff	3	webmd	addiction	http://www.webmd.com/mental-health/alcohol-abuse/alcohol-detox-programs 
+Lainey_WebMD_Staff	610	2742	WebMd Staff	3	webmd	addiction	http://www.webmd.com/mental-health/alcohol-abuse/helping-a-person-get-treatment-for-alcohol-abuse-or-dependence 
+Lainey_WebMD_Staff	610	2742	WebMd Staff	0	org	addiction	http://www.aa.org/?Media=PlayFlash 
+merrynayme	610	2743	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	610	2744	WebMd Staff	3	webmd	addiction	http://www.webmd.com/mental-health/premenstrual-dysphoric-disorder 
+Lainey_WebMD_Staff	610	2744	WebMd Staff	0	Other	addiction	http://www.friendsofbill.net/ 
+kittykatt0868	610	2745	Q1	N/A	N/A	addiction	N/A
+merrynayme	610	2746	Q1	N/A	N/A	addiction	N/A
+Taximan283	610	2747	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	610	2748	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/bipolar-disorder-exchange 
+merrynayme	610	2749	Q1	N/A	N/A	addiction	N/A
+Taximan283	610	2750	Q1	N/A	N/A	addiction	N/A
+jemkl3	611	2751	Q3	N/A	N/A	addiction	N/A
+GaryDSmith	612	2752	Q2	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	612	2753	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	613	2754	WebMd Staff	N/A	N/A	addiction	N/A
+choclab88	613	2755	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	613	2756	WebMd Staff	N/A	N/A	addiction	N/A
+choclab88	613	2757	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	613	2758	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	613	2759	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	613	2760	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	613	2761	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	614	2762	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	614	2763	Q1	N/A	N/A	addiction	N/A
+choclab88	614	2764	Q1	N/A	N/A	addiction	N/A
+Taximan283	614	2765	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	614	2766	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	614	2767	WebMd Staff	N/A	N/A	addiction	N/A
+jasonfl25	615	2768	Q3	N/A	N/A	addiction	N/A
+Taximan283	615	2769	Q1	N/A	N/A	addiction	N/A
+Kayap	615	2770	Q1	N/A	N/A	addiction	N/A
+Taximan283	616	2771	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	616	2772	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	616	2773	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	616	2774	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	616	2775	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	616	2776	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	617	2777	WebMd Staff	N/A	N/A	addiction	N/A
+moonlightaylor	618	2778	Q3	N/A	N/A	addiction	N/A
+tdennis73	618	2779	Q2	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	618	2780	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	618	2781	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources?printing=true 
+Taximan283	618	2782	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	619	2783	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	620	2784	WebMd Staff	N/A	N/A	addiction	N/A
+An_227078	621	2785	Q3	N/A	N/A	addiction	N/A
+unilism	622	2786	Q1	N/A	N/A	addiction	N/A
+choclab88	622	2787	Q1	N/A	N/A	addiction	N/A
+Taximan283	622	2788	Q1	N/A	N/A	addiction	N/A
+An_227079	622	2789	Q3	N/A	N/A	addiction	N/A
+pressingtheissue	622	2790	Q1	N/A	N/A	addiction	N/A
+unilism	622	2791	Q1	N/A	N/A	addiction	N/A
+unilism	622	2792	Q1	N/A	N/A	addiction	N/A
+unilism	622	2793	Q1	N/A	N/A	addiction	N/A
+Larsy1566	622	2794	Q2	N/A	N/A	addiction	N/A
+Lifeless	622	2795	Q2	N/A	N/A	addiction	N/A
+azumpire	622	2796	Q2	N/A	N/A	addiction	N/A
+notthemaniusedtobe	622	2797	Q2	N/A	N/A	addiction	N/A
+suzan762	622	2798	Q1	N/A	N/A	addiction	N/A
+suzan762	622	2799	Q1	N/A	N/A	addiction	N/A
+suzan762	622	2800	Q1	N/A	N/A	addiction	N/A
+suzan762	622	2801	Q1	N/A	N/A	addiction	N/A
+mitchs22	623	2802	Q3	N/A	N/A	addiction	N/A
+choclab88	623	2803	Q1	N/A	N/A	addiction	N/A
+angie21837	624	2804	Q2	N/A	N/A	addiction	N/A
+Taximan283	624	2805	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	624	2806	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources?printing=true 
+Lainey_WebMD_Staff	624	2806	WebMd Staff	0	Other	addiction	http://www.intherooms.com/public/login 
+Lainey_WebMD_Staff	624	2806	WebMd Staff	0	org	addiction	http://www.al-anon.org/"
+saxon1215	625	2807	Q1	0	gov	addiction	www.fda.gov/medwatch/report.htm"
+Taximan283	625	2808	Q1	N/A	N/A	addiction	N/A
+saxon1215	625	2809	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2810	Q1	N/A	N/A	addiction	N/A
+TDXSP08	625	2811	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2812	Q1	N/A	N/A	addiction	N/A
+saxon1215	625	2813	Q1	N/A	N/A	addiction	N/A
+TDXSP08	625	2814	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2815	Q1	N/A	N/A	addiction	N/A
+TDXSP08	625	2816	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2817	Q1	N/A	N/A	addiction	N/A
+TDXSP08	625	2818	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2819	Q1	N/A	N/A	addiction	N/A
+saxon1215	625	2820	Q1	N/A	N/A	addiction	N/A
+Taximan283	625	2821	Q1	N/A	N/A	addiction	N/A
+saxon1215	625	2822	Q1	N/A	N/A	addiction	N/A
+charity1234	626	2823	Q1	N/A	N/A	addiction	N/A
+choclab88	626	2824	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	626	2825	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources/ 
+charity1234	626	2826	Q1	N/A	N/A	addiction	N/A
+Kayap	626	2827	Q1	N/A	N/A	addiction	N/A
+charity1234	626	2828	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	626	2829	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/fibromyalgia-exchange 
+Lainey_WebMD_Staff	626	2829	WebMd Staff	0	Other	addiction	http://www.intherooms.com/ 
+charity1234	626	2830	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	626	2831	WebMd Staff	N/A	N/A	addiction	N/A
+charity1234	626	2832	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	626	2833	WebMd Staff	N/A	N/A	addiction	N/A
+charity1234	626	2834	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	626	2835	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	627	2836	WebMd Staff	N/A	N/A	addiction	N/A
+An_227081	628	2837	Q3	N/A	N/A	addiction	N/A
+charity1234	628	2838	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	628	2839	WebMd Staff	1	org	addiction	http://www.ncvc.org/ncvc/main.aspx?dbID=DB_VictimAssistance207 
+An_227082	628	2840	Q3	N/A	N/A	addiction	N/A
+charity1234	628	2841	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	628	2842	WebMd Staff	0	Other	addiction	http://www.intherooms.com/ 
+Lainey_WebMD_Staff	628	2842	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/sexual-abuse-survivors-support-exchange 
+Taximan283	628	2843	Q1	N/A	N/A	addiction	N/A
+LoverlyLaurie	628	2844	Q1	N/A	N/A	addiction	N/A
+Taximan283	628	2845	Q1	N/A	N/A	addiction	N/A
+LoverlyLaurie	628	2846	Q1	N/A	N/A	addiction	N/A
+Taximan283	628	2847	Q1	N/A	N/A	addiction	N/A
+LoverlyLaurie	628	2848	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	628	2849	WebMd Staff	0	Other	addiction	http://rapecrisis.com/ 
+charity1234	628	2850	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	629	2851	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	630	2852	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	631	2853	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	632	2854	WebMd Staff	N/A	N/A	addiction	N/A
+Taximan283	632	2855	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	632	2856	WebMd Staff	N/A	N/A	addiction	N/A
+GuardSquealer	632	2857	Q2	N/A	N/A	addiction	N/A
+Taximan283	632	2858	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	632	2859	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	632	2860	WebMd Staff	N/A	N/A	addiction	N/A
+An_227083	633	2861	Q3	N/A	N/A	addiction	N/A
+Taximan283	633	2862	Q1	N/A	N/A	addiction	N/A
+Taximan283	633	2863	Q1	N/A	N/A	addiction	N/A
+Kayap	633	2864	Q1	N/A	N/A	addiction	N/A
+Taximan283	633	2865	Q1	N/A	N/A	addiction	N/A
+believer4ever	634	2866	Q2	N/A	N/A	addiction	N/A
+Kayap	634	2867	Q1	N/A	N/A	addiction	N/A
+An_227084	635	2868	Q3	N/A	N/A	addiction	N/A
+Taximan283	635	2869	Q1	N/A	N/A	addiction	N/A
+An_227085	635	2870	Q3	N/A	N/A	addiction	N/A
+Taximan283	635	2871	Q1	N/A	N/A	addiction	N/A
+An_227086	636	2872	Q3	N/A	N/A	addiction	N/A
+Taximan283	636	2873	Q1	N/A	N/A	addiction	N/A
+chipdog902	636	2874	Q1	N/A	N/A	addiction	N/A
+Taximan283	636	2875	Q1	N/A	N/A	addiction	N/A
+An_227087	636	2876	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	636	2877	WebMd Staff	0	Other	addiction	http://www.intherooms.com/"
+An_227088	636	2878	Q3	N/A	N/A	addiction	N/A
+chipdog902	636	2879	Q1	N/A	N/A	addiction	N/A
+An_227089	636	2880	Q3	N/A	N/A	addiction	N/A
+cooker6920	636	2881	Q1	N/A	N/A	addiction	N/A
+An_227090	636	2882	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	636	2883	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources?printing=true#addiction 
+An_227091	636	2884	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	636	2885	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/depression-exchange 
+Lainey_WebMD_Staff	636	2885	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/anxiety-and-panic-disorders-exchange 
+Mandyeisme	637	2886	Q2	N/A	N/A	addiction	N/A
+Taximan283	637	2887	Q1	N/A	N/A	addiction	N/A
+Mandyeisme	637	2888	Q2	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	637	2889	WebMd Staff	3	webmd	addiction	http://www.webmd.com/drugs/drug-1701-Citalopram.aspx?drugid=1701&drugname=Citalopram&source=0"
+An_227092	638	2890	Q3	N/A	N/A	addiction	N/A
+Taximan283	638	2891	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	638	2892	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources?printing=true#addiction 
+An_227093	638	2893	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	638	2894	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	639	2895	WebMd Staff	N/A	N/A	addiction	N/A
+lisalee40	639	2896	Q1	N/A	N/A	addiction	N/A
+An_227094	639	2897	Q3	N/A	N/A	addiction	N/A
+lisalee40	639	2898	Q1	N/A	N/A	addiction	N/A
+An_227095	639	2899	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	639	2900	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	639	2901	WebMd Staff	N/A	N/A	addiction	N/A
+Jeremiah1991	640	2902	Q2	N/A	N/A	addiction	N/A
+Taximan283	640	2903	Q1	N/A	N/A	addiction	N/A
+3point14	640	2904	Q1	N/A	N/A	addiction	N/A
+charity1234	641	2905	Q1	N/A	N/A	addiction	N/A
+choclab88	641	2906	Q1	N/A	N/A	addiction	N/A
+kellye58	641	2907	Q2	N/A	N/A	addiction	N/A
+An_227096	642	2908	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	642	2909	WebMd Staff	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	643	2910	WebMd Staff	N/A	N/A	addiction	N/A
+DanielleJeanette	644	2911	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	644	2912	WebMd Staff	3	webmd	addiction	http://forums.webmd.com/3/substance-abuse-exchange/tip/4 
+br2brb	645	2913	Q3	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	646	2914	WebMd Staff	N/A	N/A	addiction	N/A
+choclab88	646	2915	Q1	N/A	N/A	addiction	N/A
+jleebow	647	2916	Q1	N/A	N/A	addiction	N/A
+Taximan283	647	2917	Q1	N/A	N/A	addiction	N/A
+jleebow	647	2918	Q1	N/A	N/A	addiction	N/A
+iknowforsure	647	2919	Q2	N/A	N/A	addiction	N/A
+An_227097	647	2920	Q3	N/A	N/A	addiction	N/A
+Rixxa	648	2921	Q3	N/A	N/A	addiction	N/A
+Taximan283	648	2922	Q1	N/A	N/A	addiction	N/A
+Lainey_WebMD_Staff	648	2923	WebMd Staff	0	webmd	addiction	http://www.webmd.com/help/crisis-resources?printing=true#abuse 
+Lainey_WebMD_Staff	648	2923	WebMd Staff	1	webmd	addiction	http://exchanges.webmd.com/self-harm-exchange 
+Kayap	648	2924	Q1	N/A	N/A	addiction	N/A
+crichey56	648	2925	Q2	N/A	N/A	addiction	N/A
+An_227098	649	2926	Q3	N/A	N/A	addiction	N/A
+Kayap	649	2927	Q1	N/A	N/A	addiction	N/A
+andyjn68	650	2928	Q1	N/A	N/A	addiction	N/A
+Kayap	650	2929	Q1	N/A	N/A	addiction	N/A
+andyjn68	650	2930	Q1	N/A	N/A	addiction	N/A
+birdfan63	651	2931	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	651	2932	WebMd Staff	N/A	N/A	addiction	N/A
+An_227099	651	2933	Q3	N/A	N/A	addiction	N/A
+birdfan63	651	2934	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	651	2935	WebMd Staff	N/A	N/A	addiction	N/A
+precious32038	652	2936	Q1	N/A	N/A	addiction	N/A
+Kayap	652	2937	Q1	N/A	N/A	addiction	N/A
+precious32038	653	2938	Q1	N/A	N/A	addiction	N/A
+Kayap	653	2939	Q1	N/A	N/A	addiction	N/A
+An_227100	654	2940	Q2	N/A	N/A	addiction	N/A
+Kayap	654	2941	Q1	N/A	N/A	addiction	N/A
+An_227101	654	2942	Q2	N/A	N/A	addiction	N/A
+Kayap	654	2943	Q1	N/A	N/A	addiction	N/A
+An_227102	655	2944	Q2	N/A	N/A	addiction	N/A
+2011ups	656	2945	Q2	N/A	N/A	addiction	N/A
+Kayap	656	2946	Q1	N/A	N/A	addiction	N/A
+dave888	656	2947	Q2	N/A	N/A	addiction	N/A
+SunRain13	657	2948	Q3	N/A	N/A	addiction	N/A
+Kayap	657	2949	Q1	N/A	N/A	addiction	N/A
+An_227103	658	2950	Q2	N/A	N/A	addiction	N/A
+Kayap	658	2951	Q1	N/A	N/A	addiction	N/A
+An_227104	659	2952	Q2	N/A	N/A	addiction	N/A
+3point14	659	2953	Q1	N/A	N/A	addiction	N/A
+Kayap	659	2954	Q1	N/A	N/A	addiction	N/A
+An_227105	659	2955	Q2	N/A	N/A	addiction	N/A
+Kayap	659	2956	Q1	N/A	N/A	addiction	N/A
+An_227106	659	2957	Q2	N/A	N/A	addiction	N/A
+whatsup92	660	2958	Q3	N/A	N/A	addiction	N/A
+emily_1222	660	2959	Q2	N/A	N/A	addiction	N/A
+3point14	660	2960	Q1	N/A	N/A	addiction	N/A
+lissmeanstrouble	660	2961	Q1	N/A	N/A	addiction	N/A
+lissmeanstrouble	661	2962	Q1	N/A	N/A	addiction	N/A
+3point14	661	2963	Q1	N/A	N/A	addiction	N/A
+lissmeanstrouble	661	2964	Q1	N/A	N/A	addiction	N/A
+Kayap	661	2965	Q1	N/A	N/A	addiction	N/A
+lissmeanstrouble	661	2966	Q1	N/A	N/A	addiction	N/A
+An_227108	662	2967	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	662	2968	WebMd Staff	N/A	N/A	addiction	N/A
+mjackson3	663	2969	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	663	2970	WebMd Staff	N/A	N/A	addiction	N/A
+dolphnfairy7	664	2971	Q3	N/A	N/A	addiction	N/A
+FirstMate53	664	2972	Q3	N/A	N/A	addiction	N/A
+Dwave13	665	2973	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	665	2974	WebMd Staff	N/A	N/A	addiction	N/A
+tanya49047	665	2975	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	665	2976	WebMd Staff	N/A	N/A	addiction	N/A
+helper57	666	2977	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	666	2978	WebMd Staff	N/A	N/A	addiction	N/A
+An_227110	667	2979	Q2	N/A	N/A	addiction	N/A
+Kayap	667	2980	Q1	N/A	N/A	addiction	N/A
+BlueBlue22	667	2981	Q3	N/A	N/A	addiction	N/A
+Kayap	667	2982	Q1	N/A	N/A	addiction	N/A
+helper57	668	2983	Q2	N/A	N/A	addiction	N/A
+TDXSP08	668	2984	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	669	2985	WebMd Staff	N/A	N/A	addiction	N/A
+sharkeysgirl	670	2986	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	670	2987	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	670	2988	Q1	N/A	N/A	addiction	N/A
+GTKT79	670	2989	Q2	N/A	N/A	addiction	N/A
+FlyGus	670	2990	Q2	N/A	N/A	addiction	N/A
+An_227111	671	2991	Q2	N/A	N/A	addiction	N/A
+Kayap	671	2992	Q1	N/A	N/A	addiction	N/A
+gjf1128	672	2993	Q2	N/A	N/A	addiction	N/A
+Kayap	672	2994	Q1	N/A	N/A	addiction	N/A
+mfullmike;	672	2995	Q2	0	Other	addiction	http://www.soberrecovery.com/ 
+An_227112	673	2996	Q2	N/A	N/A	addiction	N/A
+Taximan283	673	2997	Q1	N/A	N/A	addiction	N/A
+Rocco888	674	2998	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	674	2999	WebMd Staff	N/A	N/A	addiction	N/A
+An_227113	674	3000	Q2	N/A	N/A	addiction	N/A
+Kayap	674	3001	Q1	N/A	N/A	addiction	N/A
+62help49	674	3002	Q3	N/A	N/A	addiction	N/A
+compoundia	674	3003	Q2	0	Other	addiction	http://www.compoundiapharmacy.com/"
+ljude38	674	3004	Q1	N/A	N/A	addiction	N/A
+AprilBaby1982	675	3005	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	675	3006	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	675	3007	Q1	N/A	N/A	addiction	N/A
+Taximan283	675	3008	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	675	3009	WebMd Staff	N/A	N/A	addiction	N/A
+lovemyson27	676	3010	Q2	N/A	N/A	addiction	N/A
+AprilBaby1982	676	3011	Q2	N/A	N/A	addiction	N/A
+lovemyson27	676	3012	Q2	N/A	N/A	addiction	N/A
+Kayap	676	3013	Q1	N/A	N/A	addiction	N/A
+Lubon1	677	3014	Q2	N/A	N/A	addiction	N/A
+mmccormick09	677	3015	Q2	N/A	N/A	addiction	N/A
+TDXSP08	677	3016	Q1	N/A	N/A	addiction	N/A
+JASTARKEY	678	3017	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	678	3018	WebMd Staff	N/A	N/A	addiction	N/A
+Olivia_WebMD_Staff	679	3019	WebMd Staff	N/A	N/A	addiction	N/A
+pressingtheissue	679	3020	Q1	N/A	N/A	addiction	N/A
+powerlaw	679	3021	Q2	N/A	N/A	addiction	N/A
+waynenewman	679	3022	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	679	3023	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	679	3024	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	679	3025	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	679	3026	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	679	3027	WebMd Staff	N/A	N/A	addiction	N/A
+sugaree555	680	3028	Q2	N/A	N/A	addiction	N/A
+An_227114	681	3029	Q2	N/A	N/A	addiction	N/A
+An_227115	682	3030	Q2	N/A	N/A	addiction	N/A
+pressingtheissue	682	3031	Q1	N/A	N/A	addiction	N/A
+An_227116	683	3032	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	683	3033	WebMd Staff	N/A	N/A	addiction	N/A
+An_227117	684	3034	Q2	N/A	N/A	addiction	N/A
+Kayap	684	3035	Q1	N/A	N/A	addiction	N/A
+An_227118	685	3036	Q2	N/A	N/A	addiction	N/A
+Kayap	685	3037	Q1	N/A	N/A	addiction	N/A
+An_227119	685	3038	Q2	N/A	N/A	addiction	N/A
+An_245032	685	3039	Q2	N/A	N/A	addiction	N/A
+kristitx68	686	3040	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	686	3041	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	686	3042	Q1	N/A	N/A	addiction	N/A
+fish04920;	687	3043	Q2	N/A	N/A	addiction	N/A
+Kayap	687	3044	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	688	3045	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	688	3046	Q1	N/A	N/A	addiction	N/A
+An_227120	689	3047	Q2	N/A	N/A	addiction	N/A
+sara20030	690	3048	Q2	N/A	N/A	addiction	N/A
+TDXSP08	690	3049	Q1	N/A	N/A	addiction	N/A
+ap21580	691	3050	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	691	3051	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	691	3052	Q1	N/A	N/A	addiction	N/A
+tabby_joey	692	3053	Q2	N/A	N/A	addiction	N/A
+Kayap	692	3054	Q1	N/A	N/A	addiction	N/A
+TDXSP08	692	3055	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	692	3056	WebMd Staff	N/A	N/A	addiction	N/A
+An_227121	693	3057	Q2	N/A	N/A	addiction	N/A
+Kayap	693	3058	Q1	0	Other	addiction	http://en.allexperts.com/q/Addiction-Drugs-1319/cocaine-addiction-withdrawal.htm 
+VivaPeron	694	3059	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	694	3060	WebMd Staff	N/A	N/A	addiction	N/A
+VivaPeron	694	3061	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	694	3062	WebMd Staff	N/A	N/A	addiction	N/A
+AOK1064	695	3063	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	695	3064	WebMd Staff	N/A	N/A	addiction	N/A
+An_227122	696	3065	Q2	N/A	N/A	addiction	N/A
+An_227123	696	3066	Q2	N/A	N/A	addiction	N/A
+bigdad1970	697	3067	Q2	N/A	N/A	addiction	N/A
+Kayap	697	3068	Q1	N/A	N/A	addiction	N/A
+serenityx143	697	3069	Q3	N/A	N/A	addiction	N/A
+An_227124	698	3070	Q2	N/A	N/A	addiction	N/A
+Kayap	698	3071	Q1	N/A	N/A	addiction	N/A
+smarties1111	699	3072	Q2	N/A	N/A	addiction	N/A
+Kayap	699	3073	Q1	0	Other	addiction	http://www.steadyhealth.com/about/alcohol_intolerance_symptoms_causes_and_treatment.html"
+jcm11	699	3074	Q1	N/A	N/A	addiction	N/A
+dhodson77	700	3075	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	700	3076	Health Professional	N/A	N/A	addiction	N/A
+dhodson77	700	3077	Q1	N/A	N/A	addiction	N/A
+Bob0458	700	3078	Q2	N/A	N/A	addiction	N/A
+An_227126	701	3079	Q2	N/A	N/A	addiction	N/A
+dhodson77	702	3080	Q1	N/A	N/A	addiction	N/A
+kathycornflakes	703	3081	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	703	3082	WebMd Staff	N/A	N/A	addiction	N/A
+jcm11	703	3083	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	704	3084	WebMd Staff	N/A	N/A	addiction	N/A
+An_227127	705	3085	Q2	N/A	N/A	addiction	N/A
+Concernedmom63	705	3086	Q2	N/A	N/A	addiction	N/A
+An_227128	705	3087	Q2	N/A	N/A	addiction	N/A
+An_227129	706	3088	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJohn Schwarzlose	706	3089	Q2	0	org	addiction	www.asam.org 
+An_227130	707	3090	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	707	3091	Health Professional	N/A	N/A	addiction	N/A
+An_227131	708	3092	Q2	N/A	N/A	addiction	N/A
+DiGineedsHelp	708	3093	Q1	N/A	N/A	addiction	N/A
+kathycornflakes	708	3094	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	708	3095	Health Professional	N/A	N/A	addiction	N/A
+dansmithlacey	708	3096	Q2	N/A	N/A	addiction	N/A
+vtmomm	709	3097	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	709	3098	Health Professional	N/A	N/A	addiction	N/A
+DiGineedsHelp	710	3099	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	710	3100	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterPeter Przekop, DO, PhD	710	3101	Health Professional	N/A	N/A	addiction	N/A
+An_227132	711	3102	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	711	3103	WebMd Staff	N/A	N/A	addiction	N/A
+galemarie59	711	3104	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	711	3105	Health Professional	N/A	N/A	addiction	N/A
+galemarie59	711	3106	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	711	3107	WebMd Staff	N/A	N/A	addiction	N/A
+galemarie59	711	3108	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	711	3109	WebMd Staff	N/A	N/A	addiction	N/A
+galemarie59	711	3110	Q1	N/A	N/A	addiction	N/A
+galemarie59	711	3111	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	711	3112	Health Professional	N/A	N/A	addiction	N/A
+An_227133	712	3113	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	712	3114	WebMd Staff	N/A	N/A	addiction	N/A
+helpfriend	712	3115	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	712	3116	WebMd Staff	N/A	N/A	addiction	N/A
+An_227134	713	3117	Q2	N/A	N/A	addiction	N/A
+lisalee40	713	3118	Q1	N/A	N/A	addiction	N/A
+Kayap	713	3119	Q1	N/A	N/A	addiction	N/A
+CuriousinSeattle	714	3120	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	714	3121	Health Professional	N/A	N/A	addiction	N/A
+memelanie1	714	3122	Q2	N/A	N/A	addiction	N/A
+nkaplan2113	714	3123	Q1	N/A	N/A	addiction	N/A
+santabarbara_lmft	714	3124	Q3	N/A	N/A	addiction	N/A
+moskierko	715	3125	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	715	3126	Health Professional	N/A	N/A	addiction	N/A
+donniecarvin;	715	3127	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	715	3128	Health Professional	N/A	N/A	addiction	N/A
+rach131921	716	3129	Q1	N/A	N/A	addiction	N/A
+rach131921	716	3130	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	716	3131	WebMd Staff	N/A	N/A	addiction	N/A
+DependantScared	717	3132	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	717	3133	Health Professional	N/A	N/A	addiction	N/A
+An_230150	717	3134	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	717	3135	Health Professional	N/A	N/A	addiction	N/A
+An_227135	718	3136	Q2	N/A	N/A	addiction	N/A
+An_227136	719	3137	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	719	3138	Health Professional	N/A	N/A	addiction	N/A
+An_227137	719	3139	Q2	N/A	N/A	addiction	N/A
+An_227138	720	3140	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	720	3141	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	720	3142	Q1	N/A	N/A	addiction	N/A
+An_227139	721	3143	Q2	N/A	N/A	addiction	N/A
+An_227140	721	3144	Q2	N/A	N/A	addiction	N/A
+responded:	721	3145	Q2	N/A	N/A	addiction	N/A
+An_227141	722	3146	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	722	3147	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	722	3148	Health Professional	N/A	N/A	addiction	N/A
+TDXSP08	722	3149	Q1	N/A	N/A	addiction	N/A
+An_227141	723	3150	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	723	3151	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	723	3152	Health Professional	N/A	N/A	addiction	N/A
+TDXSP08	723	3153	Q1	N/A	N/A	addiction	N/A
+An_227143	724	3154	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	724	3155	Health Professional	N/A	N/A	addiction	N/A
+An_227144	725	3156	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	725	3157	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	725	3158	Health Professional	3	webmd	addiction	http://www.webmd.com/mental-health/features/bath-salts-drug-dangers"
+tembleque	726	3159	Q2	N/A	N/A	addiction	N/A
+matt31415	726	3160	Q2	N/A	N/A	addiction	N/A
+Anon_158160	726	3161	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	726	3162	Health Professional	N/A	N/A	addiction	N/A
+rach131921	727	3163	Q1	N/A	N/A	addiction	N/A
+rach131921	727	3164	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	727	3165	WebMd Staff	N/A	N/A	addiction	N/A
+An_152477	727	3166	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	727	3167	Health Professional	N/A	N/A	addiction	N/A
+rach131921	727	3168	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	727	3169	Health Professional	N/A	N/A	addiction	N/A
+An_227145	728	3170	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	728	3171	WebMd Staff	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	729	3172	WebMd Staff	N/A	N/A	addiction	N/A
+nannysgrl	730	3173	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	730	3174	Health Professional	N/A	N/A	addiction	N/A
+nannysgrl	731	3175	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	731	3176	Health Professional	N/A	N/A	addiction	N/A
+ryen79	732	3177	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	732	3178	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	732	3179	Health Professional	N/A	N/A	addiction	N/A
+melly2210	733	3180	Q1	N/A	N/A	addiction	N/A
+Kayap	733	3181	Q1	N/A	N/A	addiction	N/A
+melly2210	733	3182	Q1	N/A	N/A	addiction	N/A
+Kayap	733	3183	Q1	N/A	N/A	addiction	N/A
+melly2210	733	3184	Q1	N/A	N/A	addiction	N/A
+Kayap	733	3185	Q1	N/A	N/A	addiction	N/A
+melly2210	733	3186	Q1	N/A	N/A	addiction	N/A
+Kayap	733	3187	Q1	N/A	N/A	addiction	N/A
+melly2210	733	3188	Q1	N/A	N/A	addiction	N/A
+Kazman82	734	3189	Q2	N/A	N/A	addiction	N/A
+melly2210	734	3190	Q1	N/A	N/A	addiction	N/A
+Kayap	734	3191	Q1	N/A	N/A	addiction	N/A
+Anon_158160	734	3192	Q1	N/A	N/A	addiction	N/A
+Kazman82	734	3193	Q2	N/A	N/A	addiction	N/A
+astrickl	735	3194	Q2	N/A	N/A	addiction	N/A
+melly2210	735	3195	Q1	N/A	N/A	addiction	N/A
+Anon_231855	736	3196	Q3	N/A	N/A	addiction	N/A
+tanya49047	736	3197	Q1	N/A	N/A	addiction	N/A
+tanya49047	736	3198	Q1	N/A	N/A	addiction	N/A
+NicoleM1983	736	3199	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterPeter Przekop, DO, PhD	736	3200	Health Professional	N/A	N/A	addiction	N/A
+BlueScarlett	736	3201	Q3	N/A	N/A	addiction	N/A
+An_249031	736	3202	Q1	N/A	N/A	addiction	N/A
+bryanb1980	737	3203	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	737	3204	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	737	3205	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	737	3206	Health Professional	N/A	N/A	addiction	N/A
+bryanb1980	738	3207	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	738	3208	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	738	3209	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	738	3210	Health Professional	N/A	N/A	addiction	N/A
+bryanb1980	739	3211	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	739	3212	WebMd Staff	N/A	N/A	addiction	N/A
+Kayap	739	3213	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	739	3214	Health Professional	N/A	N/A	addiction	N/A
+dlpollard	740	3215	Q3	N/A	N/A	addiction	N/A
+Amelia_WebMD_Staff	740	3216	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	740	3217	Health Professional	N/A	N/A	addiction	N/A
+luvmedo24	741	3218	Q3	N/A	N/A	addiction	N/A
+Amelia_WebMD_Staff	741	3219	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	741	3220	Health Professional	N/A	N/A	addiction	N/A
+confusedvanessa	742	3221	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	742	3222	WebMd Staff	N/A	N/A	addiction	N/A
+confusedvanessa	742	3223	Q1	N/A	N/A	addiction	N/A
+Anon_121350	743	3224	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	743	3225	Health Professional	N/A	N/A	addiction	N/A
+Anon_237427	744	3226	Q2	N/A	N/A	addiction	N/A
+Anon_3114	744	3227	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	744	3228	Health Professional	N/A	N/A	addiction	N/A
+choclab888	744	3229	Q1	N/A	N/A	addiction	N/A
+lmguccione	745	3230	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	745	3231	Health Professional	N/A	N/A	addiction	N/A
+Tenseven86	746	3232	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	746	3233	Health Professional	N/A	N/A	addiction	N/A
+yourtypicalmike	747	3234	Q2	N/A	N/A	addiction	N/A
+choclab888	747	3235	Q1	N/A	N/A	addiction	N/A
+Kayap	747	3236	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	747	3237	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	748	3238	WebMd Staff	N/A	N/A	addiction	N/A
+An_239366	749	3239	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	749	3240	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	749	3241	WebMd Staff	N/A	N/A	addiction	N/A
+An_239608	750	3242	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	750	3243	WebMd Staff	N/A	N/A	addiction	N/A
+An_239608	750	3244	Q1	N/A	N/A	addiction	N/A
+An_239608	750	3245	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	750	3246	WebMd Staff	N/A	N/A	addiction	N/A
+Anon_158160	750	3247	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	751	3248	WebMd Staff	N/A	N/A	addiction	N/A
+melly2210	752	3249	Q1	N/A	N/A	addiction	N/A
+Kayap	752	3250	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	752	3251	Health Professional	N/A	N/A	addiction	N/A
+melly2210	752	3252	Q1	N/A	N/A	addiction	N/A
+milady37	753	3253	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	753	3254	WebMd Staff	N/A	N/A	addiction	N/A
+milady37	754	3255	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	754	3256	WebMd Staff	N/A	N/A	addiction	N/A
+An_240029	755	3257	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	755	3258	Health Professional	N/A	N/A	addiction	N/A
+Turtlesforever	756	3259	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	756	3260	Health Professional	N/A	N/A	addiction	N/A
+jlcordes	757	3261	Q2	N/A	N/A	addiction	N/A
+Kayap	757	3262	Q1	N/A	N/A	addiction	N/A
+choclab888	757	3263	Q1	N/A	N/A	addiction	N/A
+cunningandbaffling	758	3264	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	758	3265	Health Professional	N/A	N/A	addiction	N/A
+An_240618	758	3266	Q2	N/A	N/A	addiction	N/A
+An_240444	759	3267	Q1	N/A	N/A	addiction	N/A
+Kayap	759	3268	Q1	N/A	N/A	addiction	N/A
+An_240444	759	3269	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	759	3270	Health Professional	N/A	N/A	addiction	N/A
+Kayap	759	3271	Q1	N/A	N/A	addiction	N/A
+An_240505	760	3272	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	760	3273	WebMd Staff	N/A	N/A	addiction	N/A
+An_240648	761	3274	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	761	3275	WebMd Staff	N/A	N/A	addiction	N/A
+An_240668	762	3276	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	762	3277	Health Professional	N/A	N/A	addiction	N/A
+timetostop	763	3278	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	763	3279	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	763	3280	Health Professional	N/A	N/A	addiction	N/A
+harlryguy	763	3281	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	763	3282	WebMd Staff	N/A	N/A	addiction	N/A
+candycane1234	763	3283	Q2	N/A	N/A	addiction	N/A
+harlryguy	764	3284	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	764	3285	Health Professional	N/A	N/A	addiction	N/A
+NewVision1	765	3286	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	765	3287	Health Professional	N/A	N/A	addiction	N/A
+brad2011	766	3288	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	766	3289	Health Professional	N/A	N/A	addiction	N/A
+stick312	766	3290	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	766	3291	Health Professional	0	org	addiction	http://www.mayoclinicproceedings.org/article/S0025-6196(
+Grundo	766	3292	Q3	N/A	N/A	addiction	N/A
+An_254060	766	3293	Q2	N/A	N/A	addiction	N/A
+ljude38	766	3294	Q1	N/A	N/A	addiction	N/A
+tucker22	766	3295	Q2	N/A	N/A	addiction	N/A
+An_241187	767	3296	Q2	N/A	N/A	addiction	N/A
+Sukie543	767	3297	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	767	3298	Health Professional	N/A	N/A	addiction	N/A
+Minkas_kids	767	3299	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	767	3300	WebMd Staff	N/A	N/A	addiction	N/A
+Minkas_kids	767	3301	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	767	3302	Health Professional	N/A	N/A	addiction	N/A
+Minkas_kids	767	3303	Q1	N/A	N/A	addiction	N/A
+An_241217	768	3304	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	768	3305	Health Professional	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	769	3306	Health Professional	N/A	N/A	addiction	N/A
+RoseLynn02	769	3307	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	769	3308	WebMd Staff	N/A	N/A	addiction	N/A
+RoseLynn02	769	3309	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	770	3310	Health Professional	N/A	N/A	addiction	N/A
+RoseLynn02	770	3311	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	770	3312	WebMd Staff	N/A	N/A	addiction	N/A
+RoseLynn02	770	3313	Q1	N/A	N/A	addiction	N/A
+richardjones2nd	771	3314	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	771	3315	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	771	3316	WebMd Staff	N/A	N/A	addiction	N/A
+momuv4girls	772	3317	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	772	3318	Health Professional	N/A	N/A	addiction	N/A
+momuv4girls	772	3319	Q1	N/A	N/A	addiction	N/A
+mayas_momma	772	3320	Q1	N/A	N/A	addiction	N/A
+momuv4girls	772	3321	Q1	N/A	N/A	addiction	N/A
+smaj1	773	3322	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	773	3323	Health Professional	0	org	addiction	http://bloodalcoholcalculator.org/#LinkURL"
+Anon_153382	774	3324	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	774	3325	Health Professional	N/A	N/A	addiction	N/A
+whynowIask	775	3326	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	775	3327	WebMd Staff	N/A	N/A	addiction	N/A
+whynowIask	775	3328	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	775	3329	WebMd Staff	N/A	N/A	addiction	N/A
+whynowIask	775	3330	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	775	3331	Health Professional	N/A	N/A	addiction	N/A
+JohannaB24	776	3332	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	776	3333	Health Professional	N/A	N/A	addiction	N/A
+whynowIask	777	3334	Q1	N/A	N/A	addiction	N/A
+An_241921	778	3335	Q2	N/A	N/A	addiction	N/A
+An_241921	779	3336	Q2	N/A	N/A	addiction	N/A
+asthmasux	780	3337	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	780	3338	Health Professional	N/A	N/A	addiction	N/A
+translation27	780	3339	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	780	3340	Health Professional	N/A	N/A	addiction	N/A
+mayas_momma	780	3341	Q1	N/A	N/A	addiction	N/A
+Starla7291	781	3342	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	781	3343	Health Professional	N/A	N/A	addiction	N/A
+mayas_momma	781	3344	Q1	N/A	N/A	addiction	N/A
+An_242085	782	3345	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	782	3346	Health Professional	N/A	N/A	addiction	N/A
+CissyB82	783	3347	Q2	N/A	N/A	addiction	N/A
+An_240941	783	3348	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	783	3349	Health Professional	N/A	N/A	addiction	N/A
+An_240941	783	3350	Q1	N/A	N/A	addiction	N/A
+dustintrevor	784	3351	Q3	N/A	N/A	addiction	N/A
+Haylen_WebMD_Staff	784	3352	WebMd Staff	N/A	N/A	addiction	N/A
+LindaRobertson	785	3353	Q1	N/A	N/A	addiction	N/A
+Anon_3114	785	3354	Q1	N/A	N/A	addiction	N/A
+LindaRobertson	785	3355	Q1	N/A	N/A	addiction	N/A
+mayas_momma	785	3356	Q1	N/A	N/A	addiction	N/A
+LindaRobertson	785	3357	Q1	N/A	N/A	addiction	N/A
+pinkchick57	786	3358	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	786	3359	WebMd Staff	N/A	N/A	addiction	N/A
+An_242922	787	3360	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	787	3361	WebMd Staff	N/A	N/A	addiction	N/A
+An_242922	787	3362	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	787	3363	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	787	3364	Health Professional	N/A	N/A	addiction	N/A
+leannaa	787	3365	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	787	3366	WebMd Staff	N/A	N/A	addiction	N/A
+ljude38	787	3367	Q1	N/A	N/A	addiction	N/A
+GeorgiaShakes	787	3368	Q2	N/A	N/A	addiction	N/A
+trust1969	788	3369	Q1	N/A	N/A	addiction	N/A
+Anon_3114	788	3370	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	788	3371	WebMd Staff	N/A	N/A	addiction	N/A
+An_240941	788	3372	Q1	0	org	addiction	http://www.na.org/?ID=phoneline 
+An_240941	788	3372	Q1	0	org	addiction	http://portaltools.na.org/portaltools/MeetingLoc 
+An_240941	788	3372	Q1	0	Other	addiction	http://rehabilitationinformation.net/category/drug-rehab/?cdc=Rehab65 
+trust1969	788	3373	Q1	N/A	N/A	addiction	N/A
+trust1969	788	3374	Q1	N/A	N/A	addiction	N/A
+trust1969	788	3375	Q1	N/A	N/A	addiction	N/A
+An_240941	788	3376	Q1	N/A	N/A	addiction	N/A
+mayas_momma	788	3377	Q1	N/A	N/A	addiction	N/A
+mayas_momma	788	3378	Q1	N/A	N/A	addiction	N/A
+RoseLynn02	788	3379	Q1	N/A	N/A	addiction	N/A
+trust1969	789	3380	Q1	N/A	N/A	addiction	N/A
+Anon_3114	789	3381	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	789	3382	WebMd Staff	N/A	N/A	addiction	N/A
+An_240941	789	3383	Q1	0	org	addiction	http://www.na.org/?ID=phoneline 
+An_240941	789	3383	Q1	0	org	addiction	http://portaltools.na.org/portaltools/MeetingLoc 
+An_240941	789	3383	Q1	0	Other	addiction	http://rehabilitationinformation.net/category/drug-rehab/?cdc=Rehab65 
+trust1969	789	3384	Q1	N/A	N/A	addiction	N/A
+trust1969	789	3385	Q1	N/A	N/A	addiction	N/A
+trust1969	789	3386	Q1	N/A	N/A	addiction	N/A
+An_240941	789	3387	Q1	N/A	N/A	addiction	N/A
+mayas_momma	789	3388	Q1	N/A	N/A	addiction	N/A
+mayas_momma	789	3389	Q1	N/A	N/A	addiction	N/A
+RoseLynn02	789	3390	Q1	N/A	N/A	addiction	N/A
+heygirl91	790	3391	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	790	3392	Health Professional	N/A	N/A	addiction	N/A
+SonarX	791	3393	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	791	3394	Health Professional	N/A	N/A	addiction	N/A
+shellreynolds	791	3395	Q1	N/A	N/A	addiction	N/A
+daviddicristo	791	3396	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	792	3397	WebMd Staff	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	793	3398	WebMd Staff	N/A	N/A	addiction	N/A
+andyjn68	794	3399	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	794	3400	Health Professional	N/A	N/A	addiction	N/A
+An_243577	795	3401	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	795	3402	Health Professional	N/A	N/A	addiction	N/A
+before51	796	3403	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	796	3404	Health Professional	N/A	N/A	addiction	N/A
+mayas_momma	797	3405	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	797	3406	Health Professional	N/A	N/A	addiction	N/A
+mayas_momma	797	3407	Q1	N/A	N/A	addiction	N/A
+An_240941	797	3408	Q1	N/A	N/A	addiction	N/A
+mayas_momma	797	3409	Q1	N/A	N/A	addiction	N/A
+An_240941	797	3410	Q1	N/A	N/A	addiction	N/A
+An_243733	798	3411	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	798	3412	Health Professional	N/A	N/A	addiction	N/A
+ljude38	798	3413	Q1	N/A	N/A	addiction	N/A
+An_243854	799	3414	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	799	3415	WebMd Staff	N/A	N/A	addiction	N/A
+shellreynolds	799	3416	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	799	3417	Health Professional	N/A	N/A	addiction	N/A
+OhioState1234	800	3418	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	800	3419	Health Professional	N/A	N/A	addiction	N/A
+shellreynolds	800	3420	Q1	N/A	N/A	addiction	N/A
+BuffaloBills22	800	3421	Q1	N/A	N/A	addiction	N/A
+BuffaloBills22	800	3422	Q1	N/A	N/A	addiction	N/A
+vayne	801	3423	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	801	3424	Health Professional	N/A	N/A	addiction	N/A
+vayne	801	3425	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	801	3426	WebMd Staff	N/A	N/A	addiction	N/A
+vayne	802	3427	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	802	3428	Health Professional	N/A	N/A	addiction	N/A
+vayne	802	3429	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	802	3430	WebMd Staff	N/A	N/A	addiction	N/A
+hunter0177	803	3431	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	803	3432	Health Professional	N/A	N/A	addiction	N/A
+mary1995	803	3433	Q2	N/A	N/A	addiction	N/A
+2win1	803	3434	Q3	N/A	N/A	addiction	N/A
+wtg4calm	804	3435	Q1	N/A	N/A	addiction	N/A
+JozoFine	804	3436	Q2	N/A	N/A	addiction	N/A
+An_240941	804	3437	Q1	N/A	N/A	addiction	N/A
+wtg4calm	804	3438	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	804	3439	Health Professional	N/A	N/A	addiction	N/A
+An_240941	804	3440	Q1	N/A	N/A	addiction	N/A
+wtg4calm	804	3441	Q1	N/A	N/A	addiction	N/A
+RoseLynn02	804	3442	Q1	N/A	N/A	addiction	N/A
+wtg4calm	806	3443	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	806	3444	Health Professional	N/A	N/A	addiction	N/A
+kathycornflakes	806	3445	Q1	N/A	N/A	addiction	N/A
+wtg4calm	806	3446	Q1	N/A	N/A	addiction	N/A
+kathycornflakes	806	3447	Q1	N/A	N/A	addiction	N/A
+wtg4calm	806	3448	Q1	N/A	N/A	addiction	N/A
+Jessilm	806	3449	Q2	N/A	N/A	addiction	N/A
+Fred1521	806	3450	Q2	N/A	N/A	addiction	N/A
+Fred1521	806	3451	Q2	N/A	N/A	addiction	N/A
+wtg4calm	806	3452	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	806	3453	Health Professional	N/A	N/A	addiction	N/A
+SuziNeedsAClue	806	3454	Q2	N/A	N/A	addiction	N/A
+nellieg915	806	3455	Q2	N/A	N/A	addiction	N/A
+brandy749	806	3456	Q1	N/A	N/A	addiction	N/A
+KDPerry	806	3457	Q2	N/A	N/A	addiction	N/A
+Rxzone	806	3458	Q3	N/A	N/A	addiction	N/A
+Glowie	806	3459	Q2	N/A	N/A	addiction	N/A
+nola_lady	806	3460	Q2	N/A	N/A	addiction	N/A
+An_244264	807	3461	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	807	3462	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	808	3463	WebMd Staff	N/A	N/A	addiction	N/A
+KrazyKat91	809	3464	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	809	3465	Health Professional	N/A	N/A	addiction	N/A
+An_244317	810	3466	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	810	3467	Health Professional	N/A	N/A	addiction	N/A
+ALeibovitz	811	3468	Q2	N/A	N/A	addiction	N/A
+An_240941	811	3469	Q1	N/A	N/A	addiction	N/A
+An_244716	811	3470	Q2	N/A	N/A	addiction	N/A
+mwkitty4	812	3471	Q2	N/A	N/A	addiction	N/A
+kathycornflakes	812	3472	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	812	3473	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	813	3474	WebMd Staff	N/A	N/A	addiction	N/A
+PaBound	814	3475	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	814	3476	WebMd Staff	N/A	N/A	addiction	N/A
+ljude38	814	3477	Q1	N/A	N/A	addiction	N/A
+wisdomboobs	814	3478	Q2	N/A	N/A	addiction	N/A
+PaBound	814	3479	Q1	N/A	N/A	addiction	N/A
+brandy749	814	3480	Q1	N/A	N/A	addiction	N/A
+brandy749	814	3481	Q1	N/A	N/A	addiction	N/A
+PaBound	814	3482	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	815	3483	WebMd Staff	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	816	3484	WebMd Staff	N/A	N/A	addiction	N/A
+vayne	817	3485	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	817	3486	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	817	3487	Health Professional	N/A	N/A	addiction	N/A
+An_240941	817	3488	Q1	N/A	N/A	addiction	N/A
+ljude38	817	3489	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	818	3490	WebMd Staff	N/A	N/A	addiction	N/A
+An_240941	818	3491	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	818	3492	WebMd Staff	N/A	N/A	addiction	N/A
+kenya123	818	3493	Q2	N/A	N/A	addiction	N/A
+Charliee70	818	3494	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	819	3495	WebMd Staff	N/A	N/A	addiction	N/A
+Tippychi	820	3496	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	820	3497	Health Professional	N/A	N/A	addiction	N/A
+An_244967	820	3498	Q2	N/A	N/A	addiction	N/A
+Tippychi	821	3499	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	821	3500	Health Professional	N/A	N/A	addiction	N/A
+An_244967	821	3501	Q2	N/A	N/A	addiction	N/A
+Saza2012	822	3502	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	822	3503	Health Professional	N/A	N/A	addiction	N/A
+shjones99	823	3504	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	823	3505	Health Professional	N/A	N/A	addiction	N/A
+sturner44	824	3506	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	824	3507	WebMd Staff	N/A	N/A	addiction	N/A
+sturner44	825	3508	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	825	3509	WebMd Staff	N/A	N/A	addiction	N/A
+An_244923	826	3510	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	826	3511	Health Professional	N/A	N/A	addiction	N/A
+kait1975	827	3512	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	827	3513	Health Professional	N/A	N/A	addiction	N/A
+ljude38	827	3514	Q1	N/A	N/A	addiction	N/A
+fhernandez08	828	3515	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	828	3516	Health Professional	N/A	N/A	addiction	N/A
+An_245075	829	3517	Q2	N/A	N/A	addiction	N/A
+ljude38	829	3518	Q1	N/A	N/A	addiction	N/A
+latina31	830	3519	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	830	3520	Health Professional	N/A	N/A	addiction	N/A
+LAvi21	831	3521	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterA Thomas McLellan, PhD	831	3522	Health Professional	N/A	N/A	addiction	N/A
+LAvi21	831	3523	Q1	N/A	N/A	addiction	N/A
+An_245179	832	3524	Q2	N/A	N/A	addiction	N/A
+ljude38	832	3525	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	832	3526	Health Professional	N/A	N/A	addiction	N/A
+Fcontrao	833	3527	Q1	N/A	N/A	addiction	N/A
+Fcontrao	833	3528	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	833	3529	Health Professional	N/A	N/A	addiction	N/A
+whattodowhattodo44	834	3530	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	834	3531	Health Professional	N/A	N/A	addiction	N/A
+whattodowhattodo44	835	3532	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	835	3533	Health Professional	N/A	N/A	addiction	N/A
+An_245431	836	3534	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	836	3535	Health Professional	N/A	N/A	addiction	N/A
+Charliee70	836	3536	Q1	N/A	N/A	addiction	N/A
+mackenzierose	837	3537	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	837	3538	Health Professional	N/A	N/A	addiction	N/A
+An_245524	838	3539	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	838	3540	Health Professional	N/A	N/A	addiction	N/A
+TDXSP08	838	3541	Q1	N/A	N/A	addiction	N/A
+jbawife042012	839	3542	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	839	3543	Health Professional	N/A	N/A	addiction	N/A
+Vegas_Rebel	839	3544	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	840	3545	WebMd Staff	0	Other	addiction	http://tinyurl.com/88yqwt6"
+Mertm88	841	3546	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	841	3547	Health Professional	N/A	N/A	addiction	N/A
+Mertm88	841	3548	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	841	3549	Health Professional	N/A	N/A	addiction	N/A
+Mertm88	841	3550	Q1	N/A	N/A	addiction	N/A
+jaws86	842	3551	Q3	N/A	N/A	addiction	N/A
+An_240941	842	3552	Q1	N/A	N/A	addiction	N/A
+Jointcake	843	3553	Q3	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	843	3554	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	843	3555	Health Professional	N/A	N/A	addiction	N/A
+Chris_WebMD_Staff	844	3556	WebMd Staff	N/A	N/A	addiction	N/A
+marley_m8	845	3557	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	845	3558	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	846	3559	WebMd Staff	3	webmd	addiction	www.webmd.com/healthheroes 
+Caprice_WebMD_Staff	847	3560	WebMd Staff	N/A	N/A	addiction	N/A
+TDXSP08	847	3561	Q1	N/A	N/A	addiction	N/A
+mozzergurl	847	3562	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	847	3563	WebMd Staff	N/A	N/A	addiction	N/A
+Dickson10	848	3564	Q2	N/A	N/A	addiction	N/A
+puravida22	848	3565	Q1	N/A	N/A	addiction	N/A
+Charliee70	848	3566	Q1	N/A	N/A	addiction	N/A
+An_246502	849	3567	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	849	3568	Health Professional	N/A	N/A	addiction	N/A
+An_247741	849	3569	Q1	N/A	N/A	addiction	N/A
+lsorrow	849	3570	Q2	N/A	N/A	addiction	N/A
+yankeegrl75	849	3571	Q2	N/A	N/A	addiction	N/A
+An_246517	850	3572	Q3	N/A	N/A	addiction	N/A
+business2319	851	3573	Q1	N/A	N/A	addiction	N/A
+puravida22	851	3574	Q1	N/A	N/A	addiction	N/A
+business2319	851	3575	Q1	N/A	N/A	addiction	N/A
+An_246545	852	3576	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	852	3577	Health Professional	N/A	N/A	addiction	N/A
+An_246545	853	3578	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	853	3579	Health Professional	N/A	N/A	addiction	N/A
+freemeof	854	3580	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	854	3581	Health Professional	N/A	N/A	addiction	N/A
+freemeof	855	3582	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	855	3583	Health Professional	N/A	N/A	addiction	N/A
+OptimusGrime87	856	3584	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	856	3585	Health Professional	N/A	N/A	addiction	N/A
+nalaing	857	3586	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	857	3587	Health Professional	N/A	N/A	addiction	N/A
+RealisticRecovery	857	3588	Q2	N/A	N/A	addiction	N/A
+kathrin	857	3589	Q1	N/A	N/A	addiction	N/A
+kathrin	857	3590	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	857	3591	Health Professional	N/A	N/A	addiction	N/A
+kathrin	857	3592	Q1	N/A	N/A	addiction	N/A
+An_254018	857	3593	Q3	N/A	N/A	addiction	N/A
+emme1024	858	3594	Q2	N/A	N/A	addiction	N/A
+An_247204	858	3595	Q2	N/A	N/A	addiction	N/A
+brandy749	858	3596	Q1	N/A	N/A	addiction	N/A
+CaliKath	859	3597	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	859	3598	Health Professional	N/A	N/A	addiction	N/A
+CaliKath	860	3599	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	860	3600	Health Professional	N/A	N/A	addiction	N/A
+1234Renee	861	3601	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	861	3602	Health Professional	N/A	N/A	addiction	N/A
+An_247741	861	3603	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	861	3604	Health Professional	N/A	N/A	addiction	N/A
+An_247741	861	3605	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	861	3606	Health Professional	N/A	N/A	addiction	N/A
+An_247741	861	3607	Q1	N/A	N/A	addiction	N/A
+Crochunter1991	862	3608	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	862	3609	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	862	3610	Health Professional	N/A	N/A	addiction	N/A
+Crochunter1991	862	3611	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	862	3612	WebMd Staff	N/A	N/A	addiction	N/A
+muskatear	863	3613	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	863	3614	Health Professional	N/A	N/A	addiction	N/A
+tscherm1	864	3615	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	864	3616	Health Professional	N/A	N/A	addiction	N/A
+tomuchnow	865	3617	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	865	3618	Health Professional	N/A	N/A	addiction	N/A
+joanconnorclark	865	3619	Q2	0	org	addiction	http://www.bettyfordinstitute.org/publications/sci-mat/sci-mat-education/adolescent-pot-users-show-lasting-iq-drop.php"
+An_247969	866	3620	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	866	3621	WebMd Staff	N/A	N/A	addiction	N/A
+An_248025	867	3622	Q3	N/A	N/A	addiction	N/A
+Anon_3114	867	3623	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	867	3624	Health Professional	N/A	N/A	addiction	N/A
+burwill	868	3625	Q3	N/A	N/A	addiction	N/A
+brandy749	868	3626	Q1	N/A	N/A	addiction	N/A
+An_248170	869	3627	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	869	3628	Health Professional	N/A	N/A	addiction	N/A
+urbansuburban	870	3629	Q2	N/A	N/A	addiction	N/A
+brandy749	870	3630	Q1	N/A	N/A	addiction	N/A
+babyduc323	871	3631	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	871	3632	WebMd Staff	N/A	N/A	addiction	N/A
+babyduc323	872	3633	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	872	3634	WebMd Staff	N/A	N/A	addiction	N/A
+eyesup	873	3635	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	873	3636	WebMd Staff	N/A	N/A	addiction	N/A
+Betty Ford CenterPeter Przekop, DO, PhD	873	3637	Health Professional	N/A	N/A	addiction	N/A
+MissKitty111	874	3638	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	874	3639	Health Professional	N/A	N/A	addiction	N/A
+An_248466	875	3640	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	875	3641	WebMd Staff	N/A	N/A	addiction	N/A
+Anon_26976	876	3642	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	876	3643	Health Professional	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	877	3644	WebMd Staff	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	878	3645	WebMd Staff	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	879	3646	WebMd Staff	N/A	N/A	addiction	N/A
+Anon_131565	880	3647	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	880	3648	WebMd Staff	N/A	N/A	addiction	N/A
+cogden	880	3649	Q2	N/A	N/A	addiction	N/A
+An_248918	881	3650	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	881	3651	Health Professional	N/A	N/A	addiction	N/A
+ChesireKid	882	3652	Q2	N/A	N/A	addiction	N/A
+ChesireKid	882	3653	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	882	3654	Health Professional	0	org	addiction	http://www.bettyfordinstitute.org/publications/sci-mat-education/adolescent-pot-users-show-lasting-iq-drop.php"
+DarlingNickie	883	3655	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	883	3656	WebMd Staff	N/A	N/A	addiction	N/A
+DarlingNickie	883	3657	Q2	N/A	N/A	addiction	N/A
+An_249012	884	3658	Q2	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	884	3659	WebMd Staff	N/A	N/A	addiction	N/A
+An_249031	885	3660	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	885	3661	Health Professional	N/A	N/A	addiction	N/A
+brandy749	886	3662	Q1	N/A	N/A	addiction	N/A
+Caprice_WebMD_Staff	886	3663	WebMd Staff	N/A	N/A	addiction	N/A
+megly	886	3664	Q3	N/A	N/A	addiction	N/A
+An_249128	887	3665	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	887	3666	Health Professional	N/A	N/A	addiction	N/A
+jmp103079	888	3667	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	888	3668	Health Professional	N/A	N/A	addiction	N/A
+Liviaboo	889	3669	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	889	3670	Health Professional	N/A	N/A	addiction	N/A
+An_249367	890	3671	Q2	N/A	N/A	addiction	N/A
+jtz25	890	3672	Q2	N/A	N/A	addiction	N/A
+jtz25	890	3673	Q2	N/A	N/A	addiction	N/A
+Ommak	890	3674	Q2	N/A	N/A	addiction	N/A
+hiimareeb	890	3675	Q3	N/A	N/A	addiction	N/A
+An_254851	890	3676	Q2	N/A	N/A	addiction	N/A
+An_250153	891	3677	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	891	3678	Health Professional	N/A	N/A	addiction	N/A
+gmh12	891	3679	Q1	N/A	N/A	addiction	N/A
+An_250153	892	3680	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	892	3681	Health Professional	N/A	N/A	addiction	N/A
+gmh12	892	3682	Q1	N/A	N/A	addiction	N/A
+MeltedMindMalt_Extract25	892	3683	Q2	N/A	N/A	addiction	N/A
+An_246502	893	3684	Q2	N/A	N/A	addiction	N/A
+Anon_158160	893	3685	Q1	N/A	N/A	addiction	N/A
+Staystrong4life	894	3686	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	894	3687	Health Professional	N/A	N/A	addiction	N/A
+An_250203	895	3688	Q2	N/A	N/A	addiction	N/A
+Anon_158160	895	3689	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	895	3690	Health Professional	N/A	N/A	addiction	N/A
+An_250203	895	3691	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	895	3692	Health Professional	N/A	N/A	addiction	N/A
+DICKIE007	896	3693	Q2	N/A	N/A	addiction	N/A
+FrankThompson51	897	3694	Q2	0	org	addiction	http://www.change.org/petitions/f-d-a-commissioner-margaret-a-hamburg-require-doctors-to-have-mandatory-training-to-prescribe-painkillers 
+kenya123	897	3695	Q2	N/A	N/A	addiction	N/A
+An_250761	897	3696	Q2	N/A	N/A	addiction	N/A
+KANDIEMEOW	898	3697	Q2	N/A	N/A	addiction	N/A
+mpace1954	898	3698	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	898	3699	Health Professional	N/A	N/A	addiction	N/A
+An_250984	899	3700	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	899	3701	Health Professional	N/A	N/A	addiction	N/A
+An_251015	900	3702	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	900	3703	Health Professional	N/A	N/A	addiction	N/A
+hearts03	901	3704	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	901	3705	Health Professional	N/A	N/A	addiction	N/A
+hearts03	901	3706	Q2	N/A	N/A	addiction	N/A
+Anon_18674	902	3707	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	902	3708	Health Professional	N/A	N/A	addiction	N/A
+Chey170	902	3709	Q3	N/A	N/A	addiction	N/A
+Anon_166768	902	3710	Q2	0	org	addiction	http://www.al-anon.alateen.org/ 
+An_252266	902	3711	Q2	N/A	N/A	addiction	N/A
+An_249031	903	3712	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterPeter Przekop, DO, PhD	903	3713	Health Professional	N/A	N/A	addiction	N/A
+anon109884	904	3714	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	904	3715	Health Professional	N/A	N/A	addiction	N/A
+anon109884	904	3716	Q1	N/A	N/A	addiction	N/A
+An_250153	905	3717	Q1	N/A	N/A	addiction	N/A
+Anon_158160	905	3718	Q1	N/A	N/A	addiction	N/A
+Kefish5	906	3719	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	906	3720	Health Professional	N/A	N/A	addiction	N/A
+Kefish5	906	3721	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterSean Barlow, MD	906	3722	Health Professional	N/A	N/A	addiction	N/A
+An_251275	906	3723	Q2	N/A	N/A	addiction	N/A
+lunaoneluv	907	3724	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	907	3725	Health Professional	N/A	N/A	addiction	N/A
+Katze	908	3726	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	908	3727	Health Professional	N/A	N/A	addiction	N/A
+Katze	908	3728	Q2	N/A	N/A	addiction	N/A
+dopesickalice	908	3729	Q3	N/A	N/A	addiction	N/A
+An_250153	909	3730	Q1	N/A	N/A	addiction	N/A
+Anon_158160	909	3731	Q1	N/A	N/A	addiction	N/A
+jmvdm	910	3732	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	910	3733	Health Professional	N/A	N/A	addiction	N/A
+jmvdm	911	3734	Q1	N/A	N/A	addiction	N/A
+modiggityson	911	3735	Q1	N/A	N/A	addiction	N/A
+Stefanosth	912	3736	Q2	N/A	N/A	addiction	N/A
+Heartsnbellzs39	912	3737	Q2	N/A	N/A	addiction	N/A
+Stefanosth	912	3738	Q2	N/A	N/A	addiction	N/A
+An_251669	913	3739	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	913	3740	Health Professional	N/A	N/A	addiction	N/A
+Anon_166768	914	3741	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	914	3742	Health Professional	N/A	N/A	addiction	N/A
+An_252012	915	3743	Q2	N/A	N/A	addiction	N/A
+HardTimed	915	3744	Q1	N/A	N/A	addiction	N/A
+kysonjensen	916	3745	Q3	N/A	N/A	addiction	N/A
+uberconcerned	916	3746	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	916	3747	Health Professional	N/A	N/A	addiction	N/A
+uberconcerned	917	3748	Q2	N/A	N/A	addiction	N/A
+havnaroughone	918	3749	Q2	N/A	N/A	addiction	N/A
+An_252054	919	3750	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	919	3751	Health Professional	N/A	N/A	addiction	N/A
+Charms102	920	3752	Q3	N/A	N/A	addiction	N/A
+An_252243	921	3753	Q2	N/A	N/A	addiction	N/A
+joanconnorclark	921	3754	Q2	N/A	N/A	addiction	N/A
+HardTimed	921	3755	Q1	N/A	N/A	addiction	N/A
+Wisdom_comes_slowly	921	3756	Q2	N/A	N/A	addiction	N/A
+An_252266	922	3757	Q2	N/A	N/A	addiction	N/A
+Anon_158160	922	3758	Q1	0	org	addiction	http://www.al-anon.alateen.org/"
+modiggityson	923	3759	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	923	3760	Health Professional	N/A	N/A	addiction	N/A
+Charliee70	924	3761	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	924	3762	Health Professional	N/A	N/A	addiction	N/A
+An_250153	925	3763	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	925	3764	Health Professional	N/A	N/A	addiction	N/A
+gmh12	925	3765	Q1	N/A	N/A	addiction	N/A
+nkaplan2113	925	3766	Q1	N/A	N/A	addiction	N/A
+gabzilla123	926	3767	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	926	3768	Health Professional	N/A	N/A	addiction	N/A
+gabzilla123	926	3769	Q2	N/A	N/A	addiction	N/A
+An_252553	927	3770	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJohanna O Flaherty, PhD	927	3771	Health Professional	0	org	addiction	http://www.al-anon.alateen.org/ 
+Betty Ford CenterJohanna O Flaherty, PhD	927	3771	Health Professional	0	org	addiction	http://www.nar-anon.org/naranon/ 
+An_252690	928	3772	Q1	N/A	N/A	addiction	N/A
+An_252690	929	3773	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	929	3774	Health Professional	N/A	N/A	addiction	N/A
+Trav34450	930	3775	Q2	N/A	N/A	addiction	N/A
+Anon_158160	930	3776	Q1	0	Other	addiction	http://drugabuse.com/usa/alcohol-abuse/inverness-fl/"
+An_253074	931	3777	Q2	N/A	N/A	addiction	N/A
+An_253127	932	3778	Q1	N/A	N/A	addiction	N/A
+An_253127	933	3779	Q1	N/A	N/A	addiction	N/A
+An_253436	934	3780	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	934	3781	Health Professional	N/A	N/A	addiction	N/A
+An_253595	935	3782	Q2	N/A	N/A	addiction	N/A
+Anon_158160	935	3783	Q1	N/A	N/A	addiction	N/A
+Harvalina	935	3784	Q3	N/A	N/A	addiction	N/A
+Anon_158160	935	3785	Q1	N/A	N/A	addiction	N/A
+An_253673	936	3786	Q3	N/A	N/A	addiction	N/A
+Anon_158160	936	3787	Q1	N/A	N/A	addiction	N/A
+An_254060	937	3788	Q2	N/A	N/A	addiction	N/A
+travytrav	938	3789	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	938	3790	Health Professional	N/A	N/A	addiction	N/A
+ingeneer	939	3791	Q3	N/A	N/A	addiction	N/A
+navalnau1993	940	3792	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	940	3793	Health Professional	N/A	N/A	addiction	N/A
+robin95	941	3794	Q3	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	941	3795	Health Professional	N/A	N/A	addiction	N/A
+Anon_62289	942	3796	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterJames Golden, MD	942	3797	Health Professional	N/A	N/A	addiction	N/A
+kmiller2130	943	3798	Q3	N/A	N/A	addiction	N/A
+Anon_158160	943	3799	Q1	N/A	N/A	addiction	N/A
+An_254642	944	3800	Q1	N/A	N/A	addiction	N/A
+Betty Ford CenterAnthony Tornay, MD	944	3801	Health Professional	N/A	N/A	addiction	N/A
+An_254642	945	3802	Q1	N/A	N/A	addiction	N/A
+duyou	946	3803	Q2	N/A	N/A	addiction	N/A
+Anon_158160	946	3804	Q1	N/A	N/A	addiction	N/A
+An_254863	947	3805	Q2	N/A	N/A	addiction	N/A
+Betty Ford CenterHarry L Haroutunian, MD	947	3806	Health Professional	N/A	N/A	addiction	N/A
+sheila1028	948	3807	Q3	N/A	N/A	addiction	N/A
